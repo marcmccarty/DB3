@@ -1,2 +1,4 @@
 *.sshsshKey
 *.sshsshKey.pub
+sshKey
+sshKey.pub
