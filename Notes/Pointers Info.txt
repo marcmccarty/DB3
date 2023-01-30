@@ -1,0 +1,30 @@
+C4BC ROM
+84AC RAM
+
+8AF8 Bandit
+8B07 Ox
+8B00 Lycant
+
+
+Subtract 4010 to get pointer
+CB08 <-- Bandit ROM location
+8AF8 <-- after subtracting 4010
+Swap bytes
+F88A <-- pointer
+
+
+
+768D for "dealt critical hit"?
+
+18FE (presumed "no" char and then new line)
+0x424C5
+
+
+
+
+9DF5 first item (?) in item list
+9ED4 loads B7 (dakuten mark) for Dragon Radar
+9EDF loads D3 (DO katakana)
+9EE1 stores it at $0218 to be written to PPU$218C
+
+9DE3 in RAM first item pointer? (F59D)

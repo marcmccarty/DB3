@@ -1,0 +1,143 @@
+EXP Table
+Level 1
+	Total XP: 0
+	Previous: N/A
+
+Level 2
+	Total XP: 16
+	Previous: +16
+
+Level 3
+	Total XP: 32
+	Previous: +16
+
+Level 4
+	Total XP: 48
+	Previous: +16
+
+Level 5
+	Total XP: 72
+	Previous: +16
+
+Level 6
+	Total XP: 104
+	Previous: +32
+
+Level 7
+	Total XP: 136
+	Previous: +32
+
+Level 8
+	Total XP: 184
+	Previous: +48
+
+Level 9
+	Total XP: 232
+	Previous: +48
+
+Level 10
+	Total XP: 280
+	Previous: +48
+
+Level 11
+	Total XP: 360
+	Previous: +80
+
+Level 12
+	Total XP: 416
+	Previous: +56
+
+Level 13
+	Total XP: 520
+	Previous: +104
+
+Level 14
+	Total XP: 648
+	Previous: +128
+
+Level 15
+	Total XP: 972
+	Previous: +324
+
+Level 16
+	Total XP: 1,458
+	Previous: +486
+
+Level 17
+	Total XP: 2,187
+	Previous: +729
+
+Level 18
+	Total XP: 3,280
+	Previous: +1,093
+
+Level 19
+	Total XP: 4,920
+	Previous: +1,640
+
+Level 20
+	Total XP: 7,380
+	Previous: +2,460
+
+Level 21
+	Total XP: 11,070
+	Previous: +3,690
+
+Level 22
+	Total XP: 16,605
+	Previous: +5,535
+
+Level 23
+	Total XP: 24,900
+	Previous: +8,295
+
+Level 24
+	Total XP: 37,350
+	Previous: +12,450
+
+Level 25
+	Total XP: 56,025
+	Previous: +18,675
+
+Level 26
+	Total XP: 84,000
+	Previous: +27,975
+
+Level 27
+	Total XP: 126,000
+	Previous: +42,000
+
+Level 28
+	Total XP: 189,000
+	Previous: +63,000
+
+Level 29
+	Total XP: 283,500
+	Previous: +94,500
+
+Level 30
+	Total XP: 425,250
+	Previous: +141,750
+
+Level 31
+	Total XP: 640,000
+	Previous: +214,750
+	Note:
+		Capped at 30 and 639,999 XP until beating Tenshinhan in the 23rd
+
+Level 32
+	Total XP: 640,000
+	Previous: N/A
+	Note:
+		Capped at 31 until beating Majunior
+
+Note:
+Max Level is 32, though the game can display up to 99.
+Max XP is 640,000, though the game can display up to 999,999.
+
+Location:
+0x1DF06-0x1DF08 (0 XP) -- Minimum XP
+0x1DF09 -> 0x1DF65 (Level 2 XP starting byte through Level 32 ending byte)
+0x1DF66-0x1DF68 (9,999,999 XP) -- Maximum XP Threshold
+
+3 Bytes per level XP requirement

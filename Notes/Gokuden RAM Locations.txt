@@ -1,0 +1,46 @@
+Gokuden RAM Locations.txt
+
+042D-0436
+042D: Card #1 Attack
+042E: Card #1 Type+Def (left # == card type, right # == card defense)
+042F: Card #2 Attack
+0430: Card #2 Type+Def (left # == card type, right # == card defense)
+0431: Card #3 Attack
+0432: Card #3 Type+Def (left # == card type, right # == card defense)
+0433: Card #4 Attack
+0434: Card #4 Type+Def (left # == card type, right # == card defense)
+0435: Card #5 Attack
+0436: Card #5 Type+Def (left # == card type, right # == card defense)
+
+Card Example:
+Card 1 at Bytes 0x042D and 0x042E
+042D value of #06 means card's attack is 7 (0-indexed where 0 is 1 star, 6 is 7 stars)
+042E value of #36 means card's type is 3 (technique) and card's defense is 7 (6 -> 7 stars like attack)
+
+Card 2 at Bytes 0x042F and 0x0430
+042F value of #02 means 3 attack
+0430 value of #12 means 3 defense with type 1 (kick)
+
+0421 Enemy XP Granted (low byte)
+0422 Enemy XP Granted (high byte)
+
+0423 Enemy Card ATK
+0424 Enemy Card Type+DEF
+
+Enemy
+	- 0329: Enemy Type/ID (Lycant/Bandit/Ox/Krillin/etc.) 
+		- determines name + picture
+	- 038E: Speed
+	- 038F: Power
+	- 0390: Technique 
+	- 0391: Defense
+	- 03A1: Current HP
+
+041F Goku Max HP
+032C Play as this Character ID (set to #46 for Arale, for instance)
+	- Incomplete: Only works in battle. 
+	- Need to figure out character portrait and out-of-battle name references.
+
+================================================================================
+Guesses:
+

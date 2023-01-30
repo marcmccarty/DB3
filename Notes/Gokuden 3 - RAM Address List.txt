@@ -1,0 +1,36 @@
+0329 Current|Enemy
+038E Enemy|Speed
+038F Enemy|Power
+0390 Enemy|Technique 
+0391 Enemy|Defense
+03A1 Enemy|HP
+0421 XP|Gained|Low
+0422 XP|Gained|High
+0400 Current|Level
+0407 Current|XP|B1
+0408 Current|XP|B2
+0409 Current|XP|B3
+038A Damage|Dealt
+0401 Speed
+0402 Power
+0403 Technique
+0404 Defense
+0405 Current|HP
+0406 Current|Ki
+042D Card|1|ATK
+042E Card|1|Type_DEF
+041F Goku|Max|HP
+0322 Current|Card|#
+042F Card|2|ATK
+0430 Card|2|Type_DEF
+0431 Card|3|ATK
+0432 Card|3|Type_DEF
+0433 Card|4|ATK
+0434 Card|4|Type_DEF
+0435 Card|5|ATK
+0436 Card|5|Type_DEF
+| |
+| |
+| |
+
+//(Open with Memory Watch on FCEUX)

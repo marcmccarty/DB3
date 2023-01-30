@@ -1,0 +1,605 @@
+Gokuden 3 - Enemy Stats & XP Table
+
+King Piccolo (ID: 03)
+	- HP: 184
+	- XP: 1800
+	- Speed: +50
+	- Power: +50
+	- Technique: +50
+	- Defense: +50
+
+Piccolo Jr. (ID: 04)
+	- HP: 200
+	- XP: ??? (Seems like he'll give you a direct level up)
+	- Speed: +4
+	- Power: +4
+	- Technique: +4
+	- Defense: +4
+
+Fake Goku (ID: 05)
+	- Goku's Stats
+	- XP: 800
+
+Raditz (ID: 06)
+	- HP: 255
+	- XP: 0
+	- Speed: +10
+	- Power: +10
+	- Technique: +10
+	- Defense: +10
+
+Tenshinhan (23rd TB) (ID: 07)
+	- HP: 120
+	- XP: ??? (Seems like he'll give you a direct level up)
+	- Same stats as Goku
+
+Tenshinhan (22nd TB) (ID: 08)
+	- HP: 120
+	- XP: 500
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Jackie Chun (ID: 09)
+	- HP: 80
+	- XP: ??? (Seems like he'll give you a direct level up)
+	- Same stats as Goku
+
+Krillin (ID: 0A)
+	- HP: 30
+	- XP: 12
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Krillin (ID: 0B)
+	- HP: 72
+	- XP: 13
+	- Speed: 1
+	- Power: 1
+	- Technique: 1
+	- Defense: 1
+
+Krillin (ID: 0C)
+	- HP: 40
+	- XP: 20
+	- Same stats as Goku
+
+Krillin (23rd TB) (ID: 0D)
+	- HP: 80
+	- XP: 285
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Yamcha (Bandit) (ID: 0E)
+	- HP: 40
+	- XP: 15
+	- Speed: -3
+	- Power: -5
+	- Technique: -4
+	- Defense: -4
+
+Yamcha (Bandit) (ID: 0F)
+	- HP: 64
+	- XP: 15
+	- Speed: 1
+	- Power: 1
+	- Technique: 1
+	- Defense: 1
+
+Yamcha (ID: 10)
+	- HP: 46
+	- XP: 18
+	- Same stats as Goku
+
+Yamcha (23rd TB) (ID: 11)
+	- HP: 76
+	- XP: 300
+	- Same stats as Goku
+
+Grandpa Gohan (ID: 12)
+	- HP: 90
+	- XP: 25
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Tao (ID: 13)
+	- HP: 96
+	- XP: 50
+	- Same stats as Goku
+
+Tao (Cyborg, 23rd TB) (ID: 14)
+	- HP: 60
+	- XP: 256
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Harp (ID: 15)
+	- HP: 44
+	- XP: 27
+	- Speed: 15
+	- Power: 15
+	- Technique: 15
+	- Defense: 15
+
+Tambourine (ID: 16)
+	- HP: 80
+	- XP: 45
+	- Speed: 20
+	- Power: 20
+	- Technique: 20
+	- Defense: 20
+
+Mandolin (ID: 17)
+	- HP: 100
+	- XP: 58
+	- Speed: 25
+	- Power: 25
+	- Technique: 25
+	- Defense: 25
+
+Bell (ID: 18)
+	- HP: 80
+	- XP: 21
+	- Speed: 8
+	- Power: 25
+	- Technique: 8
+	- Defense: 9
+
+Cymbal (ID: 19)
+	- HP: 80
+	- XP: 40
+	- Speed: 16
+	- Power: 25
+	- Technique: 15
+	- Defense: 17
+
+Marimba (ID: 1A)
+	- HP: 110
+	- XP: 60
+	- Speed: 16
+	- Power: 30
+	- Technique: 15
+	- Defense: 20
+
+Viola (ID: 1B)
+	- HP: 60
+	- XP: 24
+	- Speed: 23
+	- Power: 17
+	- Technique: 18
+	- Defense: 15
+
+Conga (ID: 1D)
+	- HP: 120
+	- XP: 180
+	- Speed: 33
+	- Power: 22
+	- Technique: 25
+	- Defense: 25
+
+Devil (ID: 1E)
+	- HP: 48
+	- XP: 13
+	- Speed: 12
+	- Power: 7
+	- Technique: 7
+	- Defense: 8
+
+Spike (ID: 1F)
+	- HP: 50
+	- XP: 13
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Satan (ID: 20)
+	- HP: 60
+	- XP: 26
+	- Speed: 20
+	- Power: 15
+	- Technique: 18
+	- Defense: 10
+
+Wraps (ID: 21)
+	- HP: 40
+	- XP: 9
+	- Speed: 10
+	- Power: 9
+	- Technique: 8
+	- Defense: 7
+
+Bandages (ID: 22)
+	- HP: 50
+	- XP: 15
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Mummy (ID: 23)
+	- HP: 80
+	- XP: 23
+	- Speed: 18
+	- Power: 12
+	- Technique: 12
+	- Defense: 12
+
+Blue (ID: 24)
+	- HP: 64
+	- XP: 22
+	- Same stats as Goku
+
+Buyon (ID: 25)
+	- HP: 72
+	- XP: 15
+	- Speed: 8
+	- Power: 12
+	- Technique: 6
+	- Defense: 20
+
+Gakin (ID: 26)
+	- HP: 100
+	- XP: 28
+	- Speed: 10
+	- Power: 14
+	- Technique: 10
+	- Defense: 30
+
+Battle Jacket (ID: 27)
+	- HP: 70
+	- XP: 35
+	- Speed: 14
+	- Power: 16
+	- Technique: 14
+	- Defense: 20
+
+Pilaf Mech (ID: 28)
+	- HP: 60
+	- XP: 20
+	- Speed: 20
+	- Power: 20
+	- Technique: 19
+	- Defense: 25
+
+Mecha Devil (ID: 29)
+	- HP: 110
+	- XP: 25
+	- Speed: 24
+	- Power: 28
+	- Technique: 25
+	- Defense: 30
+
+Genin (ID: 2A)
+	- HP: 24
+	- XP: 7
+	- Speed: 7
+	- Power: 4
+	- Technique: 7
+	- Defense: 5
+
+Murasaki (ID: 2B)
+	- HP: 56
+	- XP: 20
+	- Speed: 14
+	- Power: 8
+	- Technique: 14
+	- Defense: 10
+
+Jounin (ID: 2C)
+	- HP: 72
+	- XP: 11
+	- Speed: 28
+	- Power: 10
+	- Technique: 25
+	- Defense: 12
+
+Arnold (ID: 2D)
+	- HP: 36
+	- XP: 10
+	- Speed: 5
+	- Power: 16
+	- Technique: 5
+	- Defense: 6
+
+Metallic (ID: 2E)
+	- HP: 64
+	- XP: 24
+	- Speed: 9
+	- Power: 16
+	- Technique: 10
+	- Defense: 12
+
+Cyborg (ID: 2F)
+	- HP: 96
+	- XP: 28
+	- Speed: 13
+	- Power: 20
+	- Technique: 14
+	- Defense: 15
+
+Patrol Robot (ID: 30)
+	- HP: 24
+	- XP: 9
+	- Speed: 15
+	- Power: 9
+	- Technique: 7
+	- Defense: 6
+
+Pirate Robot (ID: 31)
+	- HP: 32
+	- XP: 15
+	- Speed: 8
+	- Power: 11
+	- Technique: 13
+	- Defense: 6
+
+Giran (ID: 32)
+	- HP: 40
+	- XP: 12
+	- Speed: 7
+	- Power: 12
+	- Technique: 7
+	- Defense: 10
+
+King Giran (ID: 33)
+	- HP: 64
+	- XP: 18
+	- Speed: 12
+	- Power: 17
+	- Technique: 12
+	- Defense: 15
+
+Poison Giran (ID: 34)
+	- HP: 120
+	- XP: 30
+	- Speed: 20
+	- Power: 25
+	- Technique: 20
+	- Defense: 24
+
+Red Ribbon Army (Yellow?) (ID: 35)
+	- HP: 20
+	- XP: 5
+	- Speed: 8
+	- Power: 10
+	- Technique: 8
+	- Defense: 10
+
+Red Ribbon Army (Bazooka) (ID: 36)
+	- HP: 20
+	- XP: 6
+	- Speed: 6
+	- Power: 12
+	- Technique: 8
+	- Defense: 10
+
+Red Ribbon Army (AirCar) (ID: 37)
+	- HP: 24
+	- XP: 8
+	- Speed: 12
+	- Power: 10
+	- Technique: 12
+	- Defense: 10
+
+Red Ribbon Army (Fighter Jet) (ID: 38)
+	- HP: 24
+	- XP: 7
+	- Speed: 11
+	- Power: 8
+	- Technique: 8
+	- Defense: 8
+
+Red Ribbon Army (Foot Soldier) (ID: 39)
+	- HP: 20
+	- XP: 4
+	- Speed: 8
+	- Power: 8
+	- Technique: 8
+	- Defense: 10
+
+Red Ribbon Army (Foot Soldier #2) (ID: 3A)
+	- HP: 20
+	- XP: 3
+	- Speed: 11
+	- Power: 8
+	- Technique: 8
+	- Defense: 8
+
+Lycant (ID: 3B)
+	- HP: 8
+	- XP: 2
+	- Speed: 2
+	- Power: 4
+	- Technique: 2
+	- Defense: 3
+
+Bandit (ID: 3C)
+	- HP: 12
+	- XP: 3
+	- Speed: 3
+	- Power: 6
+	- Technique: 4
+	- Defense: 5
+
+Boss Bandit (ID: 3D)
+	- HP: 32
+	- XP: 10
+	- Same stats as Goku
+
+Zombie Lycant (ID: 3E)
+	- HP: 160
+	- XP: 60
+	- Speed: 13
+	- Power: 13
+	- Technique: 13
+	- Defense: 13
+
+Ox (ID: 3F)
+	- HP: 15
+	- XP: 4
+	- Speed: 4
+	- Power: 7
+	- Technique: 4
+	- Defense: 4
+
+Bull (ID: 40)
+	- HP: 20
+	- XP: 6
+	- Speed: 8
+	- Power: 10
+	- Technique: 5
+	- Defense: 5
+
+(2 Bulls?) (ID: 41)
+	- HP: (255?)
+	- XP: 12
+	- Speed: 8
+	- Power: 10
+	- Technique: 5
+	- Defense: 5
+
+Rabbit Gang A (Pistol) (ID: 42)
+	- HP: 16
+	- XP: 4
+	- Speed: 5
+	- Power: 5
+	- Technique: 5
+	- Defense: 5
+
+Rabbit Gang B (Machine Gun) (ID: 43)
+	- HP: 16
+	- XP: 4
+	- Speed: 5
+	- Power: 5
+	- Technique: 5
+	- Defense: 5
+
+Chaozu (ID: 44)
+	- HP: 40
+	- XP: 18
+	- Speed: -4
+	- Power: -4
+	- Technique: -4
+	- Defense: -4
+
+Yajirobe (ID: 45)
+	- HP: 62
+	- XP: 38
+	- Same stats as Goku
+
+Arale (ID: 46)
+	- HP: 255
+	- XP: 0 (10 if hacked in)
+	- Speed: +10
+	- Power: +10
+	- Technique: +10
+	- Defense: +10
+
+!!!!!!!!!!!!!!!!!!!!!!Glitched Characters (Probably Event)!!!!!!!!!!!!!!!!!!!!!!
+
+	[GLITCHED!] Grandpa Gohan (ID: 47)
+		- HP: 216
+		- XP: ??? (Battling him causes a freeze)
+		- Speed: +10
+		- Power: +10
+		- Technique: +10
+		- Defense: +10
+
+	[GLITCHED!] Bulma (ID: 48)
+		- HP: 160
+		- XP: ???
+		- Speed: ???
+		- Power: ???
+		- Technique: ???
+		- Defense: ???
+
+	[GLITCHED!] Korin (ID: 49)
+		- HP: 238
+		- XP: __
+		- Speed: ???
+		- Power: ???
+		- Technique: ???
+		- Defense: ???
+
+	[GLITCHED!] Kami (ID: 4A)
+		- HP: 192
+		- XP: __
+		- Speed: +3
+		- Power: +3
+		- Technique: +3
+		- Defense: +3
+
+	[GLITCHED!] Puar (ID: 4B)
+		- HP: 128
+		- XP: __
+		- Speed: 89
+		- Power: 193
+		- Technique: 0
+		- Defense: 128
+
+	[GLITCHED!] Gacchan (ID: 4C)
+		- HP: 17
+		- XP: __
+		- Speed: ???
+		- Power: ???
+		- Technique: ???
+		- Defense: ???
+
+	[GLITCHED!] Roshi (ID: 4D)
+		- HP: 81
+		- XP: __
+		- Speed: ???
+		- Power: ???
+		- Technique: ???
+		- Defense: ???
+
+	[GLITCHED!] Mr. Popo (ID: 4E)
+		- HP: 176
+		- XP: __
+		- Speed: +25
+		- Power: +25
+		- Technique: +25
+		- Defense: +25
+
+	[GLITCHED!] Baba (ID: 4F)
+		- HP: 255
+		- XP: __
+		- Speed: 1
+		- Power: 1
+		- Technique: 1
+		- Defense: 1
+
+	[GLITCHED!] Obocchaman (ID: 50)
+		- HP: 64
+		- XP: __
+		- Speed: +32
+		- Power: +32
+		- Technique: +32
+		- Defense: +32
+
+	[GLITCHED!] Oolong (ID: 51)
+		- HP: 65
+		- XP: __
+		- Speed: 23
+		- Power: 22
+		- Technique: 24
+		- Defense: 20
+
+Name (ID: ##)
+	- HP: __
+	- XP: __
+	- Speed: __
+	- Power: __
+	- Technique: __
+	- Defense: __
+

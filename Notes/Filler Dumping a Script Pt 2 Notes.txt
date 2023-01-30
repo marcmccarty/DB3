@@ -1,0 +1,21 @@
+Gokuden has 24 character spaces per line and 3 lines per dialogue box.
+Technically 6 lines per box if I can harness the dakuten/handakuten lines.
+
+2E=ぁ
+2F=ぃ
+30=ぅ
+31=ぇ
+32=ぉ
+33=っ
+34=ゃ
+35=ゅ
+36=ょ
+37=゛
+38=゜
+39=ー
+3A=‥
+3B=？
+3C=！
+3D=０
+3E=。
+3F=・

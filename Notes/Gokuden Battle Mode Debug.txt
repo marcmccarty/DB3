@@ -1,0 +1,2 @@
+Battle Mode Debug
+Enter the Game Genie code NNNYEYAE to enable a battle-mode debug test. Press B on the first controller, then press Reset to enter instant battle mode. During this battle mode, hold A on the first controller, then press Up to select your opponent. Also, holding A, then pressing Down, does something, but it is currently unknown what it does. Hold Up or Down at the end of a move to instantly kill you or your enemy.

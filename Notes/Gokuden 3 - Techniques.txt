@@ -1,0 +1,37 @@
+ジャンけん[END]
+Janken
+
+カメハメは[END]
+Kamehameha
+
+まがるカメハメは[END]
+Bend Kamehameha
+
+おおきなカメハメは[END]
+Giant Kamehameha
+
+ざんぞうけん[END]
+Afterimage
+
+にじゅうざんぞうけんたじゅうざんぞうけんぎゃくカメハメは[END]
+2x Afterimage
+Multi Afterimage
+Reverse Kamehameha
+
+しょうげきは[END]
+Shockwave
+
+ちょうカメハメは[END]
+Super Kamehameha
+
+あしカメハメは[END]
+Feet Kamehameha
+
+たいようけん[END]
+Solar Flare
+
+きえるこうげき[END]
+Vanishing Attack
+
+ろうがふうふうけん[END]
+Wolf Fang Fist

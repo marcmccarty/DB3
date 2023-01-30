@@ -1,0 +1,20 @@
+Stats
+
+Starting Stats:
+Speed - 3
+Power - 3
+Technique - 1
+Toughness - 3
+
+5 stat points gained per level
+
+155 total points to distribute if level 32 is reached.
+
+Max possible for 1 stat:
+158 (+155 points)
+
+"Balanced" Build:
+Speed - 42
+Power - 42
+Technique - 39
+Toughness - 42

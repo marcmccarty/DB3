@@ -1,0 +1,24 @@
+Plot Pointer Table
+
+$04C864 -> B9 1E
+Pointer for text box #2
+
+which occurs at:
+$04DEC9 --> DEC9
+
+
+$04C862 -> 92 1E
+Pointer for text box #1
+
+
+First pointer (?)
+$04C6E4+$04C6E5
+(0611 -> $04D116)
+Subtract C010 and then swap bytes
+
+Last pointer (?)
+$04D114+$04D115
+
+
+
+B7 AC replace 1st pointer

@@ -1,0 +1,50 @@
+5C010 Shiraberu
+5C017 Hanasu
+5C01E Toru
+5C025 Tsukau
+5C02C Tatakau
+...
+5C3F2 Omoidougi
+5C3F9 Takaramono
+5C400 Jiichan
+
+Monkey Moore Relative Scan:
+A*H*O*V*c*j*
+
+Pointer Sub:
+1DDA
+
+2E 9A Pointer value (not switched) for しらべる (Investigate/Look)
+ - at 0x552C4
+
+Base Pointer (?): $525E2
+
+Beginning of Data that Pointer table points to starts at?: 0x5BE06 
+(using Pointer at 0x551FC of #24#98 --> 9824, 9824+525E2 = 5BE06)
+
+Beginning of Adventure Choices Commands within Pointer table starts at: 0x552C4
+(Pointer 2E 9A -> 9A2E+525E2 = 5C010)
+
+Pointer table appears to end at 0x55834 with last pointer using 0x55832+0x55833
+
+Pointer Table Pointers (unswitched):
+2E9A = しらべる
+359A = はなす
+439A = つかう
+
+469A = [END] (after つかう)
+499A = [END] (after 3 other [END] starting at 469A pointer)
+4C9A = かう (mid-たたかう starting at what would be 4A9A)
+509A = [END] (after 2 other [END] after たたかう, but right before いどう)
+539A = う (of いどう)
+569A = [END] (3/4 after いどう)
+5C9A = る (of でる)
+
+5F9A = すすむ
+
+ARE THERE POINTERS AT ALL?
+All entries are 7 bytes, and 7 bytes are read at the expected location no matter what.
+Finding the code that acts as the pointers is probably pointless (no pun intended).
+The reason is that the adventure choices/commands can only fit 7 characters with the arrow anyway.
+So I'll probably have to come up with <=7 character names for all adventure commands. Damn.
+I could maybe write in the dakuten line if I knew how to overcome both how to write there and how to surpass the 7 character limit.

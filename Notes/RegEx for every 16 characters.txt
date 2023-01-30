@@ -1,0 +1,7 @@
+RegEx for replace every 16 characters with those and a newline
+
+Find:
+[^.*]{16}
+
+Replace (include newline):
+$0

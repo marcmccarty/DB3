@@ -1,0 +1,50 @@
+Text
+================================================================================
+
+Some Stat Screen stuff:
+0x02E00-0x031C0
+
+Techniques:
+0x01BB6-0x01C29
+ -	Janken through Rougafuufuuken
+
+
+Items (Characters):
+0x01CB0-0x01D14
+ - Bulma through Uranai Baba
+
+
+Characters:
+0x0C9D3-0x0CB73
+ -	Goku through Oolong
+
+
+Definitely Story + Other Stuff:
+0x4D116-0x551FB
+
+
+Adventure Commands, I think:
+0x5C010-0x5C405
+ - Investigate through Grandpa (しらべる through じいちゃん)
+
+
+Likely Junk (occurs at very end of file):
+0x5FFE1-0x60000
+ - Could be junk, but it talks about the bansho fan (bashousen)
+ - [END]そ　それに　ばしょうせんんじゃねえべか！　たのむ！[BRK]そのばしょうせんで　あのやまのひを[BRK]けすてく
+
+ - Replicated here, so likely junk:
+   - //POINTER #492 @ $4CABC - STRING #492 @ $4FCFE
+	 #W16($4CABC)
+	 ぎゅうまおう「かめせんにん！？[BRK]
+	 む　むてんろうしさまだっ！　そ　それに[BRK]
+	 ばしょうせんじゃねえべか！[END]
+
+	 //POINTER #493 @ $4CABE - STRING #493 @ $4FD30
+	 #W16($4CABE)
+	 た　たのむ！　そのばしょうせんで　あのやまのひを[BRK]
+	 けすてくれねいべか？」[END]
+
+NON-TEXT:
+Graphics:
+0x1FC10-0x4880F
