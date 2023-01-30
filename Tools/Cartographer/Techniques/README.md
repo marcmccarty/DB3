@@ -16,6 +16,7 @@ Krillin and Yamcha's techniques from when you control them are also here.
     - `Cartographer.exe`
     - `db3_jpn.nes` *(Japanese Dragon Ball 3 - Gokuuden file)*
 2. Run `db3_techniques.bat`
+3. Examine `db3_techniques_script.txt`
 
 ## ROM Info:
 
