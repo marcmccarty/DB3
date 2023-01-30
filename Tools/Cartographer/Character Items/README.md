@@ -16,6 +16,7 @@ It contains the characters within the `Menu > Cards > Friends` you'll use during
 2. Run `db3_character_items.bat`
 3. Examine `db3_character_items_script.txt`
 
+
 ## ROM Info:
 
 **Original Name:** `Dragon Ball 3 - Gokuu Den (J) [!].nes`
