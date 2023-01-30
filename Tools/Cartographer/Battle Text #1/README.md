@@ -7,6 +7,8 @@
 
 It contains the text you'll see during battles and in some training events.
 
+See more: [Battle Text #2](../Battle%20Text%20%232)
+
 
 ## How to Use:
 
