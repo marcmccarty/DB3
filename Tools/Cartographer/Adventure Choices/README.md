@@ -24,6 +24,7 @@ This also includes the places you'll go to and the people you'll talk to.
 2. Run `db3_adventure_choices.bat`
 3. Examine `db3_adventure_choices_script.txt`
 
+
 ## ROM Info:
 
 **Original Name:** `Dragon Ball 3 - Gokuu Den (J) [!].nes`
@@ -39,6 +40,7 @@ MD5: 4970D1C08CD6276FF01AB320225D82B9
 SHA-1: 3394F33A1CD80553395536EBCA759E3ECAA5FE05
 SHA-256: 7D05F45311B3A10EB654B3AFA1440213AADC291B143724A2ACF5F7DE46C4A6C1
 ```
+
 
 ## Additional Notes:
 
