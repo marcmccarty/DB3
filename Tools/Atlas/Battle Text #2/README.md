@@ -15,7 +15,7 @@ See more: [Battle Text #1](../Battle%20Text%20%231)
 1. Place these files in the directory:
     - `Atlas.exe`
     - `db3_eng.nes` *(Dragon Ball 3 - Gokuuden file that ideally has an English character set represented in the tiles and the table)*
-2. Run `db3_eng_battle_2.bat`
+2. Run [`db3_eng_battle_2.bat`](./db3_eng_battle_2.bat)
 3. Check the command prompt/terminal and ensure there were no failures.
     - Alternatively, check the `debug.log`
 4. Use a hex editor that supports tables (FCEUX, WindHex, etc.) and ensure that the text didn't write past where it was supposed to.
