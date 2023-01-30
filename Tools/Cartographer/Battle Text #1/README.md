@@ -40,4 +40,4 @@ SHA-256: 7D05F45311B3A10EB654B3AFA1440213AADC291B143724A2ACF5F7DE46C4A6C1
 
 The `_[TRANSLATED].txt` file had minor alterations to work better with Atlas.
 
- - See: [DB3/Tools/Atlas/Battle Text #1/db3_eng_battle.txt](../Atlas/Battle%20Text%20%231/db3_eng_battle.txt)
+ - See: [DB3/Tools/Atlas/Battle Text #1/db3_eng_battle.txt](../../Atlas/Battle%20Text%20%231/db3_eng_battle.txt)
