@@ -1,0 +1,478 @@
+//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
+
+//BLOCK #000 NAME:		Adventure Choices
+//Block Range: $5C010 - $5C407
+
+//しらべる[END][END][END]
+Search[END]
+
+//はなす[END][END][END][END]
+Talk[END][END][END]
+
+//とる[END][END][END][END][END]
+Take[END][END][END]
+
+//つかう[END][END][END][END]
+Use[END][END][END][END]
+
+//たたかう[END][END][END]
+Battle[END]
+
+//いどう[END][END][END][END]
+Move[END][END][END]
+
+//でる[END][END][END][END][END]
+Exit[END][END][END]
+
+//すすむ[END][END][END][END]
+Forward
+
+//もどる[END][END][END][END]
+Back[END][END][END]
+
+//ついせき[END][END][END]
+Chase[END][END]
+
+//おりる[END][END][END][END]
+Descend
+
+//うしろをむく[END]
+Face [DOWN][END]
+
+//みぎをむく[END][END]
+Face [RIGHT][END]
+
+//ひだりをむく[END]
+Face [LEFT][END]
+
+//ひがしへいく[END]
+East[END][END][END]
+
+//にしへいく[END][END]
+West[END][END][END]
+
+//みなみへいく[END]
+South[END][END]
+
+//きたへいく[END][END]
+North[END][END]
+
+//いりぐちみぎ[END]
+(Right Entrance 
+	--> need to see in game so I can do like [RIGHT] Door/Gate/whatever it is that fits)
+Door [RIGHT][END] // Example
+
+//いりぐちひだり
+Door [LEFT][END]
+
+//パンティさがし
+// [SEARCH] will be a magnifying glass icon
+// Or [PANTIES] icon
+[SEARCH][PANTIES][END][END][END][END][END]
+
+//ギャルさがし[END]
+// [SEARCH] will be a magnifying glass icon
+Hottie[SEARCH]
+
+//６かい[END][END][END][END]
+6[th] [Floor]
+
+//ブルマ[END][END][END][END]
+Bulma[END][END]
+
+//ウーロン[END][END][END]
+Oolong[END]
+
+//ウミガメ[END][END][END]
+Turtle[END]
+
+//ようかい[END][END][END]
+Yokai[END][END]
+
+//オンナのコ[END][END]
+Girl[END][END][END]
+
+//むらびと[END][END][END]
+Vi[ll]ager
+
+//さんぞく[END][END][END]
+Bandit[END]
+
+//みはり[END][END][END][END]
+Guard[END][END]
+
+//ボス[END][END][END][END][END]
+Boss[END][END][END]
+
+//オトコ[END][END][END][END]
+Man[END][END][END][END]
+
+//ネコ[END][END][END][END][END]
+Cat[END][END][END][END]
+
+//ヤムチャ[END][END][END]
+Yamcha[END]
+
+//プーアル[END][END][END]
+Puar[END][END][END]
+
+//ひと[END][END][END][END][END]
+// Could be People
+Person[END]
+
+//つうこうにん[END]
+// Passerby doesn't fit, but depending on context, other words could work
+Civi[li]an
+
+//ウサギだん[END][END]
+// Rabbit Gang
+[RABBIT] Gang[END]
+
+//トニンジンカ[END]
+Carrot[END]
+
+//ぎゅうまおう[END]
+Ox King
+
+//かめせんにん[END]
+Roshi[END][END]
+
+//チチ[END][END][END][END][END]
+Chi-Chi
+
+//オバケ[END][END][END][END]
+Ghost[END][END]
+
+//クリリン[END][END][END]
+Kr[il][li]n
+
+//ランチ[END][END][END][END]
+Launch[END]
+
+//しんぱん[END][END][END]
+Referee
+
+//チャオズ[END][END][END]
+Chaozu[END]
+
+//テンシンハン[END]
+// I made a 7-tile version
+[Tenshinhan]
+
+//カリン[END][END][END][END]
+Korin[END][END]
+
+//シンバル[END][END][END]
+Cymbal[END]
+
+//ニセゴクウ[END][END]
+Goku?[END][END]
+
+//ドラム[END][END][END][END]
+Drum[END][END][END]
+
+//ポポ[END][END][END][END][END]
+Mr.Popo
+
+//タオパイパイ[END]
+Tao[END][END][END][END]
+
+//マジュニア[END][END]
+// Lots of ways to handle this. Maju[ni]or; Junior[END]; Piccolo; Piccolo Jr. (7 works)
+[PiccoloJr.]
+
+//ゾンビリカント
+// Zombie Lycant -> Werebie? ZomWolf?
+ZomWolf
+
+//ばんにんロボ[END]
+Guard [ROBO]
+
+//ギラン[END][END][END][END]
+Giran[END][END]
+
+//チュン[END][END][END][END]
+Chun[END][END][END]
+
+//しょうじょ[END][END]
+// Also lit. girl like オンナのコ, but that's probably a young kid and this is a young adult?
+Miss[END][END][END]
+
+//レッドリボン[END]
+[RR][END][END][END][END][END]
+
+//メタリック[END][END]
+Meta[ll]ic
+
+//ムラサキ[END][END][END]
+Murasa[ki]
+
+//８ごう[END][END][END][END]
+No.8[END][END][END]
+
+//ハッチャン[END][END]
+Eighter
+
+//しょうねん[END][END]
+// Guy might also work, depending
+Boy[END][END][END][END]
+
+//アラレちゃん[END]
+Arale[END][END]
+
+//オボッチャマン
+// Can't fit. No alias works
+Obotcha
+
+//ガッチャン[END][END]
+Gacchan
+
+//センベエ[END][END][END]
+Senbei[END]
+
+//ターボ[END][END][END][END]
+Turbo[END][END]
+
+//あかちゃん[END][END]
+Baby[END][END][END]
+
+//ボラ[END][END][END][END][END]
+Bora[END][END][END]
+
+//ウパ[END][END][END][END][END]
+Upa[END][END][END][END]
+
+//ジャケット[END][END]
+Jacket[END]
+
+//コンガ[END][END][END][END]
+Conga[END][END]
+
+//どくギラン[END][END]
+Toxiran
+
+//タンバリン[END][END]
+// I made a 7-tile version
+[Tambourine]
+
+//ブルー[END][END][END][END]
+Blue[END][END][END]
+
+//へや[END][END][END][END][END]
+Room[END][END][END]
+
+//たま[END][END][END][END][END]
+Ba[ll][END][END][END][END]
+
+//ゴクウのいえ[END]
+// Goku's house
+Home[END][END][END]
+
+//やま[END][END][END][END][END]
+Mounta[in]
+
+//くさむら[END][END][END]
+Field[END][END]
+
+//いえのなか[END][END]
+Inside[END]
+
+//むら[END][END][END][END][END]
+Vi[ll]age[END]
+
+//いえ[END][END][END][END][END]
+House[END][END]
+
+//ドア[END][END][END][END][END]
+Door[END][END][END]
+
+//トリデ[END][END][END][END]
+Base[END][END][END]
+
+//トリデのちず[END]
+// Change to BaseMap if it's necessary
+Map[END][END][END][END]
+
+//たべもの[END][END][END]
+Food[END][END][END]
+
+//いりぐち[END][END][END]
+// Change to Entry if necessary since Entrance won't fit
+Gate[END][END][END]
+
+//テレビ[END][END][END][END]
+TV[END][END][END][END][END]
+
+//ニンジン[END][END][END]
+Carrot[END]
+
+//かべ[END][END][END][END][END]
+Wa[ll][END][END][END][END]
+
+//ゆか[END][END][END][END][END]
+// Reuse 4-tile version from 6th Floor
+[Floor][END][END][END]
+
+//てんじょう[END][END]
+// Maybe use [in] too
+Ce[il]ing[END]
+
+//へやのカギ[END][END]
+// Change to RoomKey if necessary or make [KEY] icon
+Key
+
+//テーブル[END][END][END]
+Table[END][END]
+
+//ぼう[END][END][END][END][END]
+// Needs a double check
+Pole[END][END][END]
+
+//まわり[END][END][END][END]
+// Lit. surroundings
+Area[END][END][END]
+
+//そら[END][END][END][END][END]
+Sky[END][END][END][END]
+
+//みち[END][END][END][END][END]
+// Or Road/Street/Route, check later
+Path[END][END][END]
+
+//たてもの[END][END][END]
+// Maybe [in] too
+Bu[il]ding
+
+//みみかざり[END][END]
+// Maybe [in]
+Earring
+
+//たてもののカゲ
+// Might mean building's shadow
+Shadow[END]
+
+//つくえ[END][END][END][END]
+Desk[END][END][END]
+
+//ひきだし[END][END][END]
+Drawer[END]
+
+//にょいぼう[END][END]
+[POWERPOLE]
+
+//ちょうせいすい
+// Super Water
+S.Water
+
+//ドラゴンボール
+Dragon[BALL]
+
+//フライパンやま
+// Mt. Frying Pan
+Mt.Fire
+
+//ふもとのむら[END]
+// Village at the foot of a mountain
+Hamlet[END]
+
+//ばしょうせん[END]
+Bansho[END]
+
+//りょうけいざん
+// Pleasant Mountain
+Mt.Nice
+
+//へいげん[END][END][END]
+Plain[END][END]
+
+//はま[END][END][END][END][END]
+Beach[END][END]
+
+//うみ[END][END][END][END][END]
+Sea[END][END][END][END]
+
+//カメハウス[END][END]
+// Kame House -- might want a house icon
+Kame H.
+
+//かいじょう[END][END]
+// Context needed: https://jisho.org/search/kaijou
+
+//ぶぶたい[END][END][END]
+// No idea yet
+
+//カリンとう[END][END]
+// Korin Tower
+K.Tower
+
+//しろ[END][END][END][END][END]
+Castle[END]
+
+//しんでん[END][END][END]
+// Or shrine
+Temple[END]
+
+//すず[END][END][END][END][END]
+Bell[END][END][END]
+
+//かいだん[END][END][END]
+Stairs[END]
+
+//しろのちず[END][END]
+// Castle Map -- might have to just call it Map or C.Map
+Map[END][END][END][END]
+
+//あな[END][END][END][END][END]
+Hole[END][END][END]
+
+//き[END][END][END][END][END][END]
+// Ki could also be energy, of course
+Tree[END][END][END]
+
+//タワー[END][END][END][END]
+Tower[END][END]
+
+//オリのカギ[END][END]
+Ce[ll] Key
+
+//オリ[END][END][END][END][END]
+Ce[ll][END][END][END][END]
+
+//オリのなか[END][END]
+// Inside jail or cell
+Inside[END]
+
+//とびら[END][END][END][END]
+// Or Gate
+Door[END][END][END]
+
+//ぢめん[END][END][END][END]
+Ground[END][END]
+
+//もり[END][END][END][END][END]
+Forest[END]
+
+//とう[END][END][END][END][END]
+Tower[END][END]
+
+//テント[END][END][END][END]
+Tent[END][END][END]
+
+//ごちそう[END][END][END]
+Meal[END][END][END]
+
+//せんず[END][END][END][END]
+Senzu[END][END]
+
+//カメのこうら[END]
+She[ll][END][END][END]
+
+//おもいどうぎ[END]
+HeavyGi
+
+//たからもの[END][END]
+// Treasure, but need a shorter word and context (riches/chest/etc.)
+Chest[END][END]
+
+//じいちゃん[END][END]
+Grandpa

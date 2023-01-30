@@ -1,0 +1,2158 @@
+//GAME NAME:		Final Fantasy 1 (NES)
+
+//BLOCK #001 NAME:		Dialogue Block (POINTER_RELATIVE)
+
+//POINTER #0 @ $28010 - STRING #0 @ $28210
+
+#W16($28010)
+//Nothing here.[END]
+
+
+//POINTER #1 @ $28012 - STRING #1 @ $28219
+
+#W16($28012)
+//LIGHT WARRIORS.. Just as[LINE]
+//in Lukahn's prophecy.[LINE]
+//Garland has kidnapped[LINE]
+//the Princess. Please[LINE]
+//help her!![END]
+
+
+//POINTER #2 @ $28014 - STRING #2 @ $2826C
+
+#W16($28014)
+//Thank you for saving the[LINE]
+//Princess. To aid your[LINE]
+//quest I ordered a bridge[LINE]
+//built to the continent.[LINE]
+//Go now, and make the[LINE]
+//ORBS shine again!![END]
+
+
+//POINTER #3 @ $28016 - STRING #3 @ $282CD
+
+#W16($28016)
+//The Princess always[LINE]
+//worries about you.[END]
+
+
+//POINTER #4 @ $28018 - STRING #4 @ $282E9
+
+#W16($28018)
+//No one touches my[LINE]
+//Princess!![LINE]
+//LIGHT WARRIORS??[LINE]
+//You impertinent fools.[LINE]
+//I, Garland, will knock[LINE]
+//you all down!![END]
+
+
+//POINTER #5 @ $2801A - STRING #5 @ $28340
+
+#W16($2801A)
+//So, you are the[LINE]
+//LIGHT WARRIORS![LINE]
+//Thank you.[END]
+
+
+//POINTER #6 @ $2801C - STRING #6 @ $28363
+
+#W16($2801C)
+//This LUTE has been[LINE]
+//passed down from Queen[LINE]
+//to Princess for 2000[LINE]
+//years. Garland stole it[LINE]
+//when he kidnapped me.[LINE]
+//Please accept it as my[LINE]
+//gift, it just might come[LINE]
+//in handy.[END]
+
+
+//POINTER #7 @ $2801E - STRING #7 @ $283E1
+
+#W16($2801E)
+//Now, get ready for your[LINE]
+//trip, and make the ORBS[LINE]
+//shine again.[END]
+
+
+//POINTER #8 @ $28020 - STRING #8 @ $2840F
+
+#W16($28020)
+//Aye, I am Bikke the[LINE]
+//Pirate, and surprised I[LINE]
+//am that you scurvy dogs[LINE]
+//have the nerve to face[LINE]
+//me.[LINE]
+//Mates![LINE]
+//Get those landlubbers![END]
+
+
+//POINTER #9 @ $28022 - STRING #9 @ $2846E
+
+#W16($28022)
+//Okay, you got me.[LINE]
+//Take my SHIP.[END]
+
+
+//POINTER #10 @ $28024 - STRING #10 @ $28488
+
+#W16($28024)
+//I won't be any more[LINE]
+//bother. I promise.[END]
+
+
+//POINTER #11 @ $28026 - STRING #11 @ $284A4
+
+#W16($28026)
+//For five years the[LINE]
+//Prince has slept[LINE]
+//under Astos' spell.[LINE]
+//Only HERB can wake him![END]
+
+
+//POINTER #12 @ $28028 - STRING #12 @ $284DF
+
+#W16($28028)
+//Oh, this HERB will[LINE]
+//release the Prince from[LINE]
+//Astos' curse. Look![LINE]
+//He is waking..[END]
+
+
+//POINTER #13 @ $2802A - STRING #13 @ $28518
+
+#W16($2802A)
+//Thank you.[LINE]
+//Peace will return to[LINE]
+//ElfLand.[END]
+
+
+//POINTER #14 @ $2802C - STRING #14 @ $28537
+
+#W16($2802C)
+//Is this a dream?..[LINE]
+//Are you, the[LINE]
+//LIGHT WARRIORS?..[LINE]
+//Is this for real?..[LINE]
+//So, as legend says,[LINE]
+//I give you the mystic[LINE]
+//KEY.[END]
+
+
+//POINTER #15 @ $2802E - STRING #15 @ $28590
+
+#W16($2802E)
+//I feel fine now.[LINE]
+//Thank you.[END]
+
+
+//POINTER #16 @ $28030 - STRING #16 @ $285A5
+
+#W16($28030)
+//z<$C3><$C3>z<$C3><$C3>[END]
+
+
+//POINTER #17 @ $28032 - STRING #17 @ $285AC
+
+#W16($28032)
+//Astos double-crossed us.[LINE]
+//Go south, to the Cave of[LINE]
+//Marsh, to retrieve the[LINE]
+//CROWN. Then, bring it[LINE]
+//directly back to me![END]
+
+
+//POINTER #18 @ $28034 - STRING #18 @ $285FF
+
+#W16($28034)
+//HA, HA, HA! I am Astos,[LINE]
+//King of the Dark Elves.[LINE]
+//I have Matoya's CRYSTAL,[LINE]
+//and you shall give me[LINE]
+//that CROWN, now!!![END]
+
+
+//POINTER #19 @ $28036 - STRING #19 @ $2865C
+
+#W16($28036)
+//A rock blocks[LINE]
+//construction of my[LINE]
+//canal.[LINE]
+//If I only had TNT.[END]
+
+
+//POINTER #20 @ $28038 - STRING #20 @ $2868B
+
+#W16($28038)
+//Oh, wonderful![LINE]
+//Nice work! Yes, yes[LINE]
+//indeed, this TNT is just[LINE]
+//what I need to finish my[LINE]
+//canal. Now excuse me[LINE]
+//while I get to work![END]
+
+
+//POINTER #21 @ $2803A - STRING #21 @ $286E9
+
+#W16($2803A)
+//For the LIGHT[LINE]
+//WARRIORS I will make a[LINE]
+//truly legendary sword.[LINE]
+//However, my supply of[LINE]
+//ADAMANT is exhausted.[END]
+
+
+//POINTER #22 @ $2803C - STRING #22 @ $2873A
+
+#W16($2803C)
+//ADAMANT!![LINE]
+//Now let me make[LINE]
+//the sword for you..[LINE]
+//Here, the best work I've[LINE]
+//ever done.[LINE]
+//It is my gift.[END]
+
+
+//POINTER #23 @ $2803E - STRING #23 @ $28783
+
+#W16($2803E)
+//Where is my CRYSTAL?[LINE]
+//I can't see anything[LINE]
+//without it.. Who stole[LINE]
+//my CRYSTAL?[END]
+
+
+//POINTER #24 @ $28040 - STRING #24 @ $287BD
+
+#W16($28040)
+//WARRIORS.[LINE]
+//Revive the Power of[LINE]
+//the ORBS![END]
+
+
+//POINTER #25 @ $28042 - STRING #25 @ $287DE
+
+#W16($28042)
+//The Prince needs HERB?[LINE]
+//I'll trade the most[LINE]
+//powerful HERB to get my[LINE]
+//CRYSTAL back..[LINE]
+//Oh! I can see!![END]
+
+
+//POINTER #26 @ $28044 - STRING #26 @ $28828
+
+#W16($28044)
+//You have no more[LINE]
+//business here. Go!![END]
+
+
+//POINTER #27 @ $28046 - STRING #27 @ $28843
+
+#W16($28046)
+//Everybody knows me.[LINE]
+//What?! You've never[LINE]
+//heard of Dr. Unne?[END]
+
+
+//POINTER #28 @ $28048 - STRING #28 @ $28870
+
+#W16($28048)
+//A SLAB!![LINE]
+//This SLAB will lead us[LINE]
+//to solve the riddle of[LINE]
+//the Lefeinish!![LINE]
+//Now, listen to me..[END]
+
+
+//POINTER #29 @ $2804A - STRING #29 @ $288B4
+
+#W16($2804A)
+//All living things were[LINE]
+//born to die.[LINE]
+//No one can defeat me,[LINE]
+//the Vampire!![END]
+
+
+//POINTER #30 @ $2804C - STRING #30 @ $288E9
+
+#W16($2804C)
+//Use this ROD behind the[LINE]
+//Vampire's room. Hiding[LINE]
+//deep inside you will[LINE]
+//find the cause of the[LINE]
+//earth's rot.[END]
+
+
+//POINTER #31 @ $2804E - STRING #31 @ $28934
+
+#W16($2804E)
+//I am BAHAMUT, King of[LINE]
+//the Dragons. Bring me[LINE]
+//proof of your courage,[LINE]
+//to receive the honor[LINE]
+//due true Warriors.[END]
+
+
+//POINTER #32 @ $28050 - STRING #32 @ $28985
+
+#W16($28050)
+//The TAIL of a rat proves[LINE]
+//your courage. I shall[LINE]
+//give you the honor due[LINE]
+//true Warriors.[END]
+
+
+//POINTER #33 @ $28052 - STRING #33 @ $289C2
+
+#W16($28052)
+//The four ORBS now cover[LINE]
+//the black ORB..[LINE]
+//To take a step forward[LINE]
+//is to go back 2000 years[LINE]
+//in time.[END]
+
+
+//POINTER #34 @ $28054 - STRING #34 @ $28A0A
+
+#W16($28054)
+//The black ORB[LINE]
+//glitters ominously..[LINE]
+//But nothing happens.[END]
+
+
+//POINTER #35 @ $28056 - STRING #35 @ $28A33
+
+#W16($28056)
+//That pirate trapped me[LINE]
+//in the BOTTLE.[LINE]
+//I will draw OXYALE from[LINE]
+//the bottom of the spring[LINE]
+//for you.[END]
+
+
+//POINTER #36 @ $28058 - STRING #36 @ $28A80
+
+#W16($28058)
+//Thank you for saving me.[LINE]
+//Remember! OXYALE will[LINE]
+//give you air.[END]
+
+
+//POINTER #37 @ $2805A - STRING #37 @ $28AAD
+
+#W16($2805A)
+//I made a submarine to[LINE]
+//save the mermaids. But,[LINE]
+//to go deep enough it[LINE]
+//will require OXYALE.[END]
+
+
+//POINTER #38 @ $2805C - STRING #38 @ $28AF4
+
+#W16($2805C)
+//WARRIORS, you have[LINE]
+//OXYALE. The mermaids[LINE]
+//wait, please help them![END]
+
+
+//POINTER #39 @ $2805E - STRING #39 @ $28B27
+
+#W16($2805E)
+//Take this CUBE. With it,[LINE]
+//you can transfer to the[LINE]
+//FLOATING CASTLE.[END]
+
+
+//POINTER #40 @ $28060 - STRING #40 @ $28B5C
+
+#W16($28060)
+//Please..[END]
+
+
+//POINTER #41 @ $28062 - STRING #41 @ $28B62
+
+#W16($28062)
+//No one passes this road.[END]
+
+
+//POINTER #42 @ $28064 - STRING #42 @ $28B73
+
+#W16($28064)
+//If you want pass, give[LINE]
+//me the RUBY..[LINE]
+//Crunch, crunch, crunch,[LINE]
+//mmm, it tastes so sweet.[LINE]
+//Rubies are my favorite.[END]
+
+
+//POINTER #43 @ $28066 - STRING #43 @ $28BC9
+
+#W16($28066)
+//Great job vanquishing[LINE]
+//the Earth FIEND. Now,[LINE]
+//the Fire FIEND wakes.[LINE]
+//With this CANOE go to[LINE]
+//the VOLCANO, and defeat[LINE]
+//that FIEND also![END]
+
+
+//POINTER #44 @ $28068 - STRING #44 @ $28C33
+
+#W16($28068)
+//400 years ago, we lost[LINE]
+//control of the Wind.[LINE]
+//200 years later we lost[LINE]
+//the Water, then Earth,[LINE]
+//and Fire followed. The[LINE]
+//Powers that bind this[LINE]
+//world are gone.[END]
+
+
+//POINTER #45 @ $2806A - STRING #45 @ $28CA1
+
+#W16($2806A)
+//Possession of the CROWN[LINE]
+//is required to test your[LINE]
+//courage. Take it to the[LINE]
+//royal throne, and bring[LINE]
+//back proof of your[LINE]
+//courage. GOOD LUCK![END]
+
+
+//POINTER #46 @ $2806C - STRING #46 @ $28D08
+
+#W16($2806C)
+//Remember me, Garland?[LINE]
+//Your puny lot thought it[LINE]
+//had defeated me. But,[LINE]
+//the Four FIENDS sent me[LINE]
+//back 2000 years into[LINE]
+//the past.[END]
+
+
+//POINTER #47 @ $2806E - STRING #47 @ $28D67
+
+#W16($2806E)
+//From here I sent the[LINE]
+//Four FIENDS to the[LINE]
+//future. The FIENDS will[LINE]
+//send me back to here,[LINE]
+//and the Time-Loop will[LINE]
+//go on.[END]
+
+
+//POINTER #48 @ $28070 - STRING #48 @ $28DBF
+
+#W16($28070)
+//After 2000 years, I will[LINE]
+//be forgotten, and the[LINE]
+//Time-Loop will close. I[LINE]
+//will live forever, and[LINE]
+//you shall meet doom!![END]
+
+
+//POINTER #49 @ $28072 - STRING #49 @ $28E14
+
+#W16($28072)
+//The King is looking for[LINE]
+//the LIGHT WARRIORS. You[LINE]
+//do not happen to be them[LINE]
+//do you?[END]
+
+
+//POINTER #50 @ $28074 - STRING #50 @ $28E53
+
+#W16($28074)
+//Yes Sir!![LINE]
+//I belong to the Honor[LINE]
+//Guard of Castle Coneria.[END]
+
+
+//POINTER #51 @ $28076 - STRING #51 @ $28E7C
+
+#W16($28076)
+//Please![LINE]
+//Save the Princess![END]
+
+
+//POINTER #52 @ $28078 - STRING #52 @ $28E90
+
+#W16($28078)
+//Thank you for rescuing[LINE]
+//the Princess.[END]
+
+
+//POINTER #53 @ $2807A - STRING #53 @ $28EAB
+
+#W16($2807A)
+//Legend says that the[LINE]
+//LUTE can break the evil[LINE]
+//gate.[END]
+
+
+//POINTER #54 @ $2807C - STRING #54 @ $28ED0
+
+#W16($2807C)
+//Garland used to be a[LINE]
+//good knight until..[END]
+
+
+//POINTER #55 @ $2807E - STRING #55 @ $28EEF
+
+#W16($2807E)
+//In sadness, the Queen[LINE]
+//locked herself inside.[END]
+
+
+//POINTER #56 @ $28080 - STRING #56 @ $28F12
+
+#W16($28080)
+//The Princess was[LINE]
+//looking for you![END]
+
+
+//POINTER #57 @ $28082 - STRING #57 @ $28F2A
+
+#W16($28082)
+//So, you are the[LINE]
+//LIGHT WARRIORS?[END]
+
+
+//POINTER #58 @ $28084 - STRING #58 @ $28F45
+
+#W16($28084)
+//Don't be greedy. You[LINE]
+//already have too many[LINE]
+//weapons to carry.[END]
+
+
+//POINTER #59 @ $28086 - STRING #59 @ $28F72
+
+#W16($28086)
+//I am Jane, Queen of[LINE]
+//Coneria. Please save my[LINE]
+//daughter, Princess Sara.[END]
+
+
+//POINTER #60 @ $28088 - STRING #60 @ $28FAB
+
+#W16($28088)
+//Thank you for saving[LINE]
+//Princess Sara.[END]
+
+
+//POINTER #61 @ $2808A - STRING #61 @ $28FC4
+
+#W16($2808A)
+//Oh.. My sister..[END]
+
+
+//POINTER #62 @ $2808C - STRING #62 @ $28FD0
+
+#W16($2808C)
+//My sister is back safe![LINE]
+//Thank you.[END]
+
+
+//POINTER #63 @ $2808E - STRING #63 @ $28FE9
+
+#W16($2808E)
+//Reports say that Garland[LINE]
+//holds the Princess in a[LINE]
+//Temple to the northwest.[END]
+
+
+//POINTER #64 @ $28090 - STRING #64 @ $2901E
+
+#W16($28090)
+//Use that KEY. Inside[LINE]
+//what you find will be[LINE]
+//quite helpful.[END]
+
+
+//POINTER #65 @ $28092 - STRING #65 @ $2904B
+
+#W16($28092)
+//400 years ago the[LINE]
+//Treasury was locked by[LINE]
+//the mystic KEY. Our[LINE]
+//ancestors gave the KEY[LINE]
+//to the Prince of ElfLand[LINE]
+//for safekeeping.[END]
+
+
+//POINTER #66 @ $28094 - STRING #66 @ $290AE
+
+#W16($28094)
+//This treasure room is[LINE]
+//locked with the mystical[LINE]
+//KEY.[END]
+
+
+//POINTER #67 @ $28096 - STRING #67 @ $290D3
+
+#W16($28096)
+//The King is sure that[LINE]
+//someday the LIGHT[LINE]
+//WARRIORS will come to[LINE]
+//save the Princess,[LINE]
+//just as in Lukahn's[LINE]
+//prophecy.[END]
+
+
+//POINTER #68 @ $28098 - STRING #68 @ $29127
+
+#W16($28098)
+//Lukahn left this town,[LINE]
+//to join his colleagues[LINE]
+//at Crescent Lake.[END]
+
+
+//POINTER #69 @ $2809A - STRING #69 @ $29159
+
+#W16($2809A)
+//As legend foretold, once[LINE]
+//again the ORBS shine!![LINE]
+//Quickly, to fulfill the[LINE]
+//legend, take them to the[LINE]
+//Temple north of here,[LINE]
+//and stand in the center.[END]
+
+
+//POINTER #70 @ $2809C - STRING #70 @ $291C3
+
+#W16($2809C)
+//Go to the King.[END]
+
+
+//POINTER #71 @ $2809E - STRING #71 @ $291CE
+
+#W16($2809E)
+//I am Arylon, the Dancer![END]
+
+
+//POINTER #72 @ $280A0 - STRING #72 @ $291E2
+
+#W16($280A0)
+//This is Coneria, the[LINE]
+//dream city.[END]
+
+
+//POINTER #73 @ $280A2 - STRING #73 @ $291FA
+
+#W16($280A2)
+//North of Coneria lives[LINE]
+//a witch named Matoya.[END]
+
+
+//POINTER #74 @ $280A4 - STRING #74 @ $2921C
+
+#W16($280A4)
+//Matoya has poor[LINE]
+//eyesight. She needs the[LINE]
+//CRYSTAL to see.[END]
+
+
+//POINTER #75 @ $280A6 - STRING #75 @ $29248
+
+#W16($280A6)
+//My home is Pravoka, a[LINE]
+//beautiful port city far[LINE]
+//east of here.[END]
+
+
+//POINTER #76 @ $280A8 - STRING #76 @ $29274
+
+#W16($280A8)
+//Kee..Kee..[END]
+
+
+//POINTER #77 @ $280AA - STRING #77 @ $2927D
+
+#W16($280AA)
+//Help! The FIEND's curse[LINE]
+//turned us into bats.[LINE]
+//With the ORBS shining[LINE]
+//anew, once again we[LINE]
+//can speak![END]
+
+
+//POINTER #78 @ $280AC - STRING #78 @ $292C8
+
+#W16($280AC)
+//The Four FIENDS power[LINE]
+//is rooted 2000 years[LINE]
+//ago. The real enemy is[LINE]
+//in that time.[END]
+
+
+//POINTER #79 @ $280AE - STRING #79 @ $29303
+
+#W16($280AE)
+//When the 4 ORBS cover[LINE]
+//the black ORB in the[LINE]
+//center of the palace,[LINE]
+//the Time Gate can open.[END]
+
+
+//POINTER #80 @ $280B0 - STRING #80 @ $29345
+
+#W16($280B0)
+//You must travel back in[LINE]
+//time 2000 years. Now,[LINE]
+//with the ORBS shining,[LINE]
+//stand in the Time Gate.[END]
+
+
+//POINTER #81 @ $280B2 - STRING #81 @ $29389
+
+#W16($280B2)
+//We are the five lost[LINE]
+//SKY WARRIORS. 400 years[LINE]
+//ago we battled against[LINE]
+//the cause of the world's[LINE]
+//destruction.[END]
+
+
+//POINTER #82 @ $280B4 - STRING #82 @ $293D7
+
+#W16($280B4)
+//Thank you. We don't need[LINE]
+//to be afraid of pirates[LINE]
+//anymore.[END]
+
+
+//POINTER #83 @ $280B6 - STRING #83 @ $29401
+
+#W16($280B6)
+//I have escaped from[LINE]
+//Melmond, in the west.[LINE]
+//My town is in trouble.[LINE]
+//Please help them!![END]
+
+
+//POINTER #84 @ $280B8 - STRING #84 @ $2943D
+
+#W16($280B8)
+//The Elves live across[LINE]
+//the sea. Matoya's HERB[LINE]
+//is the only thing that[LINE]
+//will wake their Prince.[END]
+
+
+//POINTER #85 @ $280BA - STRING #85 @ $29480
+
+#W16($280BA)
+//This town has been[LINE]
+//invaded by pirates.[END]
+
+
+//POINTER #86 @ $280BC - STRING #86 @ $2949B
+
+#W16($280BC)
+//Ships can stop only at[LINE]
+//ports. There are no[LINE]
+//ports in the north.[END]
+
+
+//POINTER #87 @ $280BE - STRING #87 @ $294CB
+
+#W16($280BE)
+//Help![END]
+
+
+//POINTER #88 @ $280C0 - STRING #88 @ $294D1
+
+#W16($280C0)
+//There are many dangerous[LINE]
+//monsters in the sea.[LINE]
+//Be careful![END]
+
+
+//POINTER #89 @ $280C2 - STRING #89 @ $294F9
+
+#W16($280C2)
+//Astos put the Prince to[LINE]
+//sleep.[LINE]
+//Please! Save him![END]
+
+
+//POINTER #90 @ $280C4 - STRING #90 @ $2951F
+
+#W16($280C4)
+//The Prince is awake![LINE]
+//Thank you so much.[END]
+
+
+//POINTER #91 @ $280C6 - STRING #91 @ $2953D
+
+#W16($280C6)
+//The Cave of Dwarf is at[LINE]
+//the west end of the Aldi[LINE]
+//Sea.[END]
+
+
+//POINTER #92 @ $280C8 - STRING #92 @ $29564
+
+#W16($280C8)
+//Without warning, Astos[LINE]
+//attacked our castle. Our[LINE]
+//Prince was laid under a[LINE]
+//curse, and our treasury[LINE]
+//ransacked.[END]
+
+
+//POINTER #93 @ $280CA - STRING #93 @ $295B1
+
+#W16($280CA)
+//It is said there is a[LINE]
+//witch who has HERBS.[LINE]
+//I believe that her name[LINE]
+//is..[LINE]
+//Matoya![END]
+
+
+//POINTER #94 @ $280CC - STRING #94 @ $295ED
+
+#W16($280CC)
+//Is that it? The HERB to[LINE]
+//save the Prince?[END]
+
+
+//POINTER #95 @ $280CE - STRING #95 @ $2960B
+
+#W16($280CE)
+//The Prince keeps the[LINE]
+//mystic KEY until the[LINE]
+//coming of the[LINE]
+//LIGHT WARRIORS.[END]
+
+
+//POINTER #96 @ $280D0 - STRING #96 @ $29646
+
+#W16($280D0)
+//Maybe it's only rumour,[LINE]
+//but, I think the cause[LINE]
+//of all problems is to[LINE]
+//be found in the cave of[LINE]
+//Marsh.[END]
+
+
+//POINTER #97 @ $280D2 - STRING #97 @ $2968C
+
+#W16($280D2)
+//Save our Prince![END]
+
+
+//POINTER #98 @ $280D4 - STRING #98 @ $29698
+
+#W16($280D4)
+//Our Prince was to[LINE]
+//become the King of[LINE]
+//ElfLand.[END]
+
+
+//POINTER #99 @ $280D6 - STRING #99 @ $296BA
+
+#W16($280D6)
+//Long ago I wandered to[LINE]
+//the Northwest. I found[LINE]
+//an ancient castle that[LINE]
+//was so spooky, I left[LINE]
+//immediately.[END]
+
+
+//POINTER #100 @ $280D8 - STRING #100 @ $29708
+
+#W16($280D8)
+//Astos has been defeated?[LINE]
+//Peace will now return to[LINE]
+//ElfLand.[END]
+
+
+//POINTER #101 @ $280DA - STRING #101 @ $29733
+
+#W16($280DA)
+//Astos wears a disguise,[LINE]
+//and lurks in seclusion.[END]
+
+
+//POINTER #102 @ $280DC - STRING #102 @ $29756
+
+#W16($280DC)
+//The Prince must wake[LINE]
+//soon, or the power of[LINE]
+//the Dark Elf will[LINE]
+//dominate![END]
+
+
+//POINTER #103 @ $280DE - STRING #103 @ $2978B
+
+#W16($280DE)
+//Legend says an AIRSHIP[LINE]
+//is buried somewhere.[END]
+
+
+//POINTER #104 @ $280E0 - STRING #104 @ $297AC
+
+#W16($280E0)
+//Swords and armors made[LINE]
+//of silver are[LINE]
+//very powerful.[END]
+
+
+//POINTER #105 @ $280E2 - STRING #105 @ $297D3
+
+#W16($280E2)
+//I can see a cave above[LINE]
+//the crescent..[LINE]
+//To the north of the[LINE]
+//volcano, there you will[LINE]
+//find the FLOATER.[END]
+
+
+//POINTER #106 @ $280E4 - STRING #106 @ $2981C
+
+#W16($280E4)
+//In the desert south of[LINE]
+//the crescent, something[LINE]
+//is emerging from below[LINE]
+//the sand..[LINE]
+//Use the FLOATER![END]
+
+
+//POINTER #107 @ $280E6 - STRING #107 @ $29864
+
+#W16($280E6)
+//The Prince must wake[LINE]
+//soon, or the Dark Elf[LINE]
+//will dominate![END]
+
+
+//POINTER #108 @ $280E8 - STRING #108 @ $2988F
+
+#W16($280E8)
+//I'm looking for the[LINE]
+//FLOATER. I'll bet with[LINE]
+//it I could float[LINE]
+//anything.[END]
+
+
+//POINTER #109 @ $280EA - STRING #109 @ $298C5
+
+#W16($280EA)
+//Old Nerrick is a very[LINE]
+//respectable Dwarf.[END]
+
+
+//POINTER #110 @ $280EC - STRING #110 @ $298E6
+
+#W16($280EC)
+//That sound?[LINE]
+//Nerrick is digging a[LINE]
+//canal.[END]
+
+
+//POINTER #111 @ $280EE - STRING #111 @ $29905
+
+#W16($280EE)
+//Dwarves can see in the[LINE]
+//dark![END]
+
+
+//POINTER #112 @ $280F0 - STRING #112 @ $29919
+
+#W16($280F0)
+//Did you meet Smith,[LINE]
+//our blacksmith?[END]
+
+
+//POINTER #113 @ $280F2 - STRING #113 @ $29935
+
+#W16($280F2)
+//With the CRYSTAL, even[LINE]
+//the blind can see.[LINE]
+//Astos stole it from[LINE]
+//Matoya.[END]
+
+
+//POINTER #114 @ $280F4 - STRING #114 @ $2996B
+
+#W16($280F4)
+//The earth is rotting[LINE]
+//slowly from the west..[END]
+
+
+//POINTER #115 @ $280F6 - STRING #115 @ $29989
+
+#W16($280F6)
+//The earth is reviving![LINE]
+//Thanks to you,[LINE]
+//LIGHT WARRIORS![END]
+
+
+//POINTER #116 @ $280F8 - STRING #116 @ $299B4
+
+#W16($280F8)
+//The <$DE>..bracelet can[LINE]
+//protect you, like[LINE]
+//armor.[END]
+
+
+//POINTER #117 @ $280FA - STRING #117 @ $299D6
+
+#W16($280FA)
+//Oh, did you see that[LINE]
+//canal? Old Nerrick truly[LINE]
+//is great indeed.[END]
+
+
+//POINTER #118 @ $280FC - STRING #118 @ $29A05
+
+#W16($280FC)
+//Long ago, Coneria's[LINE]
+//Treasury safeguarded[LINE]
+//the use of TNT.[END]
+
+
+//POINTER #119 @ $280FE - STRING #119 @ $29A32
+
+#W16($280FE)
+//Hurray!![END]
+
+
+//POINTER #120 @ $28100 - STRING #120 @ $29A3B
+
+#W16($28100)
+//<$C3><$C3>TCELES B HSUP[LINE]
+//A magic spell?[END]
+
+
+//POINTER #121 @ $28102 - STRING #121 @ $29A58
+
+#W16($28102)
+//The Vampire of the Earth[LINE]
+//Cave is stealing the[LINE]
+//Power of the earth.[LINE]
+//We need your help.[END]
+
+
+//POINTER #122 @ $28104 - STRING #122 @ $29A94
+
+#W16($28104)
+//Melmond was once a[LINE]
+//beautiful town.[END]
+
+
+//POINTER #123 @ $28106 - STRING #123 @ $29AAE
+
+#W16($28106)
+//The Titan who lives in[LINE]
+//the tunnel eats gems.[LINE]
+//He loves RUBIES.[END]
+
+
+//POINTER #124 @ $28108 - STRING #124 @ $29ADA
+
+#W16($28108)
+//The Vampire is gone, but[LINE]
+//the earth continues to[LINE]
+//rot. What causes this?[END]
+
+
+//POINTER #125 @ $2810A - STRING #125 @ $29B0F
+
+#W16($2810A)
+//I'm a farmer.[END]
+
+
+//POINTER #126 @ $2810C - STRING #126 @ $29B19
+
+#W16($2810C)
+//The Earth Cave is on[LINE]
+//the peninsula southwest[LINE]
+//of this town.[END]
+
+
+//POINTER #127 @ $2810E - STRING #127 @ $29B44
+
+#W16($2810E)
+//Look! The Earth ORB is[LINE]
+//shining again.[END]
+
+
+//POINTER #128 @ $28110 - STRING #128 @ $29B63
+
+#W16($28110)
+//This town was invaded by[LINE]
+//the Vampire. The Clinic[LINE]
+//was destroyed and the[LINE]
+//town was cursed.[END]
+
+
+//POINTER #129 @ $28112 - STRING #129 @ $29BA2
+
+#W16($28112)
+//Are you the[LINE]
+//LIGHT WARRIORS?[END]
+
+
+//POINTER #130 @ $28114 - STRING #130 @ $29BBA
+
+#W16($28114)
+//Pass through the Titan's[LINE]
+//Tunnel, then south to[LINE]
+//find Sarda, the Sage.[END]
+
+
+//POINTER #131 @ $28116 - STRING #131 @ $29BED
+
+#W16($28116)
+//The Vampire is gone, but[LINE]
+//the earth still rots?..[END]
+
+
+//POINTER #132 @ $28118 - STRING #132 @ $29C12
+
+#W16($28118)
+//In the northern world,[LINE]
+//there once was a[LINE]
+//prosperous civilization,[LINE]
+//but now it is ruins.[END]
+
+
+//POINTER #133 @ $2811A - STRING #133 @ $29C4F
+
+#W16($2811A)
+//If the ORB of Earth[LINE]
+//begins to shine again,[LINE]
+//the earth shall revive.[END]
+
+
+//POINTER #134 @ $2811C - STRING #134 @ $29C7F
+
+#W16($2811C)
+//LIGHT WARRIORS..[LINE]
+//Thanks to you, the earth[LINE]
+//is beginning to revive..[END]
+
+
+//POINTER #135 @ $2811E - STRING #135 @ $29CB1
+
+#W16($2811E)
+//They say the ancient[LINE]
+//people used a stone to[LINE]
+//make their ship float.[END]
+
+
+//POINTER #136 @ $28120 - STRING #136 @ $29CE2
+
+#W16($28120)
+//OH! An AIRSHIP![LINE]
+//The fables are true, it[LINE]
+//really exists!![END]
+
+
+//POINTER #137 @ $28122 - STRING #137 @ $29D10
+
+#W16($28122)
+//Sarda does not fear the[LINE]
+//evils of the cave.[END]
+
+
+//POINTER #138 @ $28124 - STRING #138 @ $29D2E
+
+#W16($28124)
+//Well, well..[LINE]
+//You have become fine[LINE]
+//Warriors.[END]
+
+
+//POINTER #139 @ $28126 - STRING #139 @ $29D4D
+
+#W16($28126)
+//I am Jim. My home is the[LINE]
+//Dwarf Village, but I am[LINE]
+//here investigating.[END]
+
+
+//POINTER #140 @ $28128 - STRING #140 @ $29D7F
+
+#W16($28128)
+//We, the Twelve Sages,[LINE]
+//were lead here by the[LINE]
+//stars and prophecy.[END]
+
+
+//POINTER #141 @ $2812A - STRING #141 @ $29DAD
+
+#W16($2812A)
+//Once the ORBS shined[LINE]
+//with the power of Earth,[LINE]
+//Wind, Fire, and Water.[LINE]
+//The four FIENDS seized[LINE]
+//those Powers.[END]
+
+
+//POINTER #142 @ $2812C - STRING #142 @ $29DFA
+
+#W16($2812C)
+//Earth, Wind, Fire, and[LINE]
+//Water..[LINE]
+//The world is bound by[LINE]
+//these four Powers.[END]
+
+
+//POINTER #143 @ $2812E - STRING #143 @ $29E2F
+
+#W16($2812E)
+//Each element's power[LINE]
+//focuses at its Altar.[LINE]
+//Locate, and crush the[LINE]
+//Fiend. Then to make[LINE]
+//it shine, place the ORB[LINE]
+//on the Altar it guarded![END]
+
+
+//POINTER #144 @ $28130 - STRING #144 @ $29E93
+
+#W16($28130)
+//Four FIENDS are bent on[LINE]
+//the world's destruction.[LINE]
+//200 years ago, the FIEND[LINE]
+//of Wind teamed with that[LINE]
+//of the Water to destroy[LINE]
+//civilization.[END]
+
+
+//POINTER #145 @ $28132 - STRING #145 @ $29EF8
+
+#W16($28132)
+//The Earth FIEND causes[LINE]
+//the rot of our land.[END]
+
+
+//POINTER #146 @ $28134 - STRING #146 @ $29F18
+
+#W16($28134)
+//The Fire FIEND will[LINE]
+//burn everything up![END]
+
+
+//POINTER #147 @ $28136 - STRING #147 @ $29F37
+
+#W16($28136)
+//As you restore light to[LINE]
+//the ORBS, we will reveal[LINE]
+//more secrets, please see[LINE]
+//us repeatedly.[END]
+
+
+//POINTER #148 @ $28138 - STRING #148 @ $29F79
+
+#W16($28138)
+//LIGHT WARRIORS,[LINE]
+//only you can make the[LINE]
+//ORBS shine again!![END]
+
+
+//POINTER #149 @ $2813A - STRING #149 @ $29FA7
+
+#W16($2813A)
+//Quickly, before all is[LINE]
+//burnt, hurry to Gurgu[LINE]
+//Volcano and stop the[LINE]
+//FIEND of Fire.[END]
+
+
+//POINTER #150 @ $2813C - STRING #150 @ $29FE6
+
+#W16($2813C)
+//The Temple of FIENDS is[LINE]
+//in the center of the[LINE]
+//Four Altars. The time[LINE]
+//has come to destroy the[LINE]
+//source of evil.[END]
+
+
+//POINTER #151 @ $2813E - STRING #151 @ $2A034
+
+#W16($2813E)
+//With the four ORBS[LINE]
+//shining again the Time[LINE]
+//Gate can be broken. The[LINE]
+//true enemy is 2000 years[LINE]
+//in the past.[END]
+
+
+//POINTER #152 @ $28140 - STRING #152 @ $2A080
+
+#W16($28140)
+//The world was suddenly[LINE]
+//thrown into disorder.[LINE]
+//You must restore it.[END]
+
+
+//POINTER #153 @ $28142 - STRING #153 @ $2A0AE
+
+#W16($28142)
+//Time is repeating.[LINE]
+//In order to break the[LINE]
+//Time-Loop you must[LINE]
+//eliminate the enemy who[LINE]
+//controls from 2000 years[LINE]
+//in the past.[END]
+
+
+//POINTER #154 @ $28144 - STRING #154 @ $2A107
+
+#W16($28144)
+//Someone travelled 2000[LINE]
+//years to the past. The[LINE]
+//four FIENDS were sent[LINE]
+//forward in time. Those[LINE]
+//FIENDS threaten to[LINE]
+//destroy the world today.[END]
+
+
+//POINTER #155 @ $28146 - STRING #155 @ $2A16B
+
+#W16($28146)
+//I see now.[LINE]
+//Someone who travelled[LINE]
+//back 2000 years is the[LINE]
+//cause of the world's[LINE]
+//destruction. After 2000[LINE]
+//years he will travel[LINE]
+//back again..[LINE]
+//Then again..Then again..[END]
+
+
+//POINTER #156 @ $28148 - STRING #156 @ $2A1E1
+
+#W16($28148)
+//Time will repeat itself[LINE]
+//every 2000 years.[LINE]
+//Break the Time-Loop![END]
+
+
+//POINTER #157 @ $2814A - STRING #157 @ $2A210
+
+#W16($2814A)
+//In the Temple of FIENDS[LINE]
+//are the remaining SKY[LINE]
+//WARRIORS. They fought[LINE]
+//the FIENDS and are now[LINE]
+//bats![END]
+
+
+//POINTER #158 @ $2814C - STRING #158 @ $2A25E
+
+#W16($2814C)
+//We must use force only[LINE]
+//for just purposes.[END]
+
+
+//POINTER #159 @ $2814E - STRING #159 @ $2A27D
+
+#W16($2814E)
+//For ten years I probed[LINE]
+//for the FLOATER. CANOE[LINE]
+//north, to the Ice Cave.[END]
+
+
+//POINTER #160 @ $28150 - STRING #160 @ $2A2B3
+
+#W16($28150)
+//I am Lukahn.[LINE]
+//Now all legends and[LINE]
+//prophecy will be[LINE]
+//fulfilled. Our path has[LINE]
+//been decided.[END]
+
+
+//POINTER #161 @ $28152 - STRING #161 @ $2A2F9
+
+#W16($28152)
+//LIGHT WARRIORS, you can[LINE]
+//do it![END]
+
+
+//POINTER #162 @ $28154 - STRING #162 @ $2A313
+
+#W16($28154)
+//My brother Dr. Unne has[LINE]
+//studied Lefeinish, the[LINE]
+//language of the SKY[LINE]
+//WARRIORS. If he had the[LINE]
+//SLAB, he could teach it.[END]
+
+
+//POINTER #163 @ $28156 - STRING #163 @ $2A36C
+
+#W16($28156)
+//Soar to my brother Unne[LINE]
+//with the SLAB![END]
+
+
+//POINTER #164 @ $28158 - STRING #164 @ $2A388
+
+#W16($28158)
+//Have you found OXYALE?[END]
+
+
+//POINTER #165 @ $2815A - STRING #165 @ $2A39A
+
+#W16($2815A)
+//You have legs![END]
+
+
+//POINTER #166 @ $2815C - STRING #166 @ $2A3A5
+
+#W16($2815C)
+//My legs are beautiful![LINE]
+//It's so nice to have[LINE]
+//legs.[END]
+
+
+//POINTER #167 @ $2815E - STRING #167 @ $2A3CB
+
+#W16($2815E)
+//Underhill, the Caravan[LINE]
+//Master, had something[LINE]
+//very strange..[END]
+
+
+//POINTER #168 @ $28160 - STRING #168 @ $2A3F5
+
+#W16($28160)
+//Until 200 years ago the[LINE]
+//Mermaids lived in the[LINE]
+//Shrine. Then, in fire[LINE]
+//and smoke, it sank. The[LINE]
+//Mermaids?..[END]
+
+
+//POINTER #169 @ $28162 - STRING #169 @ $2A445
+
+#W16($28162)
+//Until 200 years ago, the[LINE]
+//Power of Water brought[LINE]
+//us good fortune.[END]
+
+
+//POINTER #170 @ $28164 - STRING #170 @ $2A475
+
+#W16($28164)
+//The power of Water!![LINE]
+//Now, our country will[LINE]
+//prosper like before.[END]
+
+
+//POINTER #171 @ $28166 - STRING #171 @ $2A4A4
+
+#W16($28166)
+//I saw BAHAMUT, but, to[LINE]
+//be honored as a true[LINE]
+//warrior I must return[LINE]
+//with proof of my[LINE]
+//courage.[END]
+
+
+//POINTER #172 @ $28168 - STRING #172 @ $2A4EA
+
+#W16($28168)
+//Well, well..[LINE]
+//I see you have been[LINE]
+//honored.[END]
+
+
+//POINTER #173 @ $2816A - STRING #173 @ $2A508
+
+#W16($2816A)
+//Avast ye landlubbers![LINE]
+//Stay out of me way.[END]
+
+
+//POINTER #174 @ $2816C - STRING #174 @ $2A526
+
+#W16($2816C)
+//My father runs the[LINE]
+//caravan. He is having a[LINE]
+//close out sale near the[LINE]
+//oasis in the western[LINE]
+//desert.[END]
+
+
+//POINTER #175 @ $2816E - STRING #175 @ $2A56C
+
+#W16($2816E)
+//Kope 'says' he saw a[LINE]
+//shining object fall.[END]
+
+
+//POINTER #176 @ $28170 - STRING #176 @ $2A58D
+
+#W16($28170)
+//Fables say that when[LINE]
+//the shrine sank, many[LINE]
+//treasures were lost.[LINE]
+//Also, they tell of a[LINE]
+//cryptic stone plate.[END]
+
+
+//POINTER #177 @ $28172 - STRING #177 @ $2A5DA
+
+#W16($28172)
+//My name is Kope.[LINE]
+//I saw it north, near the[LINE]
+//waterfall. Believe me! I[LINE]
+//think it was a robot.[END]
+
+
+//POINTER #178 @ $28174 - STRING #178 @ $2A61F
+
+#W16($28174)
+//This town used to be[LINE]
+//prosperous 200 years[LINE]
+//ago.[END]
+
+
+//POINTER #179 @ $28176 - STRING #179 @ $2A640
+
+#W16($28176)
+//No![LINE]
+//That is just an[LINE]
+//unusable sample.[END]
+
+
+//POINTER #180 @ $28178 - STRING #180 @ $2A65F
+
+#W16($28178)
+//If we cannot regain the[LINE]
+//Power of Water, we will[LINE]
+//become bubbles, then[LINE]
+//disappear.[END]
+
+
+//POINTER #181 @ $2817A - STRING #181 @ $2A699
+
+#W16($2817A)
+//Are we going to become[LINE]
+//bubbles?[END]
+
+
+//POINTER #182 @ $2817C - STRING #182 @ $2A6B1
+
+#W16($2817C)
+//As long as the FIEND of[LINE]
+//Water lives, we..[LINE]
+//Oh, boo hoo.[END]
+
+
+//POINTER #183 @ $2817E - STRING #183 @ $2A6DB
+
+#W16($2817E)
+//You have responded[LINE]
+//to me!![END]
+
+
+//POINTER #184 @ $28180 - STRING #184 @ $2A6EF
+
+#W16($28180)
+//This is the Shrine's top[LINE]
+//floor. The FIEND of[LINE]
+//Water, KRAKEN lives on[LINE]
+//the bottom floor.[END]
+
+
+//POINTER #185 @ $28182 - STRING #185 @ $2A733
+
+#W16($28182)
+//I suppose you are the[LINE]
+//legendary..[END]
+
+
+//POINTER #186 @ $28184 - STRING #186 @ $2A74D
+
+#W16($28184)
+//Please save the sea,[LINE]
+//and make the ORB shine[LINE]
+//again![END]
+
+
+//POINTER #187 @ $28186 - STRING #187 @ $2A773
+
+#W16($28186)
+//Now, order has returned.[LINE]
+//The sea will be as it[LINE]
+//was before, beautiful.[END]
+
+
+//POINTER #188 @ $28188 - STRING #188 @ $2A7A4
+
+#W16($28188)
+//My friend Darryl went to[LINE]
+//the land, then never[LINE]
+//returned. I've often[LINE]
+//wondered what happened..[LINE]
+//Maybe, she grew legs and[LINE]
+//walked away?[END]
+
+
+//POINTER #189 @ $2818A - STRING #189 @ $2A801
+
+#W16($2818A)
+//Unbelievable!![LINE]
+//You can breathe[LINE]
+//underwater?![LINE]
+//I'm impressed![END]
+
+
+//POINTER #190 @ $2818C - STRING #190 @ $2A82E
+
+#W16($2818C)
+//To unlock the Mirage[LINE]
+//Tower the Lefeinish[LINE]
+//used a musical tone.[END]
+
+
+//POINTER #191 @ $2818E - STRING #191 @ $2A85E
+
+#W16($2818E)
+//This door is locked by[LINE]
+//the mystic KEY.[END]
+
+
+//POINTER #192 @ $28190 - STRING #192 @ $2A87E
+
+#W16($28190)
+//This town is Gaia..[END]
+
+
+//POINTER #193 @ $28192 - STRING #193 @ $2A88C
+
+#W16($28192)
+//Have you been to the[LINE]
+//city south of here? I[LINE]
+//just cannot understand[LINE]
+//a word spoken there.[LINE]
+//I have wondered what[LINE]
+//language..[END]
+
+
+//POINTER #194 @ $28194 - STRING #194 @ $2A8DF
+
+#W16($28194)
+//Legend says the SKY[LINE]
+//WARRIORS flew about,[LINE]
+//here and there, from a[LINE]
+//castle high in the sky.[END]
+
+
+//POINTER #195 @ $28196 - STRING #195 @ $2A922
+
+#W16($28196)
+//I saw a shining object[LINE]
+//flying towards the east.[END]
+
+
+//POINTER #196 @ $28198 - STRING #196 @ $2A946
+
+#W16($28198)
+//Unbelievable![LINE]
+//You are outsiders,[LINE]
+//right?[LINE]
+//How did you get this far[LINE]
+//north?[END]
+
+
+//POINTER #197 @ $2819A - STRING #197 @ $2A97F
+
+#W16($2819A)
+//Let me see.. Yes, there[LINE]
+//was a professor that[LINE]
+//studied Lefeinish.[END]
+
+
+//POINTER #198 @ $2819C - STRING #198 @ $2A9AD
+
+#W16($2819C)
+//Only a fairy can draw[LINE]
+//OXYALE from the spring.[END]
+
+
+//POINTER #199 @ $2819E - STRING #199 @ $2A9D1
+
+#W16($2819E)
+//Everyone thinks the[LINE]
+//tower in Yahnikurm[LINE]
+//Desert is a mirage.[LINE]
+//I wonder..[END]
+
+
+//POINTER #200 @ $281A0 - STRING #200 @ $2AA05
+
+#W16($281A0)
+//Hardy har, you are too[LINE]
+//late! I BOTTLED the[LINE]
+//fairy and sold her to a[LINE]
+//caravan.[END]
+
+
+//POINTER #201 @ $281A2 - STRING #201 @ $2AA3F
+
+#W16($281A2)
+//Legends say that the[LINE]
+//castle in the west is a[LINE]
+//place to test courage.[END]
+
+
+//POINTER #202 @ $281A4 - STRING #202 @ $2AA6D
+
+#W16($281A4)
+//?rewoP taerg evah uoy oD[END]
+
+
+//POINTER #203 @ $281A6 - STRING #203 @ $2AA82
+
+#W16($281A6)
+//What's that broom up to?[LINE]
+//It's talking backwards![END]
+
+
+//POINTER #204 @ $281A8 - STRING #204 @ $2AAA6
+
+#W16($281A8)
+//The fairy at the spring[LINE]
+//was kidnapped.[END]
+
+
+//POINTER #205 @ $281AA - STRING #205 @ $2AAC6
+
+#W16($281AA)
+//With this CHIME you can[LINE]
+//enter the Mirage Tower.[END]
+
+
+//POINTER #206 @ $281AC - STRING #206 @ $2AAE8
+
+#W16($281AC)
+//The Mirage Tower was the[LINE]
+//gateway to our home in[LINE]
+//the sky.[END]
+
+
+//POINTER #207 @ $281AE - STRING #207 @ $2AB0F
+
+#W16($281AE)
+//400 years ago, we had an[LINE]
+//advanced civilization.[LINE]
+//Our interest was the[LINE]
+//universe!![END]
+
+
+//POINTER #208 @ $281B0 - STRING #208 @ $2AB48
+
+#W16($281B0)
+//Lu..pa..?[LINE]
+//Lu..pa..?[END]
+
+
+//POINTER #209 @ $281B2 - STRING #209 @ $2AB58
+
+#W16($281B2)
+//We are the Lefeinish.[LINE]
+//Only our bravest became[LINE]
+//SKY WARRIORS. Your[LINE]
+//AIRSHIP was theirs.[END]
+
+
+//POINTER #210 @ $281B4 - STRING #210 @ $2AB99
+
+#W16($281B4)
+//The FLOATING CASTLE..[LINE]
+//Our ancestors lived[LINE]
+//there. The Mirage Tower[LINE]
+//is the entrance.[END]
+
+
+//POINTER #211 @ $281B6 - STRING #211 @ $2ABDA
+
+#W16($281B6)
+//At the time of[LINE]
+//destruction a legend was[LINE]
+//born..  In 400 years,[LINE]
+//WARRIORS with ORBS will[LINE]
+//appear to save our[LINE]
+//people .[LINE]
+//Are you?..[END]
+
+
+//POINTER #212 @ $281B8 - STRING #212 @ $2AC38
+
+#W16($281B8)
+//We fought with TIAMAT,[LINE]
+//but were unsuccessful.[LINE]
+//The FIEND now inhabits[LINE]
+//our FLOATING CASTLE.[END]
+
+
+//POINTER #213 @ $281BA - STRING #213 @ $2AC83
+
+#W16($281BA)
+//Our last five Warriors[LINE]
+//left to find the cause[LINE]
+//of the world's decay.[LINE]
+//We Know they live, but,[LINE]
+//as bats.[END]
+
+
+//POINTER #214 @ $281BC - STRING #214 @ $2ACCC
+
+#W16($281BC)
+//We knew that a great[LINE]
+//power controlled the[LINE]
+//FIENDS. Our five bravest[LINE]
+//Warriors left, never to[LINE]
+//return.[END]
+
+
+//POINTER #215 @ $281BE - STRING #215 @ $2AD15
+
+#W16($281BE)
+//We have passed on the[LINE]
+//legends from generation[LINE]
+//to generation. But 400[LINE]
+//years have caused our[LINE]
+//memories to fade.[END]
+
+
+//POINTER #216 @ $281C0 - STRING #216 @ $2AD61
+
+#W16($281C0)
+//Oh, the LIGHT WARRIORS!![LINE]
+//The legend is true![END]
+
+
+//POINTER #217 @ $281C2 - STRING #217 @ $2AD86
+
+#W16($281C2)
+//Until 400 years ago we[LINE]
+//controlled the Power of[LINE]
+//the Wind. This enabled[LINE]
+//us to suspend the castle[LINE]
+//in the air.[END]
+
+
+//POINTER #218 @ $281C4 - STRING #218 @ $2ADD2
+
+#W16($281C4)
+//The power of Wind was[LINE]
+//taken by TIAMAT.[END]
+
+
+//POINTER #219 @ $281C6 - STRING #219 @ $2ADEE
+
+#W16($281C6)
+//Here lies Erdrick[LINE]
+//    837 - 866[LINE]
+//      R.I.P.[END]
+
+
+//POINTER #220 @ $281C8 - STRING #220 @ $2AE17
+
+#W16($281C8)
+//I wonder if the robots[LINE]
+//made by our ancestors[LINE]
+//are still moving?[END]
+
+
+//POINTER #221 @ $281CA - STRING #221 @ $2AE44
+
+#W16($281CA)
+//The FLOATING CASTLE[LINE]
+//floats high in the[LINE]
+//sky, seemingly among[LINE]
+//the stars.[END]
+
+
+//POINTER #222 @ $281CC - STRING #222 @ $2AE7D
+
+#W16($281CC)
+//One of us escaped with[LINE]
+//a CUBE. He floated far[LINE]
+//to the west.[END]
+
+
+//POINTER #223 @ $281CE - STRING #223 @ $2AEAA
+
+#W16($281CE)
+//Transporter operation[LINE]
+//requires a CUBE.[END]
+
+
+//POINTER #224 @ $281D0 - STRING #224 @ $2AEC9
+
+#W16($281D0)
+//Are you the master?[END]
+
+
+//POINTER #225 @ $281D2 - STRING #225 @ $2AED7
+
+#W16($281D2)
+//You can look out over[LINE]
+//the world from this[LINE]
+//window.[END]
+
+
+//POINTER #226 @ $281D4 - STRING #226 @ $2AEFB
+
+#W16($281D4)
+//If you are brave enough,[LINE]
+//try meeting the King of[LINE]
+//the Dragons, BAHAMUT.[END]
+
+
+//POINTER #227 @ $281D6 - STRING #227 @ $2AF32
+
+#W16($281D6)
+//Unprofitable business[LINE]
+//is not a practice of the[LINE]
+//Dragons of Cardia.[END]
+
+
+//POINTER #228 @ $281D8 - STRING #228 @ $2AF63
+
+#W16($281D8)
+//Long ago, Dragons and[LINE]
+//humans lived and traded[LINE]
+//together.[END]
+
+
+//POINTER #229 @ $281DA - STRING #229 @ $2AF8B
+
+#W16($281DA)
+//You are not afraid of[LINE]
+//me??[LINE]
+//Then, I am impressed![END]
+
+
+//POINTER #230 @ $281DC - STRING #230 @ $2AFB2
+
+#W16($281DC)
+//See your face upon the[LINE]
+//clean water. How dirty![LINE]
+//Come! Wash your face![END]
+
+
+//POINTER #231 @ $281DE - STRING #231 @ $2AFE3
+
+#W16($281DE)
+//We are going to the[LINE]
+//Castle of Ordeal to the[LINE]
+//northeast. There we will[LINE]
+//test, and bring back[LINE]
+//proof of our courage.[END]
+
+
+//POINTER #232 @ $281E0 - STRING #232 @ $2B031
+
+#W16($281E0)
+//The proof of your[LINE]
+//courage might be[LINE]
+//anything.[END]
+
+
+//POINTER #233 @ $281E2 - STRING #233 @ $2B052
+
+#W16($281E2)
+//Have you met BAHAMUT,[LINE]
+//the Dragon King? He[LINE]
+//honors those with[LINE]
+//courage as true[LINE]
+//warriors.[END]
+
+
+//POINTER #234 @ $281E4 - STRING #234 @ $2B097
+
+#W16($281E4)
+//Only the courageous ones[LINE]
+//bring back the proof of[LINE]
+//their courage.[END]
+
+
+//POINTER #235 @ $281E6 - STRING #235 @ $2B0C4
+
+#W16($281E6)
+//Once in the north, there[LINE]
+//were beautiful palaces[LINE]
+//and big mechanical[LINE]
+//castles.[END]
+
+
+//POINTER #236 @ $281E8 - STRING #236 @ $2B0F9
+
+#W16($281E8)
+//This is BAHAMUT's room.[END]
+
+
+//POINTER #237 @ $281EA - STRING #237 @ $2B10D
+
+#W16($281EA)
+//BAHAMUT verifies the[LINE]
+//true courage of all.[END]
+
+
+//POINTER #238 @ $281EC - STRING #238 @ $2B12D
+
+#W16($281EC)
+//This is a tomb.[END]
+
+
+//POINTER #239 @ $281EE - STRING #239 @ $2B138
+
+#W16($281EE)
+//This is a well. You[LINE]
+//might think that there[LINE]
+//is something to it..[LINE]
+//But in fact it is just[LINE]
+//an ordinary well.[END]
+
+
+//POINTER #240 @ $281F0 - STRING #240 @ $2B17F
+
+#W16($281F0)
+//In the treasure box,[LINE]
+//you found..<$01><$02>[END]
+
+
+//POINTER #241 @ $281F2 - STRING #241 @ $2B199
+
+#W16($281F2)
+//Can't hold anymore.[END]
+
+
+//POINTER #242 @ $281F4 - STRING #242 @ $2B1AA
+
+#W16($281F4)
+//The treasure box is[LINE]
+//empty![END]
+
+
+//POINTER #243 @ $281F6 - STRING #243 @ $2B1BF
+
+#W16($281F6)
+//The Altar of the Earth.[END]
+
+
+//POINTER #244 @ $281F8 - STRING #244 @ $2B1D0
+
+#W16($281F8)
+//The Altar of the Fire.[END]
+
+
+//POINTER #245 @ $281FA - STRING #245 @ $2B1E1
+
+#W16($281FA)
+//The Altar of the Water.[END]
+
+
+//POINTER #246 @ $281FC - STRING #246 @ $2B1F2
+
+#W16($281FC)
+//The Altar of the Wind.[END]
+
+
+//POINTER #247 @ $281FE - STRING #247 @ $2B203
+
+#W16($281FE)
+//At the bottom of the[LINE]
+//spring, something is[LINE]
+//flowing.[END]
+
+
+//POINTER #248 @ $28200 - STRING #248 @ $2B228
+
+#W16($28200)
+//TIAMAT is the FIEND of[LINE]
+//the WIND..[END]
+
+
+//POINTER #249 @ $28202 - STRING #249 @ $2B243
+
+#W16($28202)
+//From this window one can[LINE]
+//see the entire world.[LINE]
+//The Four Forces are[LINE]
+//flowing together, into[LINE]
+//the center of the Four[LINE]
+//Altars. Into the Temple[LINE]
+//of FIENDS.[END]
+
+
+//POINTER #250 @ $28204 - STRING #250 @ $2B2AC
+
+#W16($28204)
+//The FIEND's ball cracks[LINE]
+//open.. An ominous cloud[LINE]
+//rises, and an evil shape[LINE]
+//congeals..[LINE]
+//It is LICH, the FIEND of[LINE]
+//Earth.[END]
+
+
+//POINTER #251 @ $28206 - STRING #251 @ $2B302
+
+#W16($28206)
+//Is it you, the tinder[LINE]
+//that defeated the FIEND[LINE]
+//of the Earth, and[LINE]
+//disturbed my sleep?[LINE]
+//I, KARY will now show[LINE]
+//you the force of Fire,[LINE]
+//and you shall burn in[LINE]
+//its flames!![END]
+
+
+//POINTER #252 @ $28208 - STRING #252 @ $2B378
+
+#W16($28208)
+//The FIEND's ball is[LINE]
+//shattered, evaporating[LINE]
+//all the water.[LINE]
+//Ho, Ho, Ho..[LINE]
+//How foolhardy to dare[LINE]
+//challenge me, KRAKEN the[LINE]
+//FIEND of the Water.[END]
+
+
+//POINTER #253 @ $2820A - STRING #253 @ $2B3E2
+
+#W16($2820A)
+//Lightning erupts from[LINE]
+//the FIEND's ball..[LINE]
+//So, you have come this[LINE]
+//far..[LINE]
+//I, TIAMAT the FIEND of[LINE]
+//the Wind will now put an[LINE]
+//end to your adventure!![END]
+
+
+//POINTER #254 @ $2820C - STRING #254 @ $2B44D
+
+#W16($2820C)
+//What??[LINE]
+//You can speak Lefeinish?[END]
+
+
+//POINTER #255 @ $2820E - STRING #255 @ $2B466
+
+#W16($2820E)
+//There is a stone plate[LINE]
+//on the floor..[LINE]
+//You sense something..[LINE]
+//Evil?..[END]
+

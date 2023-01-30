@@ -1,0 +1,1137 @@
+//GAME NAME:		Final Fantasy 1 (NES)
+
+//BLOCK #000 NAME:		Dialogue Block (RAW)
+//Block Range: $28210 - $2B496
+
+//Nothing here.[END]
+
+//LIGHT WARRIORS.. Just as[LINE]
+//in Lukahn's prophecy.[LINE]
+//Garland has kidnapped[LINE]
+//the Princess. Please[LINE]
+//help her!![END]
+
+//Thank you for saving the[LINE]
+//Princess. To aid your[LINE]
+//quest I ordered a bridge[LINE]
+//built to the continent.[LINE]
+//Go now, and make the[LINE]
+//ORBS shine again!![END]
+
+//The Princess always[LINE]
+//worries about you.[END]
+
+//No one touches my[LINE]
+//Princess!![LINE]
+//LIGHT WARRIORS??[LINE]
+//You impertinent fools.[LINE]
+//I, Garland, will knock[LINE]
+//you all down!![END]
+
+//So, you are the[LINE]
+//LIGHT WARRIORS![LINE]
+//Thank you.[END]
+
+//This LUTE has been[LINE]
+//passed down from Queen[LINE]
+//to Princess for 2000[LINE]
+//years. Garland stole it[LINE]
+//when he kidnapped me.[LINE]
+//Please accept it as my[LINE]
+//gift, it just might come[LINE]
+//in handy.[END]
+
+//Now, get ready for your[LINE]
+//trip, and make the ORBS[LINE]
+//shine again.[END]
+
+//Aye, I am Bikke the[LINE]
+//Pirate, and surprised I[LINE]
+//am that you scurvy dogs[LINE]
+//have the nerve to face[LINE]
+//me.[LINE]
+//Mates![LINE]
+//Get those landlubbers![END]
+
+//Okay, you got me.[LINE]
+//Take my SHIP.[END]
+
+//I won't be any more[LINE]
+//bother. I promise.[END]
+
+//For five years the[LINE]
+//Prince has slept[LINE]
+//under Astos' spell.[LINE]
+//Only HERB can wake him![END]
+
+//Oh, this HERB will[LINE]
+//release the Prince from[LINE]
+//Astos' curse. Look![LINE]
+//He is waking..[END]
+
+//Thank you.[LINE]
+//Peace will return to[LINE]
+//ElfLand.[END]
+
+//Is this a dream?..[LINE]
+//Are you, the[LINE]
+//LIGHT WARRIORS?..[LINE]
+//Is this for real?..[LINE]
+//So, as legend says,[LINE]
+//I give you the mystic[LINE]
+//KEY.[END]
+
+//I feel fine now.[LINE]
+//Thank you.[END]
+
+//z<$C3><$C3>z<$C3><$C3>[END]
+
+//Astos double-crossed us.[LINE]
+//Go south, to the Cave of[LINE]
+//Marsh, to retrieve the[LINE]
+//CROWN. Then, bring it[LINE]
+//directly back to me![END]
+
+//HA, HA, HA! I am Astos,[LINE]
+//King of the Dark Elves.[LINE]
+//I have Matoya's CRYSTAL,[LINE]
+//and you shall give me[LINE]
+//that CROWN, now!!![END]
+
+//A rock blocks[LINE]
+//construction of my[LINE]
+//canal.[LINE]
+//If I only had TNT.[END]
+
+//Oh, wonderful![LINE]
+//Nice work! Yes, yes[LINE]
+//indeed, this TNT is just[LINE]
+//what I need to finish my[LINE]
+//canal. Now excuse me[LINE]
+//while I get to work![END]
+
+//For the LIGHT[LINE]
+//WARRIORS I will make a[LINE]
+//truly legendary sword.[LINE]
+//However, my supply of[LINE]
+//ADAMANT is exhausted.[END]
+
+//ADAMANT!![LINE]
+//Now let me make[LINE]
+//the sword for you..[LINE]
+//Here, the best work I've[LINE]
+//ever done.[LINE]
+//It is my gift.[END]
+
+//Where is my CRYSTAL?[LINE]
+//I can't see anything[LINE]
+//without it.. Who stole[LINE]
+//my CRYSTAL?[END]
+
+//WARRIORS.[LINE]
+//Revive the Power of[LINE]
+//the ORBS![END]
+
+//The Prince needs HERB?[LINE]
+//I'll trade the most[LINE]
+//powerful HERB to get my[LINE]
+//CRYSTAL back..[LINE]
+//Oh! I can see!![END]
+
+//You have no more[LINE]
+//business here. Go!![END]
+
+//Everybody knows me.[LINE]
+//What?! You've never[LINE]
+//heard of Dr. Unne?[END]
+
+//A SLAB!![LINE]
+//This SLAB will lead us[LINE]
+//to solve the riddle of[LINE]
+//the Lefeinish!![LINE]
+//Now, listen to me..[END]
+
+//All living things were[LINE]
+//born to die.[LINE]
+//No one can defeat me,[LINE]
+//the Vampire!![END]
+
+//Use this ROD behind the[LINE]
+//Vampire's room. Hiding[LINE]
+//deep inside you will[LINE]
+//find the cause of the[LINE]
+//earth's rot.[END]
+
+//I am BAHAMUT, King of[LINE]
+//the Dragons. Bring me[LINE]
+//proof of your courage,[LINE]
+//to receive the honor[LINE]
+//due true Warriors.[END]
+
+//The TAIL of a rat proves[LINE]
+//your courage. I shall[LINE]
+//give you the honor due[LINE]
+//true Warriors.[END]
+
+//The four ORBS now cover[LINE]
+//the black ORB..[LINE]
+//To take a step forward[LINE]
+//is to go back 2000 years[LINE]
+//in time.[END]
+
+//The black ORB[LINE]
+//glitters ominously..[LINE]
+//But nothing happens.[END]
+
+//That pirate trapped me[LINE]
+//in the BOTTLE.[LINE]
+//I will draw OXYALE from[LINE]
+//the bottom of the spring[LINE]
+//for you.[END]
+
+//Thank you for saving me.[LINE]
+//Remember! OXYALE will[LINE]
+//give you air.[END]
+
+//I made a submarine to[LINE]
+//save the mermaids. But,[LINE]
+//to go deep enough it[LINE]
+//will require OXYALE.[END]
+
+//WARRIORS, you have[LINE]
+//OXYALE. The mermaids[LINE]
+//wait, please help them![END]
+
+//Take this CUBE. With it,[LINE]
+//you can transfer to the[LINE]
+//FLOATING CASTLE.[END]
+
+//Please..[END]
+
+//No one passes this road.[END]
+
+//If you want pass, give[LINE]
+//me the RUBY..[LINE]
+//Crunch, crunch, crunch,[LINE]
+//mmm, it tastes so sweet.[LINE]
+//Rubies are my favorite.[END]
+
+//Great job vanquishing[LINE]
+//the Earth FIEND. Now,[LINE]
+//the Fire FIEND wakes.[LINE]
+//With this CANOE go to[LINE]
+//the VOLCANO, and defeat[LINE]
+//that FIEND also![END]
+
+//400 years ago, we lost[LINE]
+//control of the Wind.[LINE]
+//200 years later we lost[LINE]
+//the Water, then Earth,[LINE]
+//and Fire followed. The[LINE]
+//Powers that bind this[LINE]
+//world are gone.[END]
+
+//Possession of the CROWN[LINE]
+//is required to test your[LINE]
+//courage. Take it to the[LINE]
+//royal throne, and bring[LINE]
+//back proof of your[LINE]
+//courage. GOOD LUCK![END]
+
+//Remember me, Garland?[LINE]
+//Your puny lot thought it[LINE]
+//had defeated me. But,[LINE]
+//the Four FIENDS sent me[LINE]
+//back 2000 years into[LINE]
+//the past.[END]
+
+//From here I sent the[LINE]
+//Four FIENDS to the[LINE]
+//future. The FIENDS will[LINE]
+//send me back to here,[LINE]
+//and the Time-Loop will[LINE]
+//go on.[END]
+
+//After 2000 years, I will[LINE]
+//be forgotten, and the[LINE]
+//Time-Loop will close. I[LINE]
+//will live forever, and[LINE]
+//you shall meet doom!![END]
+
+//The King is looking for[LINE]
+//the LIGHT WARRIORS. You[LINE]
+//do not happen to be them[LINE]
+//do you?[END]
+
+//Yes Sir!![LINE]
+//I belong to the Honor[LINE]
+//Guard of Castle Coneria.[END]
+
+//Please![LINE]
+//Save the Princess![END]
+
+//Thank you for rescuing[LINE]
+//the Princess.[END]
+
+//Legend says that the[LINE]
+//LUTE can break the evil[LINE]
+//gate.[END]
+
+//Garland used to be a[LINE]
+//good knight until..[END]
+
+//In sadness, the Queen[LINE]
+//locked herself inside.[END]
+
+//The Princess was[LINE]
+//looking for you![END]
+
+//So, you are the[LINE]
+//LIGHT WARRIORS?[END]
+
+//Don't be greedy. You[LINE]
+//already have too many[LINE]
+//weapons to carry.[END]
+
+//I am Jane, Queen of[LINE]
+//Coneria. Please save my[LINE]
+//daughter, Princess Sara.[END]
+
+//Thank you for saving[LINE]
+//Princess Sara.[END]
+
+//Oh.. My sister..[END]
+
+//My sister is back safe![LINE]
+//Thank you.[END]
+
+//Reports say that Garland[LINE]
+//holds the Princess in a[LINE]
+//Temple to the northwest.[END]
+
+//Use that KEY. Inside[LINE]
+//what you find will be[LINE]
+//quite helpful.[END]
+
+//400 years ago the[LINE]
+//Treasury was locked by[LINE]
+//the mystic KEY. Our[LINE]
+//ancestors gave the KEY[LINE]
+//to the Prince of ElfLand[LINE]
+//for safekeeping.[END]
+
+//This treasure room is[LINE]
+//locked with the mystical[LINE]
+//KEY.[END]
+
+//The King is sure that[LINE]
+//someday the LIGHT[LINE]
+//WARRIORS will come to[LINE]
+//save the Princess,[LINE]
+//just as in Lukahn's[LINE]
+//prophecy.[END]
+
+//Lukahn left this town,[LINE]
+//to join his colleagues[LINE]
+//at Crescent Lake.[END]
+
+//As legend foretold, once[LINE]
+//again the ORBS shine!![LINE]
+//Quickly, to fulfill the[LINE]
+//legend, take them to the[LINE]
+//Temple north of here,[LINE]
+//and stand in the center.[END]
+
+//Go to the King.[END]
+
+//I am Arylon, the Dancer![END]
+
+//This is Coneria, the[LINE]
+//dream city.[END]
+
+//North of Coneria lives[LINE]
+//a witch named Matoya.[END]
+
+//Matoya has poor[LINE]
+//eyesight. She needs the[LINE]
+//CRYSTAL to see.[END]
+
+//My home is Pravoka, a[LINE]
+//beautiful port city far[LINE]
+//east of here.[END]
+
+//Kee..Kee..[END]
+
+//Help! The FIEND's curse[LINE]
+//turned us into bats.[LINE]
+//With the ORBS shining[LINE]
+//anew, once again we[LINE]
+//can speak![END]
+
+//The Four FIENDS power[LINE]
+//is rooted 2000 years[LINE]
+//ago. The real enemy is[LINE]
+//in that time.[END]
+
+//When the 4 ORBS cover[LINE]
+//the black ORB in the[LINE]
+//center of the palace,[LINE]
+//the Time Gate can open.[END]
+
+//You must travel back in[LINE]
+//time 2000 years. Now,[LINE]
+//with the ORBS shining,[LINE]
+//stand in the Time Gate.[END]
+
+//We are the five lost[LINE]
+//SKY WARRIORS. 400 years[LINE]
+//ago we battled against[LINE]
+//the cause of the world's[LINE]
+//destruction.[END]
+
+//Thank you. We don't need[LINE]
+//to be afraid of pirates[LINE]
+//anymore.[END]
+
+//I have escaped from[LINE]
+//Melmond, in the west.[LINE]
+//My town is in trouble.[LINE]
+//Please help them!![END]
+
+//The Elves live across[LINE]
+//the sea. Matoya's HERB[LINE]
+//is the only thing that[LINE]
+//will wake their Prince.[END]
+
+//This town has been[LINE]
+//invaded by pirates.[END]
+
+//Ships can stop only at[LINE]
+//ports. There are no[LINE]
+//ports in the north.[END]
+
+//Help![END]
+
+//There are many dangerous[LINE]
+//monsters in the sea.[LINE]
+//Be careful![END]
+
+//Astos put the Prince to[LINE]
+//sleep.[LINE]
+//Please! Save him![END]
+
+//The Prince is awake![LINE]
+//Thank you so much.[END]
+
+//The Cave of Dwarf is at[LINE]
+//the west end of the Aldi[LINE]
+//Sea.[END]
+
+//Without warning, Astos[LINE]
+//attacked our castle. Our[LINE]
+//Prince was laid under a[LINE]
+//curse, and our treasury[LINE]
+//ransacked.[END]
+
+//It is said there is a[LINE]
+//witch who has HERBS.[LINE]
+//I believe that her name[LINE]
+//is..[LINE]
+//Matoya![END]
+
+//Is that it? The HERB to[LINE]
+//save the Prince?[END]
+
+//The Prince keeps the[LINE]
+//mystic KEY until the[LINE]
+//coming of the[LINE]
+//LIGHT WARRIORS.[END]
+
+//Maybe it's only rumour,[LINE]
+//but, I think the cause[LINE]
+//of all problems is to[LINE]
+//be found in the cave of[LINE]
+//Marsh.[END]
+
+//Save our Prince![END]
+
+//Our Prince was to[LINE]
+//become the King of[LINE]
+//ElfLand.[END]
+
+//Long ago I wandered to[LINE]
+//the Northwest. I found[LINE]
+//an ancient castle that[LINE]
+//was so spooky, I left[LINE]
+//immediately.[END]
+
+//Astos has been defeated?[LINE]
+//Peace will now return to[LINE]
+//ElfLand.[END]
+
+//Astos wears a disguise,[LINE]
+//and lurks in seclusion.[END]
+
+//The Prince must wake[LINE]
+//soon, or the power of[LINE]
+//the Dark Elf will[LINE]
+//dominate![END]
+
+//Legend says an AIRSHIP[LINE]
+//is buried somewhere.[END]
+
+//Swords and armors made[LINE]
+//of silver are[LINE]
+//very powerful.[END]
+
+//I can see a cave above[LINE]
+//the crescent..[LINE]
+//To the north of the[LINE]
+//volcano, there you will[LINE]
+//find the FLOATER.[END]
+
+//In the desert south of[LINE]
+//the crescent, something[LINE]
+//is emerging from below[LINE]
+//the sand..[LINE]
+//Use the FLOATER![END]
+
+//The Prince must wake[LINE]
+//soon, or the Dark Elf[LINE]
+//will dominate![END]
+
+//I'm looking for the[LINE]
+//FLOATER. I'll bet with[LINE]
+//it I could float[LINE]
+//anything.[END]
+
+//Old Nerrick is a very[LINE]
+//respectable Dwarf.[END]
+
+//That sound?[LINE]
+//Nerrick is digging a[LINE]
+//canal.[END]
+
+//Dwarves can see in the[LINE]
+//dark![END]
+
+//Did you meet Smith,[LINE]
+//our blacksmith?[END]
+
+//With the CRYSTAL, even[LINE]
+//the blind can see.[LINE]
+//Astos stole it from[LINE]
+//Matoya.[END]
+
+//The earth is rotting[LINE]
+//slowly from the west..[END]
+
+//The earth is reviving![LINE]
+//Thanks to you,[LINE]
+//LIGHT WARRIORS![END]
+
+//The <$DE>..bracelet can[LINE]
+//protect you, like[LINE]
+//armor.[END]
+
+//Oh, did you see that[LINE]
+//canal? Old Nerrick truly[LINE]
+//is great indeed.[END]
+
+//Long ago, Coneria's[LINE]
+//Treasury safeguarded[LINE]
+//the use of TNT.[END]
+
+//Hurray!![END]
+
+//<$C3><$C3>TCELES B HSUP[LINE]
+//A magic spell?[END]
+
+//The Vampire of the Earth[LINE]
+//Cave is stealing the[LINE]
+//Power of the earth.[LINE]
+//We need your help.[END]
+
+//Melmond was once a[LINE]
+//beautiful town.[END]
+
+//The Titan who lives in[LINE]
+//the tunnel eats gems.[LINE]
+//He loves RUBIES.[END]
+
+//The Vampire is gone, but[LINE]
+//the earth continues to[LINE]
+//rot. What causes this?[END]
+
+//I'm a farmer.[END]
+
+//The Earth Cave is on[LINE]
+//the peninsula southwest[LINE]
+//of this town.[END]
+
+//Look! The Earth ORB is[LINE]
+//shining again.[END]
+
+//This town was invaded by[LINE]
+//the Vampire. The Clinic[LINE]
+//was destroyed and the[LINE]
+//town was cursed.[END]
+
+//Are you the[LINE]
+//LIGHT WARRIORS?[END]
+
+//Pass through the Titan's[LINE]
+//Tunnel, then south to[LINE]
+//find Sarda, the Sage.[END]
+
+//The Vampire is gone, but[LINE]
+//the earth still rots?..[END]
+
+//In the northern world,[LINE]
+//there once was a[LINE]
+//prosperous civilization,[LINE]
+//but now it is ruins.[END]
+
+//If the ORB of Earth[LINE]
+//begins to shine again,[LINE]
+//the earth shall revive.[END]
+
+//LIGHT WARRIORS..[LINE]
+//Thanks to you, the earth[LINE]
+//is beginning to revive..[END]
+
+//They say the ancient[LINE]
+//people used a stone to[LINE]
+//make their ship float.[END]
+
+//OH! An AIRSHIP![LINE]
+//The fables are true, it[LINE]
+//really exists!![END]
+
+//Sarda does not fear the[LINE]
+//evils of the cave.[END]
+
+//Well, well..[LINE]
+//You have become fine[LINE]
+//Warriors.[END]
+
+//I am Jim. My home is the[LINE]
+//Dwarf Village, but I am[LINE]
+//here investigating.[END]
+
+//We, the Twelve Sages,[LINE]
+//were lead here by the[LINE]
+//stars and prophecy.[END]
+
+//Once the ORBS shined[LINE]
+//with the power of Earth,[LINE]
+//Wind, Fire, and Water.[LINE]
+//The four FIENDS seized[LINE]
+//those Powers.[END]
+
+//Earth, Wind, Fire, and[LINE]
+//Water..[LINE]
+//The world is bound by[LINE]
+//these four Powers.[END]
+
+//Each element's power[LINE]
+//focuses at its Altar.[LINE]
+//Locate, and crush the[LINE]
+//Fiend. Then to make[LINE]
+//it shine, place the ORB[LINE]
+//on the Altar it guarded![END]
+
+//Four FIENDS are bent on[LINE]
+//the world's destruction.[LINE]
+//200 years ago, the FIEND[LINE]
+//of Wind teamed with that[LINE]
+//of the Water to destroy[LINE]
+//civilization.[END]
+
+//The Earth FIEND causes[LINE]
+//the rot of our land.[END]
+
+//The Fire FIEND will[LINE]
+//burn everything up![END]
+
+//As you restore light to[LINE]
+//the ORBS, we will reveal[LINE]
+//more secrets, please see[LINE]
+//us repeatedly.[END]
+
+//LIGHT WARRIORS,[LINE]
+//only you can make the[LINE]
+//ORBS shine again!![END]
+
+//Quickly, before all is[LINE]
+//burnt, hurry to Gurgu[LINE]
+//Volcano and stop the[LINE]
+//FIEND of Fire.[END]
+
+//The Temple of FIENDS is[LINE]
+//in the center of the[LINE]
+//Four Altars. The time[LINE]
+//has come to destroy the[LINE]
+//source of evil.[END]
+
+//With the four ORBS[LINE]
+//shining again the Time[LINE]
+//Gate can be broken. The[LINE]
+//true enemy is 2000 years[LINE]
+//in the past.[END]
+
+//The world was suddenly[LINE]
+//thrown into disorder.[LINE]
+//You must restore it.[END]
+
+//Time is repeating.[LINE]
+//In order to break the[LINE]
+//Time-Loop you must[LINE]
+//eliminate the enemy who[LINE]
+//controls from 2000 years[LINE]
+//in the past.[END]
+
+//Someone travelled 2000[LINE]
+//years to the past. The[LINE]
+//four FIENDS were sent[LINE]
+//forward in time. Those[LINE]
+//FIENDS threaten to[LINE]
+//destroy the world today.[END]
+
+//I see now.[LINE]
+//Someone who travelled[LINE]
+//back 2000 years is the[LINE]
+//cause of the world's[LINE]
+//destruction. After 2000[LINE]
+//years he will travel[LINE]
+//back again..[LINE]
+//Then again..Then again..[END]
+
+//Time will repeat itself[LINE]
+//every 2000 years.[LINE]
+//Break the Time-Loop![END]
+
+//In the Temple of FIENDS[LINE]
+//are the remaining SKY[LINE]
+//WARRIORS. They fought[LINE]
+//the FIENDS and are now[LINE]
+//bats![END]
+
+//We must use force only[LINE]
+//for just purposes.[END]
+
+//For ten years I probed[LINE]
+//for the FLOATER. CANOE[LINE]
+//north, to the Ice Cave.[END]
+
+//I am Lukahn.[LINE]
+//Now all legends and[LINE]
+//prophecy will be[LINE]
+//fulfilled. Our path has[LINE]
+//been decided.[END]
+
+//LIGHT WARRIORS, you can[LINE]
+//do it![END]
+
+//My brother Dr. Unne has[LINE]
+//studied Lefeinish, the[LINE]
+//language of the SKY[LINE]
+//WARRIORS. If he had the[LINE]
+//SLAB, he could teach it.[END]
+
+//Soar to my brother Unne[LINE]
+//with the SLAB![END]
+
+//Have you found OXYALE?[END]
+
+//You have legs![END]
+
+//My legs are beautiful![LINE]
+//It's so nice to have[LINE]
+//legs.[END]
+
+//Underhill, the Caravan[LINE]
+//Master, had something[LINE]
+//very strange..[END]
+
+//Until 200 years ago the[LINE]
+//Mermaids lived in the[LINE]
+//Shrine. Then, in fire[LINE]
+//and smoke, it sank. The[LINE]
+//Mermaids?..[END]
+
+//Until 200 years ago, the[LINE]
+//Power of Water brought[LINE]
+//us good fortune.[END]
+
+//The power of Water!![LINE]
+//Now, our country will[LINE]
+//prosper like before.[END]
+
+//I saw BAHAMUT, but, to[LINE]
+//be honored as a true[LINE]
+//warrior I must return[LINE]
+//with proof of my[LINE]
+//courage.[END]
+
+//Well, well..[LINE]
+//I see you have been[LINE]
+//honored.[END]
+
+//Avast ye landlubbers![LINE]
+//Stay out of me way.[END]
+
+//My father runs the[LINE]
+//caravan. He is having a[LINE]
+//close out sale near the[LINE]
+//oasis in the western[LINE]
+//desert.[END]
+
+//Kope 'says' he saw a[LINE]
+//shining object fall.[END]
+
+//Fables say that when[LINE]
+//the shrine sank, many[LINE]
+//treasures were lost.[LINE]
+//Also, they tell of a[LINE]
+//cryptic stone plate.[END]
+
+//My name is Kope.[LINE]
+//I saw it north, near the[LINE]
+//waterfall. Believe me! I[LINE]
+//think it was a robot.[END]
+
+//This town used to be[LINE]
+//prosperous 200 years[LINE]
+//ago.[END]
+
+//No![LINE]
+//That is just an[LINE]
+//unusable sample.[END]
+
+//If we cannot regain the[LINE]
+//Power of Water, we will[LINE]
+//become bubbles, then[LINE]
+//disappear.[END]
+
+//Are we going to become[LINE]
+//bubbles?[END]
+
+//As long as the FIEND of[LINE]
+//Water lives, we..[LINE]
+//Oh, boo hoo.[END]
+
+//You have responded[LINE]
+//to me!![END]
+
+//This is the Shrine's top[LINE]
+//floor. The FIEND of[LINE]
+//Water, KRAKEN lives on[LINE]
+//the bottom floor.[END]
+
+//I suppose you are the[LINE]
+//legendary..[END]
+
+//Please save the sea,[LINE]
+//and make the ORB shine[LINE]
+//again![END]
+
+//Now, order has returned.[LINE]
+//The sea will be as it[LINE]
+//was before, beautiful.[END]
+
+//My friend Darryl went to[LINE]
+//the land, then never[LINE]
+//returned. I've often[LINE]
+//wondered what happened..[LINE]
+//Maybe, she grew legs and[LINE]
+//walked away?[END]
+
+//Unbelievable!![LINE]
+//You can breathe[LINE]
+//underwater?![LINE]
+//I'm impressed![END]
+
+//To unlock the Mirage[LINE]
+//Tower the Lefeinish[LINE]
+//used a musical tone.[END]
+
+//This door is locked by[LINE]
+//the mystic KEY.[END]
+
+//This town is Gaia..[END]
+
+//Have you been to the[LINE]
+//city south of here? I[LINE]
+//just cannot understand[LINE]
+//a word spoken there.[LINE]
+//I have wondered what[LINE]
+//language..[END]
+
+//Legend says the SKY[LINE]
+//WARRIORS flew about,[LINE]
+//here and there, from a[LINE]
+//castle high in the sky.[END]
+
+//I saw a shining object[LINE]
+//flying towards the east.[END]
+
+//Unbelievable![LINE]
+//You are outsiders,[LINE]
+//right?[LINE]
+//How did you get this far[LINE]
+//north?[END]
+
+//Let me see.. Yes, there[LINE]
+//was a professor that[LINE]
+//studied Lefeinish.[END]
+
+//Only a fairy can draw[LINE]
+//OXYALE from the spring.[END]
+
+//Everyone thinks the[LINE]
+//tower in Yahnikurm[LINE]
+//Desert is a mirage.[LINE]
+//I wonder..[END]
+
+//Hardy har, you are too[LINE]
+//late! I BOTTLED the[LINE]
+//fairy and sold her to a[LINE]
+//caravan.[END]
+
+//Legends say that the[LINE]
+//castle in the west is a[LINE]
+//place to test courage.[END]
+
+//?rewoP taerg evah uoy oD[END]
+
+//What's that broom up to?[LINE]
+//It's talking backwards![END]
+
+//The fairy at the spring[LINE]
+//was kidnapped.[END]
+
+//With this CHIME you can[LINE]
+//enter the Mirage Tower.[END]
+
+//The Mirage Tower was the[LINE]
+//gateway to our home in[LINE]
+//the sky.[END]
+
+//400 years ago, we had an[LINE]
+//advanced civilization.[LINE]
+//Our interest was the[LINE]
+//universe!![END]
+
+//Lu..pa..?[LINE]
+//Lu..pa..?[END]
+
+//We are the Lefeinish.[LINE]
+//Only our bravest became[LINE]
+//SKY WARRIORS. Your[LINE]
+//AIRSHIP was theirs.[END]
+
+//The FLOATING CASTLE..[LINE]
+//Our ancestors lived[LINE]
+//there. The Mirage Tower[LINE]
+//is the entrance.[END]
+
+//At the time of[LINE]
+//destruction a legend was[LINE]
+//born..  In 400 years,[LINE]
+//WARRIORS with ORBS will[LINE]
+//appear to save our[LINE]
+//people .[LINE]
+//Are you?..[END]
+
+//We fought with TIAMAT,[LINE]
+//but were unsuccessful.[LINE]
+//The FIEND now inhabits[LINE]
+//our FLOATING CASTLE.[END]
+
+//Our last five Warriors[LINE]
+//left to find the cause[LINE]
+//of the world's decay.[LINE]
+//We Know they live, but,[LINE]
+//as bats.[END]
+
+//We knew that a great[LINE]
+//power controlled the[LINE]
+//FIENDS. Our five bravest[LINE]
+//Warriors left, never to[LINE]
+//return.[END]
+
+//We have passed on the[LINE]
+//legends from generation[LINE]
+//to generation. But 400[LINE]
+//years have caused our[LINE]
+//memories to fade.[END]
+
+//Oh, the LIGHT WARRIORS!![LINE]
+//The legend is true![END]
+
+//Until 400 years ago we[LINE]
+//controlled the Power of[LINE]
+//the Wind. This enabled[LINE]
+//us to suspend the castle[LINE]
+//in the air.[END]
+
+//The power of Wind was[LINE]
+//taken by TIAMAT.[END]
+
+//Here lies Erdrick[LINE]
+//    837 - 866[LINE]
+//      R.I.P.[END]
+
+//I wonder if the robots[LINE]
+//made by our ancestors[LINE]
+//are still moving?[END]
+
+//The FLOATING CASTLE[LINE]
+//floats high in the[LINE]
+//sky, seemingly among[LINE]
+//the stars.[END]
+
+//One of us escaped with[LINE]
+//a CUBE. He floated far[LINE]
+//to the west.[END]
+
+//Transporter operation[LINE]
+//requires a CUBE.[END]
+
+//Are you the master?[END]
+
+//You can look out over[LINE]
+//the world from this[LINE]
+//window.[END]
+
+//If you are brave enough,[LINE]
+//try meeting the King of[LINE]
+//the Dragons, BAHAMUT.[END]
+
+//Unprofitable business[LINE]
+//is not a practice of the[LINE]
+//Dragons of Cardia.[END]
+
+//Long ago, Dragons and[LINE]
+//humans lived and traded[LINE]
+//together.[END]
+
+//You are not afraid of[LINE]
+//me??[LINE]
+//Then, I am impressed![END]
+
+//See your face upon the[LINE]
+//clean water. How dirty![LINE]
+//Come! Wash your face![END]
+
+//We are going to the[LINE]
+//Castle of Ordeal to the[LINE]
+//northeast. There we will[LINE]
+//test, and bring back[LINE]
+//proof of our courage.[END]
+
+//The proof of your[LINE]
+//courage might be[LINE]
+//anything.[END]
+
+//Have you met BAHAMUT,[LINE]
+//the Dragon King? He[LINE]
+//honors those with[LINE]
+//courage as true[LINE]
+//warriors.[END]
+
+//Only the courageous ones[LINE]
+//bring back the proof of[LINE]
+//their courage.[END]
+
+//Once in the north, there[LINE]
+//were beautiful palaces[LINE]
+//and big mechanical[LINE]
+//castles.[END]
+
+//This is BAHAMUT's room.[END]
+
+//BAHAMUT verifies the[LINE]
+//true courage of all.[END]
+
+//This is a tomb.[END]
+
+//This is a well. You[LINE]
+//might think that there[LINE]
+//is something to it..[LINE]
+//But in fact it is just[LINE]
+//an ordinary well.[END]
+
+//In the treasure box,[LINE]
+//you found..<$01><$02>[END]
+
+//Can't hold anymore.[END]
+
+//The treasure box is[LINE]
+//empty![END]
+
+//The Altar of the Earth.[END]
+
+//The Altar of the Fire.[END]
+
+//The Altar of the Water.[END]
+
+//The Altar of the Wind.[END]
+
+//At the bottom of the[LINE]
+//spring, something is[LINE]
+//flowing.[END]
+
+//TIAMAT is the FIEND of[LINE]
+//the WIND..[END]
+
+//From this window one can[LINE]
+//see the entire world.[LINE]
+//The Four Forces are[LINE]
+//flowing together, into[LINE]
+//the center of the Four[LINE]
+//Altars. Into the Temple[LINE]
+//of FIENDS.[END]
+
+//The FIEND's ball cracks[LINE]
+//open.. An ominous cloud[LINE]
+//rises, and an evil shape[LINE]
+//congeals..[LINE]
+//It is LICH, the FIEND of[LINE]
+//Earth.[END]
+
+//Is it you, the tinder[LINE]
+//that defeated the FIEND[LINE]
+//of the Earth, and[LINE]
+//disturbed my sleep?[LINE]
+//I, KARY will now show[LINE]
+//you the force of Fire,[LINE]
+//and you shall burn in[LINE]
+//its flames!![END]
+
+//The FIEND's ball is[LINE]
+//shattered, evaporating[LINE]
+//all the water.[LINE]
+//Ho, Ho, Ho..[LINE]
+//How foolhardy to dare[LINE]
+//challenge me, KRAKEN the[LINE]
+//FIEND of the Water.[END]
+
+//Lightning erupts from[LINE]
+//the FIEND's ball..[LINE]
+//So, you have come this[LINE]
+//far..[LINE]
+//I, TIAMAT the FIEND of[LINE]
+//the Wind will now put an[LINE]
+//end to your adventure!![END]
+
+//What??[LINE]
+//You can speak Lefeinish?[END]
+
+//There is a stone plate[LINE]
+//on the floor..[LINE]
+//You sense something..[LINE]
+//Evil?..[END]
+
+//

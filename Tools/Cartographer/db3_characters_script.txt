@@ -1,0 +1,495 @@
+//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
+
+//BLOCK #000 NAME:		Characters
+
+//POINTER #0 @ $C92F - STRING #0 @ $C9D3
+
+#W16($C92F)
+ゴクウ[END]
+
+
+//POINTER #1 @ $C931 - STRING #1 @ $C9D3
+
+#W16($C931)
+ゴクウ[END]
+
+
+//POINTER #2 @ $C933 - STRING #2 @ $C9D3
+
+#W16($C933)
+ゴクウ[END]
+
+
+//POINTER #3 @ $C935 - STRING #3 @ $C9D7
+
+#W16($C935)
+ピッコロだいまおう[END]
+
+
+//POINTER #4 @ $C937 - STRING #4 @ $C9E1
+
+#W16($C937)
+マジュニア[END]
+
+
+//POINTER #5 @ $C939 - STRING #5 @ $C9E7
+
+#W16($C939)
+ニセ・ゴクウ[END]
+
+
+//POINTER #6 @ $C93B - STRING #6 @ $C9EE
+
+#W16($C93B)
+ラディッツ[END]
+
+
+//POINTER #7 @ $C93D - STRING #7 @ $C9F4
+
+#W16($C93D)
+テンシンハン[END]
+
+
+//POINTER #8 @ $C93F - STRING #8 @ $C9F4
+
+#W16($C93F)
+テンシンハン[END]
+
+
+//POINTER #9 @ $C941 - STRING #9 @ $C9FB
+
+#W16($C941)
+ジャッキーチュン[END]
+
+
+//POINTER #10 @ $C943 - STRING #10 @ $CA04
+
+#W16($C943)
+クリリン[END]
+
+
+//POINTER #11 @ $C945 - STRING #11 @ $CA04
+
+#W16($C945)
+クリリン[END]
+
+
+//POINTER #12 @ $C947 - STRING #12 @ $CA04
+
+#W16($C947)
+クリリン[END]
+
+
+//POINTER #13 @ $C949 - STRING #13 @ $CA04
+
+#W16($C949)
+クリリン[END]
+
+
+//POINTER #14 @ $C94B - STRING #14 @ $CA09
+
+#W16($C94B)
+ヤムチャ[END]
+
+
+//POINTER #15 @ $C94D - STRING #15 @ $CA09
+
+#W16($C94D)
+ヤムチャ[END]
+
+
+//POINTER #16 @ $C94F - STRING #16 @ $CA09
+
+#W16($C94F)
+ヤムチャ[END]
+
+
+//POINTER #17 @ $C951 - STRING #17 @ $CA09
+
+#W16($C951)
+ヤムチャ[END]
+
+
+//POINTER #18 @ $C953 - STRING #18 @ $CA0E
+
+#W16($C953)
+ソン・ゴハン[END]
+
+
+//POINTER #19 @ $C955 - STRING #19 @ $CA15
+
+#W16($C955)
+タオ・パイパイ[END]
+
+
+//POINTER #20 @ $C957 - STRING #20 @ $CA15
+
+#W16($C957)
+タオ・パイパイ[END]
+
+
+//POINTER #21 @ $C959 - STRING #21 @ $CA1D
+
+#W16($C959)
+ハープ[END]
+
+
+//POINTER #22 @ $C95B - STRING #22 @ $CA21
+
+#W16($C95B)
+タンバリン[END]
+
+
+//POINTER #23 @ $C95D - STRING #23 @ $CA27
+
+#W16($C95D)
+マンドリン[END]
+
+
+//POINTER #24 @ $C95F - STRING #24 @ $CA2D
+
+#W16($C95F)
+ベル[END]
+
+
+//POINTER #25 @ $C961 - STRING #25 @ $CA30
+
+#W16($C961)
+シンバル[END]
+
+
+//POINTER #26 @ $C963 - STRING #26 @ $CA35
+
+#W16($C963)
+マリンバ[END]
+
+
+//POINTER #27 @ $C965 - STRING #27 @ $CA3A
+
+#W16($C965)
+ビオラ[END]
+
+
+//POINTER #28 @ $C967 - STRING #28 @ $CA3E
+
+#W16($C967)
+ドラム[END]
+
+
+//POINTER #29 @ $C969 - STRING #29 @ $CA42
+
+#W16($C969)
+コンガ[END]
+
+
+//POINTER #30 @ $C96B - STRING #30 @ $CA46
+
+#W16($C96B)
+デビルズ[END]
+
+
+//POINTER #31 @ $C96D - STRING #31 @ $CA4B
+
+#W16($C96D)
+アックマン[END]
+
+
+//POINTER #32 @ $C96F - STRING #32 @ $CA51
+
+#W16($C96F)
+サターン[END]
+
+
+//POINTER #33 @ $C971 - STRING #33 @ $CA56
+
+#W16($C971)
+ホウタイおとこ[END]
+
+
+//POINTER #34 @ $C973 - STRING #34 @ $CA5E
+
+#W16($C973)
+ミイラ[END]
+
+
+//POINTER #35 @ $C975 - STRING #35 @ $CA62
+
+#W16($C975)
+マミー[END]
+
+
+//POINTER #36 @ $C977 - STRING #36 @ $CA66
+
+#W16($C977)
+ブルーしょうぐん[END]
+
+
+//POINTER #37 @ $C979 - STRING #37 @ $CA6F
+
+#W16($C979)
+ブヨン[END]
+
+
+//POINTER #38 @ $C97B - STRING #38 @ $CA73
+
+#W16($C97B)
+ガキン[END]
+
+
+//POINTER #39 @ $C97D - STRING #39 @ $CA77
+
+#W16($C97D)
+バトルジャケット[END]
+
+
+//POINTER #40 @ $C97F - STRING #40 @ $CA80
+
+#W16($C97F)
+ピラフマシーン[END]
+
+
+//POINTER #41 @ $C981 - STRING #41 @ $CA88
+
+#W16($C981)
+メカデビル[END]
+
+
+//POINTER #42 @ $C983 - STRING #42 @ $CA8E
+
+#W16($C983)
+げにん[END]
+
+
+//POINTER #43 @ $C985 - STRING #43 @ $CA92
+
+#W16($C985)
+ムラサキそうちょうじょうにん[END]
+
+
+//POINTER #44 @ $C987 - STRING #44 @ $CA9B
+
+#W16($C987)
+じょうにん[END]
+
+
+//POINTER #45 @ $C989 - STRING #45 @ $CAA1
+
+#W16($C989)
+ターミネーター[END]
+
+
+//POINTER #46 @ $C98B - STRING #46 @ $CAA9
+
+#W16($C98B)
+メタリックぐんそう[END]
+
+
+//POINTER #47 @ $C98D - STRING #47 @ $CAB3
+
+#W16($C98D)
+さつじんサイボーグ[END]
+
+
+//POINTER #48 @ $C98F - STRING #48 @ $CABD
+
+#W16($C98F)
+パトロールロボット[END]
+
+
+//POINTER #49 @ $C991 - STRING #49 @ $CAC7
+
+#W16($C991)
+ばんにんロボット[END]
+
+
+//POINTER #50 @ $C993 - STRING #50 @ $CAD0
+
+#W16($C993)
+ギラン[END]
+
+
+//POINTER #51 @ $C995 - STRING #51 @ $CAD4
+
+#W16($C995)
+キングギラン[END]
+
+
+//POINTER #52 @ $C997 - STRING #52 @ $CADB
+
+#W16($C997)
+どくギラン[END]
+
+
+//POINTER #53 @ $C999 - STRING #53 @ $CAE1
+
+#W16($C999)
+レッドリボンぐん[END]
+
+
+//POINTER #54 @ $C99B - STRING #54 @ $CAE1
+
+#W16($C99B)
+レッドリボンぐん[END]
+
+
+//POINTER #55 @ $C99D - STRING #55 @ $CAE1
+
+#W16($C99D)
+レッドリボンぐん[END]
+
+
+//POINTER #56 @ $C99F - STRING #56 @ $CAE1
+
+#W16($C99F)
+レッドリボンぐん[END]
+
+
+//POINTER #57 @ $C9A1 - STRING #57 @ $CAE1
+
+#W16($C9A1)
+レッドリボンぐん[END]
+
+
+//POINTER #58 @ $C9A3 - STRING #58 @ $CAE1
+
+#W16($C9A3)
+レッドリボンぐん[END]
+
+
+//POINTER #59 @ $C9A5 - STRING #59 @ $CAEA
+
+#W16($C9A5)
+リカント[END]
+
+
+//POINTER #60 @ $C9A7 - STRING #60 @ $CAEF
+
+#W16($C9A7)
+さんぞく[END]
+
+
+//POINTER #61 @ $C9A9 - STRING #61 @ $CAF4
+
+#W16($C9A9)
+さんぞくのボス[END]
+
+
+//POINTER #62 @ $C9AB - STRING #62 @ $CAFC
+
+#W16($C9AB)
+ゾンビリカント[END]
+
+
+//POINTER #63 @ $C9AD - STRING #63 @ $CB04
+
+#W16($C9AD)
+おおうし[END]
+
+
+//POINTER #64 @ $C9AF - STRING #64 @ $CB09
+
+#W16($C9AF)
+もうぎゅう[END]
+
+
+//POINTER #65 @ $C9B1 - STRING #65 @ $CB0F
+
+#W16($C9B1)
+もうぎゅうつかい[END]
+
+
+//POINTER #66 @ $C9B3 - STRING #66 @ $CB18
+
+#W16($C9B3)
+ウサギだん[END]
+
+
+//POINTER #67 @ $C9B5 - STRING #67 @ $CB18
+
+#W16($C9B5)
+ウサギだん[END]
+
+
+//POINTER #68 @ $C9B7 - STRING #68 @ $CB1E
+
+#W16($C9B7)
+チャオズ[END]
+
+
+//POINTER #69 @ $C9B9 - STRING #69 @ $CB23
+
+#W16($C9B9)
+ヤジロベー[END]
+
+
+//POINTER #70 @ $C9BB - STRING #70 @ $CB29
+
+#W16($C9BB)
+アラレちゃん[END]
+
+
+//POINTER #71 @ $C9BD - STRING #71 @ $CB30
+
+#W16($C9BD)
+ソン・ゴハン[END]
+
+
+//POINTER #72 @ $C9BF - STRING #72 @ $CB37
+
+#W16($C9BF)
+ブルマ[END]
+
+
+//POINTER #73 @ $C9C1 - STRING #73 @ $CB3B
+
+#W16($C9C1)
+カリンさま[END]
+
+
+//POINTER #74 @ $C9C3 - STRING #74 @ $CB41
+
+#W16($C9C3)
+かみさま[END]
+
+
+//POINTER #75 @ $C9C5 - STRING #75 @ $CB46
+
+#W16($C9C5)
+プーアル[END]
+
+
+//POINTER #76 @ $C9C7 - STRING #76 @ $CB4B
+
+#W16($C9C7)
+ガッちゃん[END]
+
+
+//POINTER #77 @ $C9C9 - STRING #77 @ $CB51
+
+#W16($C9C9)
+かめせんにん[END]
+
+
+//POINTER #78 @ $C9CB - STRING #78 @ $CB58
+
+#W16($C9CB)
+ミスター・ポポ[END]
+
+
+//POINTER #79 @ $C9CD - STRING #79 @ $CB60
+
+#W16($C9CD)
+うらないババ[END]
+
+
+//POINTER #80 @ $C9CF - STRING #80 @ $CB67
+
+#W16($C9CF)
+オボッチャマン[END]
+
+
+//POINTER #81 @ $C9D1 - STRING #81 @ $CB6F
+
+#W16($C9D1)
+ウーロン[END]
+

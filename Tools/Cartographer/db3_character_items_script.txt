@@ -1,0 +1,99 @@
+//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
+
+//BLOCK #000 NAME:		Character Items
+
+//POINTER #0 @ $1C96 - STRING #0 @ $1CB6
+
+#W16($1C96)
+ブルマ[END]
+
+
+//POINTER #1 @ $1C98 - STRING #1 @ $1CBA
+
+#W16($1C98)
+カリンさま[END]
+
+
+//POINTER #2 @ $1C9A - STRING #2 @ $1CC0
+
+#W16($1C9A)
+かみさま[END]
+
+
+//POINTER #3 @ $1C9C - STRING #3 @ $1CC5
+
+#W16($1C9C)
+クリリン[END]
+
+
+//POINTER #4 @ $1C9E - STRING #4 @ $1CCA
+
+#W16($1C9E)
+オボッチャマン[END]
+
+
+//POINTER #5 @ $1CA0 - STRING #5 @ $1CD2
+
+#W16($1CA0)
+プーアル[END]
+
+
+//POINTER #6 @ $1CA2 - STRING #6 @ $1CD7
+
+#W16($1CA2)
+ガッちゃん[END]
+
+
+//POINTER #7 @ $1CA4 - STRING #7 @ $1CDD
+
+#W16($1CA4)
+ウーロン[END]
+
+
+//POINTER #8 @ $1CA6 - STRING #8 @ $1CE2
+
+#W16($1CA6)
+チャオズ[END]
+
+
+//POINTER #9 @ $1CA8 - STRING #9 @ $1CE7
+
+#W16($1CA8)
+アラレちゃん[END]
+
+
+//POINTER #10 @ $1CAA - STRING #10 @ $1CEE
+
+#W16($1CAA)
+ヤジロベー[END]
+
+
+//POINTER #11 @ $1CAC - STRING #11 @ $1CF4
+
+#W16($1CAC)
+かめせんにん[END]
+
+
+//POINTER #12 @ $1CAE - STRING #12 @ $1CFB
+
+#W16($1CAE)
+ミスターポポ[END]
+
+
+//POINTER #13 @ $1CB0 - STRING #13 @ $1D02
+
+#W16($1CB0)
+ヤムチャ[END]
+
+
+//POINTER #14 @ $1CB2 - STRING #14 @ $1D07
+
+#W16($1CB2)
+テンシンハン[END]
+
+
+//POINTER #15 @ $1CB4 - STRING #15 @ $1D0E
+
+#W16($1CB4)
+うらないババ[END]
+

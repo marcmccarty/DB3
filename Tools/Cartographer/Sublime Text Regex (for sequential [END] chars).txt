@@ -1,0 +1,22 @@
+Sublime Text Regex (for sequential [END] chars).txt // used in db3_adventure_choices_script.txt
+Replace [END] followed by "some character" with:
+[END]
+"That character" // on this new line
+
+// (CHAR+) creates a backup variable of CHAR
+// [^\[] will find any character that's not: [
+// So we make sure we only line break after the last [END]
+----------
+Find:
+----------
+\[END\]([^\[]+)
+
+
+// Backup character preserved with \1
+// In this case, it's whatever was after the last [END]
+----------
+Replace:
+----------
+[END]
+
+\1

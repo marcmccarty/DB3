@@ -1,0 +1,9 @@
+Plot Pointer Table
+
+$04C864 -> B9 1E
+Pointer for line 2
+
+which occurs at:
+$04DEC9 --> DEC9
+
+Offset

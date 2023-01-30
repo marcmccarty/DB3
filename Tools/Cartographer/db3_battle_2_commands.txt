@@ -1,0 +1,14 @@
+#GAME NAME: 				Dragon Ball 3 - Gokuuden (NES)
+#BLOCK NAME: 				Battle Text (#2)
+#TYPE: 						NORMAL
+#METHOD: 					POINTER_RELATIVE
+#POINTER ENDIAN: 			LITTLE
+#POINTER TABLE START: 		$C69E
+#POINTER TABLE STOP: 		$C6C6
+#POINTER SIZE: 				$02
+#POINTER SPACE: 			$00
+#ATLAS PTRS: 				Yes
+#BASE POINTER: 				$4010
+#TABLE: 					db3_battle.tbl
+#COMMENTS: 					No
+#END BLOCK

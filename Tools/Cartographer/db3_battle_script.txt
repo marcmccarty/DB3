@@ -1,0 +1,123 @@
+//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
+
+//BLOCK #000 NAME:		Battle Text
+
+//POINTER #0 @ $C41D - STRING #0 @ $C445
+
+#W16($C41D)
+カード　まいの　しょうぶを　いどんできた！[END]
+
+
+//POINTER #1 @ $C41F - STRING #1 @ $C45B
+
+#W16($C41F)
+の　こうげき！[END]
+
+
+//POINTER #2 @ $C421 - STRING #2 @ $C46B
+
+#W16($C421)
+[END]
+
+
+//POINTER #3 @ $C423 - STRING #3 @ $C463
+
+#W16($C423)
+を　やっつけた！[END]
+
+
+//POINTER #4 @ $C425 - STRING #4 @ $C46B
+
+#W16($C425)
+[END]
+
+
+//POINTER #5 @ $C427 - STRING #5 @ $C46C
+
+#W16($C427)
+は　やられてしまった！[END]
+
+
+//POINTER #6 @ $C429 - STRING #6 @ $C478
+
+#W16($C429)
+は　ダメージをうけていない！[END]
+
+
+//POINTER #7 @ $C42B - STRING #7 @ $C487
+
+#W16($C42B)
+は　にげだした！[END]
+
+
+//POINTER #8 @ $C42D - STRING #8 @ $C490
+
+#W16($C42D)
+ゴクウの　しゅぎょうちが　　　　　　アップした！[END]
+
+
+//POINTER #9 @ $C42F - STRING #9 @ $C4A9
+
+#W16($C42F)
+ゴクウの　レベルが　　　　になった！[END]
+
+
+//POINTER #10 @ $C431 - STRING #10 @ $C4BC
+
+#W16($C431)
+が　あらわれた！[END]
+
+
+//POINTER #11 @ $C433 - STRING #11 @ $C4C5
+
+#W16($C433)
+かめせんにん「よし！　これで　おぬしの[BRK]
+
+
+//POINTER #12 @ $C435 - STRING #12 @ $C4D9
+
+#W16($C435)
+カリン　　　ー　　　ゴクウ[END]
+
+
+//POINTER #13 @ $C437 - STRING #13 @ $C4E7
+
+#W16($C437)
+カリン「よし！　ちょうせいすいを　のむがいい！[BRK]
+
+
+//POINTER #14 @ $C439 - STRING #14 @ $C4FF
+
+#W16($C439)
+おまえのレベル　　　アップ！　きえるこうげき[BRK]
+
+
+//POINTER #15 @ $C43B - STRING #15 @ $C4FF
+
+#W16($C43B)
+おまえのレベル　　　アップ！　きえるこうげき[BRK]
+
+
+//POINTER #16 @ $C43D - STRING #16 @ $C4FF
+
+#W16($C43D)
+おまえのレベル　　　アップ！　きえるこうげき[BRK]
+
+
+//POINTER #17 @ $C43F - STRING #17 @ $C46B
+
+#W16($C43F)
+[END]
+
+
+//POINTER #18 @ $C441 - STRING #18 @ $C516
+
+#W16($C441)
+カリン「よし！　これで　おぬしの[BRK]
+
+
+//POINTER #19 @ $C443 - STRING #19 @ $C527
+
+#W16($C443)
+ポポ「よし！　これで　おぬしの[BRK]
+

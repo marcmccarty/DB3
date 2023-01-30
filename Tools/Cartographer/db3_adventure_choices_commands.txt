@@ -1,0 +1,9 @@
+#GAME NAME: 				Dragon Ball 3 - Gokuuden (NES)
+#BLOCK NAME: 				Adventure Choices
+#TYPE: 						NORMAL
+#METHOD: 					RAW
+#SCRIPT START:				$5C010
+#SCRIPT STOP:				$5C407
+#TABLE: 					db3_adventure_choices.tbl
+#COMMENTS: 					No
+#END BLOCK

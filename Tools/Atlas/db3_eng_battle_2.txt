@@ -1,0 +1,81 @@
+//GAME NAME:			Dragon Ball 3 - Gokuuden (NES)
+//BLOCK #000 NAME:		Battle Text (#2)
+
+#VAR(db3Tbl, TABLE)
+#ADDTBL("db3_eng.tbl", db3Tbl)
+#ACTIVETBL(db3Tbl)
+#HDR($4010)
+#JMP($C6C6)
+
+//POINTER #0 @ $C69E - STRING #0 @ $C6D0
+//POINTER #1 @ $C6A0 - STRING #1 @ $C6D0
+//POINTER #5 @ $C6A8 - STRING #5 @ $C6D0
+//POINTER #6 @ $C6AA - STRING #6 @ $C6D0
+//POINTER #7 @ $C6AC - STRING #7 @ $C6D0
+//POINTER #8 @ $C6AE - STRING #8 @ $C6D0
+//POINTER #9 @ $C6B0 - STRING #9 @ $C6D0
+//POINTER #10 @ $C6B2 - STRING #10 @ $C6D0
+//POINTER #12 @ $C6B6 - STRING #12 @ $C6D0
+//POINTER #17 @ $C6C0 - STRING #17 @ $C6D0
+
+#W16($C69E)
+#W16($C6A0)
+#W16($C6A8)
+#W16($C6AA)
+#W16($C6AC)
+#W16($C6AE)
+#W16($C6B0)
+#W16($C6B2)
+#W16($C6B6)
+#W16($C6C0)
+[END]
+
+
+//POINTER #2 @ $C6A2 - STRING #2 @ $C6C6
+//POINTER #3 @ $C6A4 - STRING #3 @ $C6D1
+
+#W16($C6A2)
+#W16($C6A4)
+//のダメージをうけた！[END]
+ damage taken![END]
+
+
+//POINTER #4 @ $C6A6 - STRING #4 @ $C6DD
+
+#W16($C6A6)
+//　　きょうれつな　いちげきがきまった！[END]
+  dealt a critical hit![END]
+
+
+//POINTER #11 @ $C6B4 - STRING #11 @ $C6F1
+//POINTER #18 @ $C6C2 - STRING #18 @ $C6F1
+//POINTER #19 @ $C6C4 - STRING #19 @ $C6F1
+
+#W16($C6B4)
+#W16($C6C2)
+#W16($C6C4)
+//しゅぎょうちが　　　アップしたぞ！」[END]
+gained ( ) XP[!][END]
+
+
+//POINTER #13 @ $C6B8 - STRING #13 @ $C704
+
+#W16($C6B8)
+//おぬしの　レベルが　　　アップしたぞ！」[END]
+level up ( ) times[!][END]
+
+
+//POINTER #14 @ $C6BA - STRING #14 @ $C719
+
+#W16($C6BA)
+//おぼえた！」[END]
+New ski[ll] learned[!][END]
+
+
+//POINTER #15 @ $C6BC - STRING #15 @ $C720
+//POINTER #16 @ $C6BE - STRING #16 @ $C72E
+
+#W16($C6BC)
+#W16($C6BE)
+//しょうげきは　おぼえた！」[END]
+New ski[ll]s learned[!][END]

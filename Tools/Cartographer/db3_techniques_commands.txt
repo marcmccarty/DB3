@@ -1,0 +1,14 @@
+#GAME NAME: 				Dragon Ball 3 - Gokuuden (NES)
+#BLOCK NAME: 				Techniques
+#TYPE: 						NORMAL
+#METHOD: 					POINTER_RELATIVE
+#POINTER ENDIAN: 			LITTLE
+#POINTER TABLE START: 		$1B9A
+#POINTER TABLE STOP: 		$1BB6
+#POINTER SIZE: 				$02
+#POINTER SPACE: 			$00
+#ATLAS PTRS: 				Yes
+#BASE POINTER: 				-$7FF0
+#TABLE: 					db3_plot_alt.tbl
+#COMMENTS: 					No
+#END BLOCK

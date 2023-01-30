@@ -1,0 +1,3 @@
+cartographer db3_jpn.nes db3_character_items_commands.txt db3_character_items_script -s
+
+pause

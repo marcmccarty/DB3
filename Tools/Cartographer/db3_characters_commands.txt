@@ -1,0 +1,14 @@
+#GAME NAME: 				Dragon Ball 3 - Gokuuden (NES)
+#BLOCK NAME: 				Characters
+#TYPE: 						NORMAL
+#METHOD: 					POINTER_RELATIVE
+#POINTER ENDIAN: 			LITTLE
+#POINTER TABLE START: 		$C92F
+#POINTER TABLE STOP: 		$C9D3
+#POINTER SIZE: 				$02
+#POINTER SPACE: 			$00
+#ATLAS PTRS: 				Yes
+#BASE POINTER: 				$4010
+#TABLE: 					db3_plot_alt.tbl
+#COMMENTS: 					No
+#END BLOCK

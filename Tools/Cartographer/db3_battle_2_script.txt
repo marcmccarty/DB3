@@ -1,0 +1,123 @@
+//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
+
+//BLOCK #000 NAME:		Battle Text (#2)
+
+//POINTER #0 @ $C69E - STRING #0 @ $C6D0
+
+#W16($C69E)
+[END]
+
+
+//POINTER #1 @ $C6A0 - STRING #1 @ $C6D0
+
+#W16($C6A0)
+[END]
+
+
+//POINTER #2 @ $C6A2 - STRING #2 @ $C6C6
+
+#W16($C6A2)
+のダメージをうけた！[END]
+
+
+//POINTER #3 @ $C6A4 - STRING #3 @ $C6D1
+
+#W16($C6A4)
+のダメージをあたえた！[END]
+
+
+//POINTER #4 @ $C6A6 - STRING #4 @ $C6DD
+
+#W16($C6A6)
+　　きょうれつな　いちげきがきまった！[END]
+
+
+//POINTER #5 @ $C6A8 - STRING #5 @ $C6D0
+
+#W16($C6A8)
+[END]
+
+
+//POINTER #6 @ $C6AA - STRING #6 @ $C6D0
+
+#W16($C6AA)
+[END]
+
+
+//POINTER #7 @ $C6AC - STRING #7 @ $C6D0
+
+#W16($C6AC)
+[END]
+
+
+//POINTER #8 @ $C6AE - STRING #8 @ $C6D0
+
+#W16($C6AE)
+[END]
+
+
+//POINTER #9 @ $C6B0 - STRING #9 @ $C6D0
+
+#W16($C6B0)
+[END]
+
+
+//POINTER #10 @ $C6B2 - STRING #10 @ $C6D0
+
+#W16($C6B2)
+[END]
+
+
+//POINTER #11 @ $C6B4 - STRING #11 @ $C6F1
+
+#W16($C6B4)
+しゅぎょうちが　　　アップしたぞ！」[END]
+
+
+//POINTER #12 @ $C6B6 - STRING #12 @ $C6D0
+
+#W16($C6B6)
+[END]
+
+
+//POINTER #13 @ $C6B8 - STRING #13 @ $C704
+
+#W16($C6B8)
+おぬしの　レベルが　　　アップしたぞ！」[END]
+
+
+//POINTER #14 @ $C6BA - STRING #14 @ $C719
+
+#W16($C6BA)
+おぼえた！」[END]
+
+
+//POINTER #15 @ $C6BC - STRING #15 @ $C720
+
+#W16($C6BC)
+しょうげきは　おぼえた！」[END]
+
+
+//POINTER #16 @ $C6BE - STRING #16 @ $C72E
+
+#W16($C6BE)
+しょうげきは　ちょうカメハメは　おぼえた！」[END]
+
+
+//POINTER #17 @ $C6C0 - STRING #17 @ $C6D0
+
+#W16($C6C0)
+[END]
+
+
+//POINTER #18 @ $C6C2 - STRING #18 @ $C6F1
+
+#W16($C6C2)
+しゅぎょうちが　　　アップしたぞ！」[END]
+
+
+//POINTER #19 @ $C6C4 - STRING #19 @ $C6F1
+
+#W16($C6C4)
+しゅぎょうちが　　　アップしたぞ！」[END]
+

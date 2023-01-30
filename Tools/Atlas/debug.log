@@ -1,0 +1,31 @@
+     5 ADDTBL    Added table 'db3_eng.tbl' as 'db3Tbl'
+     6 ACTIVETBL Active table is now 'db3Tbl'
+     7 HDR       Header size is now $4010
+     8 JMP       ROM Position is now $C6C6
+    21 W16       ScriptPos $C6C6 PointerPos $C69E PointerValue $86B6
+    22 W16       ScriptPos $C6C6 PointerPos $C6A0 PointerValue $86B6
+    23 W16       ScriptPos $C6C6 PointerPos $C6A8 PointerValue $86B6
+    24 W16       ScriptPos $C6C6 PointerPos $C6AA PointerValue $86B6
+    25 W16       ScriptPos $C6C6 PointerPos $C6AC PointerValue $86B6
+    26 W16       ScriptPos $C6C6 PointerPos $C6AE PointerValue $86B6
+    27 W16       ScriptPos $C6C6 PointerPos $C6B0 PointerValue $86B6
+    28 W16       ScriptPos $C6C6 PointerPos $C6B2 PointerValue $86B6
+    29 W16       ScriptPos $C6C6 PointerPos $C6B6 PointerValue $86B6
+    30 W16       ScriptPos $C6C6 PointerPos $C6C0 PointerValue $86B6
+[END]
+    37 W16       ScriptPos $C6C7 PointerPos $C6A2 PointerValue $86B7
+    38 W16       ScriptPos $C6C7 PointerPos $C6A4 PointerValue $86B7
+[END]
+    45 W16       ScriptPos $C6D6 PointerPos $C6A6 PointerValue $86C6
+[END]
+    54 W16       ScriptPos $C6EE PointerPos $C6B4 PointerValue $86DE
+    55 W16       ScriptPos $C6EE PointerPos $C6C2 PointerValue $86DE
+    56 W16       ScriptPos $C6EE PointerPos $C6C4 PointerValue $86DE
+[END]
+    63 W16       ScriptPos $C6FD PointerPos $C6B8 PointerValue $86ED
+[END]
+    70 W16       ScriptPos $C711 PointerPos $C6BA PointerValue $8701
+[END]
+    78 W16       ScriptPos $C723 PointerPos $C6BC PointerValue $8713
+    79 W16       ScriptPos $C723 PointerPos $C6BE PointerValue $8713
+[END]
