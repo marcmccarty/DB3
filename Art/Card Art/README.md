@@ -34,4 +34,4 @@ And like I said above, I colored it to match the palette of the game:
 
 Then I'd optionally check how it looks on a blank card:
 
-![Blank Card](./Blank%20Card.png) -> ![Fist Card](./Fist%20or%20Punch%20on%20Card%20Art.png)
+![Blank Card](./Blank%20Card.png) **->** ![Fist Card](./Fist%20or%20Punch%20on%20Card%20Art.png)
