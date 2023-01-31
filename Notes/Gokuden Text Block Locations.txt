@@ -39,15 +39,15 @@ Likely Junk (occurs at very end of file):
 
  - Replicated here, so likely junk:
 	 - //POINTER #492 @ $4CABC - STRING #492 @ $4FCFE
-	 #W16($4CABC)
-	 ぎゅうまおう「かめせんにん！？[BRK]
-	 む　むてんろうしさまだっ！　そ　それに[BRK]
-	 ばしょうせんじゃねえべか！[END]
+	   #W16($4CABC)
+	   ぎゅうまおう「かめせんにん！？[BRK]
+	   む　むてんろうしさまだっ！　そ　それに[BRK]
+	   ばしょうせんじゃねえべか！[END]
 
-	 //POINTER #493 @ $4CABE - STRING #493 @ $4FD30
-	 #W16($4CABE)
-	 た　たのむ！　そのばしょうせんで　あのやまのひを[BRK]
-	 けすてくれねいべか？」[END]
+	   //POINTER #493 @ $4CABE - STRING #493 @ $4FD30
+	   #W16($4CABE)
+	   た　たのむ！　そのばしょうせんで　あのやまのひを[BRK]
+	   けすてくれねいべか？」[END]
 
 NON-TEXT:
 Graphics:
