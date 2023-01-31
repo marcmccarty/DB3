@@ -6,7 +6,7 @@ Some Stat Screen stuff:
 
 Techniques:
 0x01BB6-0x01C29
- -	Janken through Rougafuufuuken
+ - Janken through Rougafuufuuken
 
 
 Items (Characters):
@@ -20,7 +20,7 @@ Battle Text:
 
 Characters:
 0x0C9D3-0x0CB73
- -	Goku through Oolong
+ - Goku through Oolong
 
 
 Definitely Story + Other Stuff:
