@@ -22,7 +22,9 @@ I used Paint.NET with Nearest Neighbor so it's not any more blurred than it need
 
 After this, you can optionally just color over the pixels with your 4-color palette.
 
-However, I used [this YouTube video](https://www.youtube.com/watch?v=mzPSPj2m0Cw) by [Doug Fraker](https://www.youtube.com/@dougfraker8411) to index the picture to just 4 colors:
+However, I used [this YouTube video](https://www.youtube.com/watch?v=mzPSPj2m0Cw) by [Doug Fraker](https://www.youtube.com/@dougfraker8411) to index the picture to just 4 colors.
+
+(I also flipped the image horizontally to represent the direction Goku faces in the game):
 
 ![Game Image Indexed to 4 Colors Stage](./Fist%20or%20Punch%20Card%20Art%20-%20Palette%20Stage%20(Simplify%20to%204%20colors%20with%20GIMP%20-%20Convert%20Image%20to%20Indexed).png)
 
