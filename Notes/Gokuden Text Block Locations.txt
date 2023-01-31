@@ -38,7 +38,7 @@ Likely Junk (occurs at very end of file):
  - [END]そ　それに　ばしょうせんんじゃねえべか！　たのむ！[BRK]そのばしょうせんで　あのやまのひを[BRK]けすてく
 
  - Replicated here, so likely junk:
-   - //POINTER #492 @ $4CABC - STRING #492 @ $4FCFE
+	 - //POINTER #492 @ $4CABC - STRING #492 @ $4FCFE
 	 #W16($4CABC)
 	 ぎゅうまおう「かめせんにん！？[BRK]
 	 む　むてんろうしさまだっ！　そ　それに[BRK]
