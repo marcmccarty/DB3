@@ -14,6 +14,10 @@ Items (Characters):
  - Bulma through Uranai Baba
 
 
+Battle Text:
+0x0C445-0x0C72E
+
+
 Characters:
 0x0C9D3-0x0CB73
  -	Goku through Oolong
