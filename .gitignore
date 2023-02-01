@@ -2,5 +2,6 @@
 *.exe
 *.nes
 *.deb
+*.cdl
 /src
 /FCEUX
