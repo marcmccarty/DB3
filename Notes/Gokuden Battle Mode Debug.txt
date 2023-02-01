@@ -1,2 +1,42 @@
+TCRF Instructions: https://tcrf.net/Dragon_Ball_3:_Gokuuden
+
 Battle Mode Debug
 Enter the Game Genie code NNNYEYAE to enable a battle-mode debug test. Press B on the first controller, then press Reset to enter instant battle mode. During this battle mode, hold A on the first controller, then press Up to select your opponent. Also, holding A, then pressing Down, does something, but it is currently unknown what it does. Hold Up or Down at the end of a move to instantly kill you or your enemy.
+
+^ Slightly inaccurate. Better instructions below:
+
+https://cah4e3.shedevr.org.ru/cheatsbase.php
+
+Dragon Ball 3 - Gokuu Den
+
+(UNI) Ending easters (added 21.08.18):
+Complete the game. At the ending sequence, the various character's picture cards will pop out for a second on the screen. Let's number them in appearance order from 1. There are a couple of easters assigned for some of these characters. Mostly you need to press a particular button when the character appears. See the complete list and actions needed to activate easter for corresponding character.
+
+Index	
+	|	Action	
+	|	Effect	
+	|	Notes
+06 (Pink girl in goggles)	
+	|	Press A on controller 1	
+	|	Battle Pink girl in goggles.	
+	|	
+10 (Hairy guy)	
+	|	Game flag $0413 should have bit7 set.	
+	|	Different picture of small Kid.	
+	|	Variable $0413 used by the game as a various global flags and also stored in password. 		Need to investigate.
+11 (Tall girl)	
+	|	Hold A on controller 2 while shouting in microphone.	
+	|	Picture changes to Tall boy.	
+	|	Note, since picture shows only for a second, but the character counter changes before it 	 appears, you must start to shout while holding corresponding button as soon as previous 		character picture disappears in order to see something.
+17 (One eyed guy)	
+	|	Press A on controller 1	
+	|	Battle One eyed guy.	
+	|	
+
+(BUR) GameGenie (added 26.03.12):
+NNNYEYAE	-	Re-enables some battle mode debug features.
+Press B on controller 1 then press Reset to instantly get to the battle mode.
+
+During battle, any time, hold Up, then press Start to switch to the next enemy kind out of 71 total. Holding Down and pressing Start toggles the higher bit7 of RAM variable $3D0. However, there is no use of this bit in this variable in this game.
+
+Finally, at the end of the battle round, hold Up to instantly win the current battle, or Down to get an instant game over.
