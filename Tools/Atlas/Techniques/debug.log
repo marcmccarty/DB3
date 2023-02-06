@@ -1,0 +1,30 @@
+     5 ADDTBL    Added table 'db3_eng.tbl' as 'db3Tbl'
+     6 ACTIVETBL Active table is now 'db3Tbl'
+     7 HDR       Header size is now $FFFF8010
+     8 JMP       ROM Position is now $1BB6
+    12 W16       ScriptPos $1BB6 PointerPos $1B9A PointerValue $9BA6
+Janken[END]
+    19 W16       ScriptPos $1BBD PointerPos $1B9C PointerValue $9BAD
+Janken[END]
+    26 W16       ScriptPos $1BC6 PointerPos $1B9E PointerValue $9BB6
+Janken[END]
+    33 W16       ScriptPos $1BD1 PointerPos $1BA0 PointerValue $9BC1
+    40 W16       ScriptPos $1BD1 PointerPos $1BA2 PointerValue $9BC1
+Janken[END]
+    47 W16       ScriptPos $1BDC PointerPos $1BA4 PointerValue $9BCC
+Janken[END]
+    53 W16       ScriptPos $1BE2 PointerPos $1BA6 PointerValue $9BD2
+Janken[END]
+    60 W16       ScriptPos $1BEB PointerPos $1BA8 PointerValue $9BDB
+Janken[END]
+    67 W16       ScriptPos $1BF6 PointerPos $1BAA PointerValue $9BE6
+Janken[END]
+    74 W16       ScriptPos $1C00 PointerPos $1BAC PointerValue $9BF0
+Janken[END]
+    81 W16       ScriptPos $1C0B PointerPos $1BAE PointerValue $9BFB
+    88 W16       ScriptPos $1C0B PointerPos $1BB0 PointerValue $9BFB
+Janken[END]
+    95 W16       ScriptPos $1C16 PointerPos $1BB2 PointerValue $9C06
+Janken[END]
+   102 W16       ScriptPos $1C21 PointerPos $1BB4 PointerValue $9C11
+Janken[END]
