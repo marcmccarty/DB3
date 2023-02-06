@@ -1,0 +1,27 @@
+SCfff0:ff:00:[NNNYEYAE] Battle Mode Debug
+S0405:ff:255 Current HP
+S0406:ff:255 Current Ki
+S:041f:ff:Goku Max HP
+S:0402:03:Power
+S:0401:03:Speed
+S:0403:01:Technique
+S:0404:03:Defense
+S:0400:1f:Current Level
+S042d:06:Card 1 ATK
+S038a:fe:Current Damage
+S:0408:00:Current XP Byte 2
+S:0409:00:Current XP Byte 3
+S:0657:0a:Stat Point Total
+S:042e:21:Card 1 DEF & Type
+S:0424:41:Enemy Card 1 T+D
+S:0423:05:Enemy Card 1 ATK
+S:0421:fe:XP This Battle Lo
+S:0422:fe:XP This Battle Hi
+S:038f:96:Enemy Power
+S:0329:96:Current Enemy
+S:0407:00:Current XP Byte 1
+S:032c:46:Current Player
+S:039e:04:Enemy Name
+S:0495:01:Steps Remaining
+S:043b:00:Current Text Box (Group)
+S:043a:00:Current Text Box
