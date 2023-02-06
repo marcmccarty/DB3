@@ -1,11 +1,10 @@
 //GAME NAME:			Dragon Ball 3 - Gokuuden (NES)
 //BLOCK #000 NAME:		Techniques
 
-
 #VAR(db3Tbl, TABLE)
 #ADDTBL("db3_eng.tbl", db3Tbl)
 #ACTIVETBL(db3Tbl)
-#HDR($-$7FF0)
+#HDR($-7FF0)
 #JMP($1BB6)
 
 //POINTER #0 @ $1B9A - STRING #0 @ $1BB6
@@ -25,43 +24,49 @@ Janken[END]
 //POINTER #2 @ $1B9E - STRING #2 @ $1BC2
 
 #W16($1B9E)
-まがるカメハメは[END]
+//まがるカメハメは[END]
+B.[Kamehameha][END]
 
 
 //POINTER #3 @ $1BA0 - STRING #3 @ $1BCB
 
 #W16($1BA0)
-おおきなカメハメは[END]
+//おおきなカメハメは[END]
+//Unused
 
 
 //POINTER #4 @ $1BA2 - STRING #4 @ $1BD5
 
 #W16($1BA2)
-ざんぞうけん[END]
+//ざんぞうけん[END]
+Afterimage[END]
 
 
 //POINTER #5 @ $1BA4 - STRING #5 @ $1BDC
 
 #W16($1BA4)
-にじゅうざんぞうけんたじゅうざんぞうけんぎゃくカメハメは[END]
-
+//にじゅうざんぞうけんたじゅうざんぞうけんぎゃくカメハメは[END]
+2x AI[END]
 
 //POINTER #6 @ $1BA6 - STRING #6 @ $1BE6
 
 #W16($1BA6)
-たじゅうざんぞうけんぎゃくカメハメは[END]
+//たじゅうざんぞうけんぎゃくカメハメは[END]
+Multi AI[END]
 
 
 //POINTER #7 @ $1BA8 - STRING #7 @ $1BF0
 
 #W16($1BA8)
-ぎゃくカメハメは[END]
+//ぎゃくカメハメは[END]
+R.[Kamehameha][END]
 
 
 //POINTER #8 @ $1BAA - STRING #8 @ $1BF9
 
 #W16($1BAA)
-しょうげきは[END]
+//しょうげきは[END]
+Shockwave[END]
 
 
 //POINTER #9 @ $1BAC - STRING #9 @ $1C00
@@ -74,23 +79,27 @@ S.[Kamehameha][END]
 //POINTER #10 @ $1BAE - STRING #10 @ $1C09
 
 #W16($1BAE)
-あしカメハメは[END]
+//あしカメハメは[END]
+//Unused
 
 
 //POINTER #11 @ $1BB0 - STRING #11 @ $1C11
 
 #W16($1BB0)
-たいようけん[END]
+//たいようけん[END]
+SolarFlare[END]
 
 
 //POINTER #12 @ $1BB2 - STRING #12 @ $1C18
 
 #W16($1BB2)
-きえるこうげき[END]
+//きえるこうげき[END]
+Mach Speed[END]
 
 
 //POINTER #13 @ $1BB4 - STRING #13 @ $1C20
 
 #W16($1BB4)
-ろうがふうふうけん[END]
+//ろうがふうふうけん[END]
+W.F.Fist[END]
 
