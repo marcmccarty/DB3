@@ -1149,7 +1149,7 @@ Restore Goku['s] HP![END]
 #W16($4C81E)
 //　　　　　[BRK]
 //レベルポイント・・[END]
-
+[BRK] Points...[END]
 
 
 //POINTER #158 @ $4C820 - STRING #158 @ $4DC4B
@@ -1157,19 +1157,23 @@ Restore Goku['s] HP![END]
 #W16($4C820)
 //まだ　レベルポイントが　のこっているぞ！[BRK]
 //　レベルポイント・・[END]
+Still points remaining![BRK]
+ Points...[END]
 
 
 //POINTER #159 @ $4C822 - STRING #159 @ $4DC6B
 
 #W16($4C822)
-ぎゅうまおう「おめえの　もってる　カードさ[BRK]
-ぜんぶ　こうかんすっぺ！」[END]
+//ぎゅうまおう「おめえの　もってる　カードさ[BRK]
+//ぜんぶ　こうかんすっぺ！」[END]
+Ox King(A[ll] new cards[!][END]
 
 
 //POINTER #160 @ $4C824 - STRING #160 @ $4DC8F
 
 #W16($4C824)
-ドラゴンボールの　あるばしょが　わかるぞ！[END]
+//ドラゴンボールの　あるばしょが　わかるぞ！[END]
+Find the Dragon Ba[ll]s![END]
 
 
 //POINTER #161 @ $4C826 - STRING #161 @ $4DCA5

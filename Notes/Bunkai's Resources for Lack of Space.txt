@@ -1,0 +1,30 @@
+Bunkai's Resources for Lack of Space
+
+Dual Tile Encoding ( dte )
+https://www.romhacking.net/documents/384/
+
+another example using that guide
+https://www.romhacking.net/forum/index.php?topic=35344.0
+
+ScriptCrunch
+https://www.romhacking.net/utilities/405/
+
+Variable Widht Font ( vwf )
+https://github.com/ISSOtm/gb-vwf
+https://www.romhacking.net/documents/337/
+how to find the vram size? you guessed it, google the system and it will tell you
+
+Info about vwf
+https://www.romhacking.net/forum/index.php?topic=29226.0
+extra: vwf calculator
+
+Expanding the rom, 
+You need to take into account mappers and header info
+explaining
+https://www.romhacking.net/forum/index.php?topic=35971.msg436694#new
+
+after that add swap the banks
+https://www.romhacking.net/forum/index.php?topic=36115.msg437564#new
+
+example with fds tool
+https://www.romhacking.net/utilities/702/ 
