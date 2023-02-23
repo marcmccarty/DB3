@@ -52,9 +52,9 @@
 33=z
 34=,
 35='
-36=
+36=[LEFT]
 37=`
-38=
+38=[RIGHT]
 39=-
 3A=[...]
 3B=?
@@ -79,9 +79,9 @@
 58595A5B5C5D5E=[PiccoloJr.]
 5F=[?]
 60616263646566=[Tambourine]
-67=
+67=[.Skill]
 68=[ROBO]
-69=[PANTIES]
+69=[DOWN]
 6A=[SEARCH]
 6B=[RABBIT]
 6C6D=[RR]
