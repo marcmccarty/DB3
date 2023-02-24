@@ -68,11 +68,13 @@ Door [LEFT][END]
 //パンティさがし
 // [SEARCH] will be a magnifying glass icon
 // Or [PANTIES] icon
-[SEARCH][PANTIES][END][END][END][END][END]
+//[SEARCH][PANTIES][END][END][END][END][END]
+//Went with just "Panties" because it's Move > Panties
+Panties
 
 //ギャルさがし[END]
 // [SEARCH] will be a magnifying glass icon
-Hottie[SEARCH]
+Cutie[END][END]
 
 //６かい[END][END][END][END]
 6[th] [Floor]
@@ -99,7 +101,7 @@ Vi[ll]ager
 Bandit[END]
 
 //みはり[END][END][END][END]
-Guard[END][END]
+Lookout
 
 //ボス[END][END][END][END][END]
 Boss[END][END][END]
@@ -144,7 +146,7 @@ Chi-Chi
 Ghost[END][END]
 
 //クリリン[END][END][END]
-Kr[il][li]n
+Kr[il][li]n[END][END]
 
 //ランチ[END][END][END][END]
 Launch[END]
@@ -393,13 +395,15 @@ Sea[END][END][END][END]
 
 //カメハウス[END][END]
 // Kame House -- might want a house icon
-Kame H.
+Kame [HOUSE][END]
 
 //かいじょう[END][END]
 // Context needed: https://jisho.org/search/kaijou
+Grounds
 
 //ぶぶたい[END][END][END]
-// No idea yet
+// WMAT/TB Stage
+Ring[END][END][END]
 
 //カリンとう[END][END]
 // Korin Tower
@@ -472,7 +476,7 @@ HeavyGi
 
 //たからもの[END][END]
 // Treasure, but need a shorter word and context (riches/chest/etc.)
-Chest[END][END]
+Loot[END][END][END]
 
 //じいちゃん[END][END]
 Grandpa

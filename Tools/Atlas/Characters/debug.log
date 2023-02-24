@@ -1,0 +1,150 @@
+     5 ADDTBL    Added table 'db3_eng.tbl' as 'db3Tbl'
+     6 ACTIVETBL Active table is now 'db3Tbl'
+     7 HDR       Header size is now $4010
+     8 JMP       ROM Position is now $C9D3
+    14 W16       ScriptPos $C9D3 PointerPos $C92F PointerValue $89C3
+    15 W16       ScriptPos $C9D3 PointerPos $C931 PointerValue $89C3
+    16 W16       ScriptPos $C9D3 PointerPos $C933 PointerValue $89C3
+Goku[END]
+    23 W16       ScriptPos $C9D8 PointerPos $C935 PointerValue $89C8
+Goku[END]
+    30 W16       ScriptPos $C9DE PointerPos $C937 PointerValue $89CE
+Goku[END]
+    37 W16       ScriptPos $C9E6 PointerPos $C939 PointerValue $89D6
+Goku[END]
+    44 W16       ScriptPos $C9EC PointerPos $C93B PointerValue $89DC
+Goku[END]
+    52 W16       ScriptPos $C9F3 PointerPos $C93D PointerValue $89E3
+    53 W16       ScriptPos $C9F3 PointerPos $C93F PointerValue $89E3
+Goku[END]
+    60 W16       ScriptPos $C9FB PointerPos $C941 PointerValue $89EB
+Goku[END]
+    70 W16       ScriptPos $CA00 PointerPos $C943 PointerValue $89F0
+    71 W16       ScriptPos $CA00 PointerPos $C945 PointerValue $89F0
+    72 W16       ScriptPos $CA00 PointerPos $C947 PointerValue $89F0
+    73 W16       ScriptPos $CA00 PointerPos $C949 PointerValue $89F0
+Goku[END]
+    83 W16       ScriptPos $CA06 PointerPos $C94B PointerValue $89F6
+    84 W16       ScriptPos $CA06 PointerPos $C94D PointerValue $89F6
+    85 W16       ScriptPos $CA06 PointerPos $C94F PointerValue $89F6
+    86 W16       ScriptPos $CA06 PointerPos $C951 PointerValue $89F6
+Goku[END]
+    94 W16       ScriptPos $CA0D PointerPos $C953 PointerValue $89FD
+    95 W16       ScriptPos $CA0D PointerPos $C9BD PointerValue $89FD
+Goku[END]
+   103 W16       ScriptPos $CA13 PointerPos $C955 PointerValue $8A03
+   104 W16       ScriptPos $CA13 PointerPos $C957 PointerValue $8A03
+Goku[END]
+   111 W16       ScriptPos $CA17 PointerPos $C959 PointerValue $8A07
+Goku[END]
+   118 W16       ScriptPos $CA1C PointerPos $C95B PointerValue $8A0C
+Goku[END]
+   125 W16       ScriptPos $CA24 PointerPos $C95D PointerValue $8A14
+Goku[END]
+   132 W16       ScriptPos $CA2C PointerPos $C95F PointerValue $8A1C
+Goku[END]
+   139 W16       ScriptPos $CA30 PointerPos $C961 PointerValue $8A20
+Goku[END]
+   146 W16       ScriptPos $CA37 PointerPos $C963 PointerValue $8A27
+Goku[END]
+   153 W16       ScriptPos $CA3F PointerPos $C965 PointerValue $8A2F
+Goku[END]
+   160 W16       ScriptPos $CA45 PointerPos $C967 PointerValue $8A35
+Goku[END]
+   167 W16       ScriptPos $CA4A PointerPos $C969 PointerValue $8A3A
+Goku[END]
+   174 W16       ScriptPos $CA50 PointerPos $C96B PointerValue $8A40
+Goku[END]
+   181 W16       ScriptPos $CA55 PointerPos $C96D PointerValue $8A45
+Goku[END]
+   188 W16       ScriptPos $CA5B PointerPos $C96F PointerValue $8A4B
+Goku[END]
+   195 W16       ScriptPos $CA61 PointerPos $C971 PointerValue $8A51
+Goku[END]
+   202 W16       ScriptPos $CA67 PointerPos $C973 PointerValue $8A57
+Goku[END]
+   209 W16       ScriptPos $CA6D PointerPos $C975 PointerValue $8A5D
+Goku[END]
+   216 W16       ScriptPos $CA74 PointerPos $C977 PointerValue $8A64
+Goku[END]
+   223 W16       ScriptPos $CA79 PointerPos $C979 PointerValue $8A69
+Goku[END]
+   230 W16       ScriptPos $CA7F PointerPos $C97B PointerValue $8A6F
+Goku[END]
+   237 W16       ScriptPos $CA85 PointerPos $C97D PointerValue $8A75
+Goku[END]
+   243 W16       ScriptPos $CA8C PointerPos $C97F PointerValue $8A7C
+Goku[END]
+   250 W16       ScriptPos $CA93 PointerPos $C981 PointerValue $8A83
+Goku[END]
+   257 W16       ScriptPos $CA9A PointerPos $C983 PointerValue $8A8A
+Goku[END]
+   264 W16       ScriptPos $CAA0 PointerPos $C985 PointerValue $8A90
+Goku[END]
+   271 W16       ScriptPos $CAA8 PointerPos $C987 PointerValue $8A98
+Goku[END]
+   278 W16       ScriptPos $CAAF PointerPos $C989 PointerValue $8A9F
+Goku[END]
+   285 W16       ScriptPos $CAB6 PointerPos $C98B PointerValue $8AA6
+Goku[END]
+   292 W16       ScriptPos $CABE PointerPos $C98D PointerValue $8AAE
+Goku[END]
+   299 W16       ScriptPos $CAC6 PointerPos $C98F PointerValue $8AB6
+Goku[END]
+   306 W16       ScriptPos $CACE PointerPos $C991 PointerValue $8ABE
+Goku[END]
+   313 W16       ScriptPos $CAD6 PointerPos $C993 PointerValue $8AC6
+Goku[END]
+   320 W16       ScriptPos $CADC PointerPos $C995 PointerValue $8ACC
+Goku[END]
+   327 W16       ScriptPos $CAE5 PointerPos $C997 PointerValue $8AD5
+Goku[END]
+   339 W16       ScriptPos $CAED PointerPos $C999 PointerValue $8ADD
+   340 W16       ScriptPos $CAED PointerPos $C99B PointerValue $8ADD
+   341 W16       ScriptPos $CAED PointerPos $C99D PointerValue $8ADD
+   342 W16       ScriptPos $CAED PointerPos $C99F PointerValue $8ADD
+   343 W16       ScriptPos $CAED PointerPos $C9A1 PointerValue $8ADD
+   344 W16       ScriptPos $CAED PointerPos $C9A3 PointerValue $8ADD
+Goku[END]
+   351 W16       ScriptPos $CAF5 PointerPos $C9A5 PointerValue $8AE5
+Goku[END]
+   358 W16       ScriptPos $CAFC PointerPos $C9A7 PointerValue $8AEC
+Goku[END]
+   365 W16       ScriptPos $CB03 PointerPos $C9A9 PointerValue $8AF3
+Goku[END]
+   372 W16       ScriptPos $CB08 PointerPos $C9AB PointerValue $8AF8
+Goku[END]
+   379 W16       ScriptPos $CB10 PointerPos $C9AD PointerValue $8B00
+Goku[END]
+   387 W16       ScriptPos $CB13 PointerPos $C9AF PointerValue $8B03
+   388 W16       ScriptPos $CB13 PointerPos $C9B1 PointerValue $8B03
+Goku[END]
+   397 W16       ScriptPos $CB17 PointerPos $C9B3 PointerValue $8B07
+   398 W16       ScriptPos $CB17 PointerPos $C9B5 PointerValue $8B07
+Goku[END]
+   405 W16       ScriptPos $CB1E PointerPos $C9B7 PointerValue $8B0E
+Goku[END]
+   412 W16       ScriptPos $CB25 PointerPos $C9B9 PointerValue $8B15
+Goku[END]
+   419 W16       ScriptPos $CB2D PointerPos $C9BB PointerValue $8B1D
+Goku[END]
+   426 W16       ScriptPos $CB33 PointerPos $C9BF PointerValue $8B23
+Goku[END]
+   433 W16       ScriptPos $CB39 PointerPos $C9C1 PointerValue $8B29
+Goku[END]
+   440 W16       ScriptPos $CB3F PointerPos $C9C3 PointerValue $8B2F
+Goku[END]
+   447 W16       ScriptPos $CB44 PointerPos $C9C5 PointerValue $8B34
+Goku[END]
+   454 W16       ScriptPos $CB49 PointerPos $C9C7 PointerValue $8B39
+Goku[END]
+   461 W16       ScriptPos $CB51 PointerPos $C9C9 PointerValue $8B41
+Goku[END]
+   468 W16       ScriptPos $CB57 PointerPos $C9CB PointerValue $8B47
+Goku[END]
+   475 W16       ScriptPos $CB5F PointerPos $C9CD PointerValue $8B4F
+Goku[END]
+   482 W16       ScriptPos $CB64 PointerPos $C9CF PointerValue $8B54
+Goku[END]
+   489 W16       ScriptPos $CB6C PointerPos $C9D1 PointerValue $8B5C
+Goku[END]
