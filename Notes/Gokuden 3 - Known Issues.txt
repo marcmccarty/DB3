@@ -1,0 +1,11 @@
+Gokuden 3 - Known Issues
+
+1) Certain enemy names are truncated or are wrong in battle because of the way they work.
+	- Battle names in the small box need to be 7 characters or shorter, so they truncate longer names.
+	- For instance, ピッコロだいまおう -> Piccolo would read as "ピッコロ -> Picc" during card selection in battle and then later "ピッコロだいまおう -> Piccolo" in text boxes to avoid the 7 character limit.
+	- This creates a unique challenge for English translation because unless I find that routine in the asm, I will have butchered names.
+	- Jackie Chun, who I shortened to "Chun" to fit the 7 character limit actually gets called "Krillin" in battle. 
+	This is because his Japanese name ジャッキーチュン (Jackie Chun) calls him チュン (Chun) in to fit. 
+	That means the shortened name pointer points 5 spaces ahead. 
+	5 spaces ahead of "Chun" in my English translation is Krillin. 
+	His name will correctly show as Chun in text boxes when he takes damage, as I described earlier, but this kind of error is unacceptable and so I'll have to find that routine.
