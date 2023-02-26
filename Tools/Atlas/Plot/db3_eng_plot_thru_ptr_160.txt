@@ -1,0 +1,1181 @@
+//GAME NAME:		      Dragon Ball 3 - Gokuuden (NES)
+//BLOCK #000 NAME:		Plot
+
+#VAR(db3Tbl, TABLE)
+#ADDTBL("db3_eng.tbl", db3Tbl)
+#ACTIVETBL(db3Tbl)
+#HDR($C010)
+#JMP($4D116)
+
+//POINTER #0 @ $4C6E4 - STRING #0 @ $4D116
+
+#W16($4C6E4)
+//どちらの　カードをつかいますか？[BRK]
+//　おたすけカード　　　　アイテムカード[END]
+Which type?[BRK]
+ Friend    Item[END]
+
+
+//POINTER #1 @ $4C6E6 - STRING #1 @ $4D13B
+
+#W16($4C6E6)
+//カードなんまいの　しょうぶをしますか？[BRK]
+//　１　　２　　３　　４　　５[END]
+How many cards?[BRK]
+ 1  2  3  4  5[END]
+
+
+//POINTER #2 @ $4C6E8 - STRING #2 @ $4D15E
+
+#W16($4C6E8)
+//ゴクウは　やられてしまった！[END]
+Goku was slain![END]
+
+
+//POINTER #3 @ $4C6EA - STRING #3 @ $4D16D
+
+#W16($4C6EA)
+//ゴクウは　あいてがもっていた　たべものを　たべて[BRK]
+//たいりょくが　かいふくした！[END]
+Goku ate the enem[y']s[BRK]
+food and healed![END]
+
+
+//POINTER #4 @ $4C6EC - STRING #4 @ $4D195
+
+#W16($4C6EC)
+//ゴクウは　あいてがもっていた　ごちそうを　たべて[BRK]
+//たいりょくが　かなり　かいふくした！[END]
+Goku ate the enem[y']s[BRK]
+meal and healed a lot![END]
+
+
+//POINTER #5 @ $4C6EE - STRING #5 @ $4D1C1
+
+#W16($4C6EE)
+//ゴクウは　あいてがもっていた　せんずを　たべて[BRK]
+//たいりょくが　かんぜんに　かいふくした！[END]
+Goku ate the enem[y']s[BRK]
+senzu and fu[ll]y healed![END]
+
+
+//POINTER #6 @ $4C6F0 - STRING #6 @ $4D1EE
+
+#W16($4C6F0)
+//ゴクウは　あいてがもっていた　ごくいしょを[BRK]
+//よんで　ひっさつわざポイントを　アップした！[END]
+Goku read the enem[y']s[BRK]
+scro[ll] and restored ki![END]
+
+
+//POINTER #7 @ $4C6F2 - STRING #7 @ $4D21B
+
+#W16($4C6F2)
+//にょいぼうだ！！[END]
+Power Pole![END]
+
+
+//POINTER #8 @ $4C6F4 - STRING #8 @ $4D224
+
+#W16($4C6F4)
+//ジャンけんだ！！[END]
+Janken![END]
+
+
+//POINTER #9 @ $4C6F6 - STRING #9 @ $4D22D
+
+#W16($4C6F6)
+//カメハメはだ！！[END]
+[Kamehameha]![END]
+
+
+//POINTER #10 @ $4C6F8 - STRING #10 @ $4D236
+
+#W16($4C6F8)
+//カメハメはを　まげた！！[END]
+Bending [Kamehameha]![END]
+
+
+//POINTER #11 @ $4C6FA - STRING #11 @ $4D243
+
+#W16($4C6FA)
+//おおきな　カメハメはだ！！[END]
+//Unused
+
+
+//POINTER #12 @ $4C6FC - STRING #12 @ $4D251
+
+#W16($4C6FC)
+//ざんぞうけんだ！！[END]
+Afterimage![END]
+
+
+//POINTER #13 @ $4C6FE - STRING #13 @ $4D25B
+
+#W16($4C6FE)
+//にじゅうざんぞうけんだ！！[END]
+2x Afterimage![END]
+
+
+//POINTER #14 @ $4C700 - STRING #14 @ $4D269
+
+#W16($4C700)
+//たじゅうざんぞうけんだ！！[END]
+Multi Afterimage![END]
+
+
+//POINTER #15 @ $4C702 - STRING #15 @ $4D277
+
+#W16($4C702)
+//ぎゃくカメハメはだ！！[END]
+Reverse [Kamehameha]![END]
+
+
+//POINTER #16 @ $4C704 - STRING #16 @ $4D283
+
+#W16($4C704)
+//しょうげきはだ！！[END]
+Shockwave![END]
+
+
+//POINTER #17 @ $4C706 - STRING #17 @ $4D28D
+
+#W16($4C706)
+//ちょうカメハメはだ！！[END]
+Super [Kamehameha]![END]
+
+
+//POINTER #18 @ $4C708 - STRING #18 @ $4D299
+
+#W16($4C708)
+//カメハメはを　あしから！！[END]
+//Unused
+
+
+//POINTER #19 @ $4C70A - STRING #19 @ $4D2A7
+
+#W16($4C70A)
+//たいようけんだ！！[END]
+Solar Flare![END]
+
+
+//POINTER #20 @ $4C70C - STRING #20 @ $4D2B1
+
+#W16($4C70C)
+//きえる　こうげきだ！！[END]
+Mach Speed![END]
+
+
+//POINTER #21 @ $4C70E - STRING #21 @ $4D2BD
+
+#W16($4C70E)
+//ろうがふうふうけんだ！！[END]
+Wolf Fang Fist![END]
+
+
+//POINTER #22 @ $4C710 - STRING #22 @ $4D2CA
+
+#W16($4C710)
+//れんぞくこうげきだ！！[END]
+Continuous Attack![END]
+
+
+//POINTER #23 @ $4C712 - STRING #23 @ $4D2D6
+
+#W16($4C712)
+//まこうほうだ！！[END]
+Makoho![END]
+
+
+//POINTER #24 @ $4C714 - STRING #24 @ $4D2DF
+
+#W16($4C714)
+//めから　かいこうせんだ！！[END]
+Eye Beam![END]
+
+
+//POINTER #25 @ $4C716 - STRING #25 @ $4D2ED
+
+#W16($4C716)
+//ばくれつまこうほうだ！！[END]
+Explosive Makoho![END]
+
+
+//POINTER #26 @ $4C718 - STRING #26 @ $4D2FA
+
+#W16($4C718)
+//うでが　のびたーっ！！[END]
+Demon Hand![END]
+
+
+//POINTER #27 @ $4C71A - STRING #27 @ $4D306
+
+#W16($4C71A)
+//きょしんじゅつだ！！[END]
+Giant Form![END]
+
+
+//POINTER #28 @ $4C71C - STRING #28 @ $4D311
+
+#W16($4C71C)
+//ちょうきょしんじゅつだ！！[END]
+Super Giant Form![END]
+
+
+//POINTER #29 @ $4C71E - STRING #29 @ $4D31F
+
+#W16($4C71E)
+//ちきゅうはめつはだ！！[END]
+Earth Ruin![END]
+
+
+//POINTER #30 @ $4C720 - STRING #30 @ $4D32B
+
+#W16($4C720)
+//まかんこうさっぽうだ！！[END]
+Special Beam Cannon![END]
+
+
+//POINTER #31 @ $4C722 - STRING #31 @ $4D338
+
+#W16($4C722)
+//エネルギーはだ！！[END]
+Energy Wave![END]
+
+
+//POINTER #32 @ $4C724 - STRING #32 @ $4D342
+
+#W16($4C724)
+//どどんぱだ！！[END]
+Dodon Ray![END]
+
+
+//POINTER #33 @ $4C726 - STRING #33 @ $4D34A
+
+#W16($4C726)
+//４ようけんだ！！[END]
+Four Witches![END]
+
+
+//POINTER #34 @ $4C728 - STRING #34 @ $4D353
+
+#W16($4C728)
+//はいきゅうけんだ！！[END]
+Vo[ll]eyba[ll] Attack![END]
+
+
+//POINTER #35 @ $4C72A - STRING #35 @ $4D35E
+
+#W16($4C72A)
+//きこうほうだ！！[END]
+Kikoho![END]
+
+
+//POINTER #36 @ $4C72C - STRING #36 @ $4D367
+
+#W16($4C72C)
+//４しんのけんだ！！[END]
+Multi Form![END]
+
+
+//POINTER #37 @ $4C72E - STRING #37 @ $4D371
+
+#W16($4C72E)
+//すいけんだ！！[END]
+Drunken Fist![END]
+
+
+//POINTER #38 @ $4C730 - STRING #38 @ $4D379
+
+#W16($4C730)
+//よいこの　みんみんけんだ！！[END]
+Sleepy Boy![END]
+
+
+//POINTER #39 @ $4C732 - STRING #39 @ $4D388
+
+#W16($4C732)
+//ばんこくビックリしょうだ！！[END]
+Lightning Surprise![END]
+
+
+//POINTER #40 @ $4C734 - STRING #40 @ $4D397
+
+#W16($4C734)
+//ダブルカメハメはだ！！[END]
+2x Homing Wave![END]
+
+
+//POINTER #41 @ $4C736 - STRING #41 @ $4D3A3
+
+#W16($4C736)
+//しんろうがふうふうけんだ！！[END]
+Neo Wolf Fang Fist![END]
+
+
+//POINTER #42 @ $4C738 - STRING #42 @ $4D3B2
+
+#W16($4C738)
+//そうきだんだ！！[END]
+Spirit Ba[ll]![END]
+
+
+//POINTER #43 @ $4C73A - STRING #43 @ $4D3BB
+
+#W16($4C73A)
+//スーパーどどんぱだ！！[END]
+Super Dodon Ray![END]
+
+
+//POINTER #44 @ $4C73C - STRING #44 @ $4D3C7
+
+#W16($4C73C)
+//けんを　つかってきた！！[END]
+Blade![END]
+
+
+//POINTER #45 @ $4C73E - STRING #45 @ $4D3D4
+
+#W16($4C73E)
+//カミナリこうげきだ！！[END]
+Lightning Attack![END]
+
+
+//POINTER #46 @ $4C740 - STRING #46 @ $4D3E0
+
+#W16($4C740)
+//アクマイトこうせんだ！！[END]
+Devilmite Beam![END]
+
+
+//POINTER #47 @ $4C742 - STRING #47 @ $4D3ED
+
+#W16($4C742)
+//ヤリを　つかってきた！！[END]
+Spear![END]
+
+
+//POINTER #48 @ $4C744 - STRING #48 @ $4D3FA
+
+#W16($4C744)
+//ホウタイを　なげてきた！！[END]
+Bandages![END]
+
+
+//POINTER #49 @ $4C746 - STRING #49 @ $4D408
+
+#W16($4C746)
+//ちょうのうりょくだ！！[END]
+Telekinesis![END]
+
+
+//POINTER #50 @ $4C748 - STRING #50 @ $4D414
+
+#W16($4C748)
+//ベロが　のびてきた！！[END]
+Tongue Stretch![END]
+
+
+//POINTER #51 @ $4C74A - STRING #51 @ $4D420
+
+#W16($4C74A)
+//ビームこうせんだ！！[END]
+Beam Beam![END]
+
+
+//POINTER #52 @ $4C74C - STRING #52 @ $4D42B
+
+#W16($4C74C)
+//ウンチこうげきだ！[END]
+Poop Attack![END]
+
+
+//POINTER #53 @ $4C74E - STRING #53 @ $4D435
+
+#W16($4C74E)
+//アラレちゃんは　よろこんでいる！[END]
+Aral[e']s thri[ll]ed![END]
+
+
+//POINTER #54 @ $4C750 - STRING #54 @ $4D446
+
+#W16($4C750)
+//ロケットだ！！[END]
+Rocket![END]
+
+
+//POINTER #55 @ $4C752 - STRING #55 @ $4D44E
+
+#W16($4C752)
+//ブーメランしゅりけんだ！！[END]
+Boomerang Shuriken![END]
+
+
+//POINTER #56 @ $4C754 - STRING #56 @ $4D45C
+
+#W16($4C754)
+//ロケット・パンチだ！！[END]
+Rocket Punch![END]
+
+
+//POINTER #57 @ $4C756 - STRING #57 @ $4D468
+
+#W16($4C756)
+//マシンガンの　らんしゃだ！！[END]
+Machine Gun Spray![END]
+
+
+//POINTER #58 @ $4C758 - STRING #58 @ $4D477
+
+#W16($4C758)
+//しっぽから　でんきショックだ！！[END]
+Electric Tail Shock![END]
+
+
+//POINTER #59 @ $4C75A - STRING #59 @ $4D488
+
+#W16($4C75A)
+//グルグルガムだ！！[END]
+Merry-Go-Round Gum![END]
+
+
+//POINTER #60 @ $4C75C - STRING #60 @ $4D492
+
+#W16($4C75C)
+//カタナを　つかってきた！！[END]
+Katana![END]
+
+
+//POINTER #61 @ $4C75E - STRING #61 @ $4D4A0
+
+#W16($4C75E)
+//んちゃほうだ！！[END]
+N'cha Cannon![END]
+
+
+//POINTER #62 @ $4C760 - STRING #62 @ $4D4A9
+
+#W16($4C760)
+//バズーカの　はっしゃだ！！[END]
+Bazooka![END]
+
+
+//POINTER #63 @ $4C762 - STRING #63 @ $4D4B7
+
+#W16($4C762)
+//ドクえきだ！！[END]
+Venom![END]
+
+
+//POINTER #64 @ $4C764 - STRING #64 @ $4D4BF
+
+#W16($4C764)
+//いまのだんかいでは　これいじょう　ゴクウの[BRK]
+//しゅぎょうちは　アップしない！[END]
+Goku ca[n']t gain more[BRK]
+XP for now![END]
+
+
+//POINTER #65 @ $4C766 - STRING #65 @ $4D4E5
+
+#W16($4C766)
+//ひっさつわざポイントを　へらされてしまった！[END]
+Ki lowered![END]
+
+
+//POINTER #66 @ $4C768 - STRING #66 @ $4D4FC
+
+#W16($4C768)
+//ブルー「ぎゃあああー！！　ねずみっ！！」[BRK]
+//ブルーの　ちょうのうりょくは　きかなくなった！[END]
+Blue(Eek! A mouse!)[BRK]
+Blu[e']s ESP stopped![END]
+
+
+//POINTER #67 @ $4C76A - STRING #67 @ $4D529
+
+#W16($4C76A)
+//ゴクウのせいめいりょくが　１０かいふく！[END]
+Heals 10 HP![END]
+
+
+//POINTER #68 @ $4C76C - STRING #68 @ $4D53E
+
+#W16($4C76C)
+//ゴクウのせいめいりょくが　５０かいふく！[END]
+Heals 50 HP![END]
+
+
+//POINTER #69 @ $4C76E - STRING #69 @ $4D553
+
+#W16($4C76E)
+//ゴクウのせいめいりょくが　かんぜんかいふく！[END]
+Heals a[ll] HP![END]
+
+
+//POINTER #70 @ $4C770 - STRING #70 @ $4D56A
+
+#W16($4C770)
+//カードのホシのかずが　１アップ！[END]
+Card ATK up 1![END]
+
+
+//POINTER #71 @ $4C772 - STRING #71 @ $4D57B
+
+#W16($4C772)
+//ぜったいに　こうげきけんをとる！[END]
+Attack without fail![END]
+
+
+//POINTER #72 @ $4C774 - STRING #72 @ $4D58C
+
+#W16($4C774)
+//カードのぼうぎょちが　２アップ！[END]
+Card DEF up 2![END]
+
+
+//POINTER #73 @ $4C776 - STRING #73 @ $4D59D
+
+#W16($4C776)
+//カードのぼうぎょちが　７になる！[END]
+Card DEF to 7![END]
+
+
+//POINTER #74 @ $4C778 - STRING #74 @ $4D5AE
+
+#W16($4C778)
+//カードを　「にげる」にする！[END]
+Make a (Run) card![END]
+
+
+//POINTER #75 @ $4C77A - STRING #75 @ $4D5BD
+
+#W16($4C77A)
+//にげる！[END]
+Run![END]
+
+
+//POINTER #76 @ $4C77C - STRING #76 @ $4D5C2
+
+#W16($4C77C)
+//カードを　「ひっさつわざ」にする！[END]
+Make a (Technique) card![END]
+
+
+//POINTER #77 @ $4C77E - STRING #77 @ $4D5D4
+
+#W16($4C77E)
+//ひっさつわざポイントが　１０かいふく！[END]
+Recovers 10 ki![END]
+
+
+//POINTER #78 @ $4C780 - STRING #78 @ $4D5E8
+
+#W16($4C780)
+//ひっさつわざポイントが　５０かいふく！[END]
+Recovers 50 ki![END]
+
+
+//POINTER #79 @ $4C782 - STRING #79 @ $4D5FC
+
+#W16($4C782)
+//ひっさつわざポイントが　かんぜんかいふく！[END]
+Recovers a[ll] ki![END]
+
+
+//POINTER #80 @ $4C784 - STRING #80 @ $4D612
+
+#W16($4C784)
+//わざのいりょくが　２アップ！[END]
+Tech power up 2![END]
+
+
+//POINTER #81 @ $4C786 - STRING #81 @ $4D621
+
+#W16($4C786)
+//わざのいりょくが　５アップ！[END]
+Tech power up 5![END]
+
+
+//POINTER #82 @ $4C788 - STRING #82 @ $4D630
+
+#W16($4C788)
+//もっているカードを　ぜんぶ　とりかえる！！[END]
+Replace a[ll] cards![END]
+
+
+//POINTER #83 @ $4C78A - STRING #83 @ $4D646
+
+#W16($4C78A)
+//なにか　カードをつかいますか？　　はい　　いいえ[END]
+Use a card?      Yes No[END]
+
+
+//POINTER #84 @ $4C78C - STRING #84 @ $4D65F
+
+#W16($4C78C)
+//つかえるカードが　ありません！[END]
+No card to use![END]
+
+
+//POINTER #85 @ $4C78E - STRING #85 @ $4D66F
+
+#W16($4C78E)
+//ここでは　つかえません！[END]
+Ca[n']t use here![END]
+
+
+//POINTER #86 @ $4C790 - STRING #86 @ $4D67C
+
+#W16($4C790)
+//ブルーしょうぐんは　ねずみが　きらいだ！[END]
+General Blue hates mice![END]
+
+
+//POINTER #87 @ $4C792 - STRING #87 @ $4D691
+
+#W16($4C792)
+//これをきて　たたかえば　しゅぎょうちが　おおく[BRK]
+//もらえるぞ！　ただし　スピードは　にぶるよ！[END]
+Grants extra XP,but[BRK]
+lowers speed![END]
+
+
+//POINTER #88 @ $4C794 - STRING #88 @ $4D6C0
+
+#W16($4C794)
+//たがいに　スキを　うかがっている！[END]
+Both wait for an[BRK]
+opening![END]
+
+
+//POINTER #89 @ $4C796 - STRING #89 @ $4D6D2
+
+#W16($4C796)
+//ほんとうに　いいんじゃな？[BRK]
+//　　はい　　　　いいえ[END]
+Are you sure?[BRK]
+  Yes   No[END]
+
+
+//POINTER #90 @ $4C798 - STRING #90 @ $4D6EC
+
+#W16($4C798)
+//ゴクウ「め‥　めが‥　めが　まわるー」[BRK]
+//ゴクウは　よってしまって　ダメージをうけました。[END]
+Goku(Getting dizzy[...])[BRK]
+Goku fe[ll] and lost HP.[END]
+
+
+//POINTER #91 @ $4C79A - STRING #91 @ $4D719
+
+#W16($4C79A)
+//かめせんにん「どんどん　はしれ！」[END]
+Roshi(Keep running[!][END]
+
+
+//POINTER #92 @ $4C79C - STRING #92 @ $4D72B
+
+#W16($4C79C)
+//かめせにん「ゴクウ！　しゅぎょうじゃ！」[END]
+Roshi(Goku!Le[t']s train[!][END]
+
+
+//POINTER #93 @ $4C79E - STRING #93 @ $4D740
+
+#W16($4C79E)
+//かめせんにん「よし！　すこし　きゅうけいじゃ。」[END]
+Roshi(Take a break[!][END]
+
+
+//POINTER #94 @ $4C7A0 - STRING #94 @ $4D759
+
+#W16($4C7A0)
+//かめせんにん「ゴクウ！　しゅぎょうは　[BRK]
+//おしまいじゃ！」[END]
+Roshi(Tha[t']s enough[!][END]
+
+
+//POINTER #95 @ $4C7A2 - STRING #95 @ $4D776
+
+#W16($4C7A2)
+//かめせんにん「しゅぎょうを　やめるんじゃな？」[BRK]
+//　　　　　　　　　　　　　　　　　はい　　いいえ[END]
+Roshi(Wanna stop[?][BRK]
+                 Yes No[END]
+
+
+//POINTER #96 @ $4C7A4 - STRING #96 @ $4D7A7
+
+#W16($4C7A4)
+//かめせんにん「わしよりも　おおきなホシのカードを[BRK]
+//だすんじゃ！　なまけるでないぞ！」[END]
+Roshi(Beat my car[d']s[BRK]
+ATK!Do[n']t be lazy[!][END]
+
+
+//POINTER #97 @ $4C7A6 - STRING #97 @ $4D7D2
+
+#W16($4C7A6)
+//ポポ「ポポの　だしたカードと　ホシのかず[BRK]
+//ワザのしゅるい　かんじのかずの　いずれか[END]
+Popo(Match Pop[o']s card[BRK]
+in ATK,DEF,or type.[END]
+
+
+//POINTER #98 @ $4C7A8 - STRING #98 @ $4D7FC
+
+#W16($4C7A8)
+//おなじものを　だして　すすむ。　ちがうと[BRK]
+//すすめない！[END]
+You only have 3 chances![END]
+
+
+//POINTER #99 @ $4C7AA - STRING #99 @ $4D818
+
+#W16($4C7AA)
+//しっぱいは　３かいまで！　４かいすると　そこで[BRK]
+//しゅぎょう　おわり！　いくぞ。」[END]
+Fail a 4[th] time and[BRK]
+trainin[g']s over!Le[t']s go[.][END]
+
+
+//POINTER #100 @ $4C7AC - STRING #100 @ $4D841
+
+#W16($4C7AC)
+//ポポ「おまえ　なかなか　やる。」[END]
+Popo(Yo[u']re getting the[BRK]
+hang of it[.][END]
+
+
+//POINTER #101 @ $4C7AE - STRING #101 @ $4D852
+
+#W16($4C7AE)
+//ポポ「そんなことでは　ダメ！」[END]
+Popo(Tha[t']s no good[!][END]
+
+
+//POINTER #102 @ $4C7B0 - STRING #102 @ $4D862
+
+#W16($4C7B0)
+//ポポ「おまえの　しゅぎょう　おわり！」[END]
+Popo(Your trainin[g']s[BRK]
+over[!][END]
+
+
+//POINTER #103 @ $4C7B2 - STRING #103 @ $4D876
+
+#W16($4C7B2)
+//ポポ「どうだ！！」[END]
+Popo(Try this[!][END]
+
+
+//POINTER #104 @ $4C7B4 - STRING #104 @ $4D880
+
+#W16($4C7B4)
+//ポポ「ゴクウ！　しゅぎょう！」[END]
+Popo(Goku,training[!])[END]
+
+
+//POINTER #105 @ $4C7B6 - STRING #105 @ $4D890
+//POINTER #110 @ $4C7C0 - STRING #110 @ $4D90A
+
+#W16($4C7B6)
+#W16($4C7C0)
+//すきなところまで　はこんでくれるぞ！[END]
+Go anywhere you want![END]
+
+
+//POINTER #106 @ $4C7B8 - STRING #106 @ $4D8A3
+
+#W16($4C7B8)
+//ゴクウの　せいめいりょくが　かなり[BRK]
+//かいふくするぞ！[END]
+Restore a lot of HP![END]
+
+
+//POINTER #107 @ $4C7BA - STRING #107 @ $4D8BE
+
+#W16($4C7BA)
+//ゴクウの　せいめいりょくが　かんぜんに[BRK]
+//かいふくするぞ！[END]
+Fu[ll]y restore HP![END]
+
+
+//POINTER #108 @ $4C7BC - STRING #108 @ $4D8DB
+
+#W16($4C7BC)
+//ドラゴンボールのあるばしょが　わかるぞ！[END]
+Find the Dragon Ba[ll]s![END]
+
+
+//POINTER #109 @ $4C7BE - STRING #109 @ $4D8F0
+
+#W16($4C7BE)
+//ゴクウの　ひっさつわざポイントが[BRK]
+//かいふくするぞ！[END]
+Restore ki![END]
+
+
+//POINTER #111 @ $4C7C2 - STRING #111 @ $4D91D
+
+#W16($4C7C2)
+//ここでは　つかえません。[END]
+Ca[n']t use here.[END]
+
+
+//POINTER #112 @ $4C7C4 - STRING #112 @ $4D92A
+
+#W16($4C7C4)
+//「ゴクウよ！　つぎの　ことばを[BRK]
+//おぼえておくのじゃ！」[END]
+(Goku!Remember this[!][END]
+
+
+//POINTER #113 @ $4C7C6 - STRING #113 @ $4D946
+
+#W16($4C7C6)
+//「わしの　おしえてやった　ことばを[BRK]
+//おもいだすのじゃ！」[END]
+(Remember what I told[BRK]
+you[!][END]
+
+
+//POINTER #114 @ $4C7C8 - STRING #114 @ $4D963
+
+#W16($4C7C8)
+//カリン「なかなか　やるのう。」[END]
+Korin(Not bad[.][END]
+
+
+//POINTER #115 @ $4C7CA - STRING #115 @ $4D973
+
+#W16($4C7CA)
+//カリン「まだ　まだ　あまいのう。」[END]
+Korin(Not quite[.][END]
+
+
+//POINTER #116 @ $4C7CC - STRING #116 @ $4D985
+
+#W16($4C7CC)
+//カリン「まだまだ　しゅぎょうが　たりんわ！[BRK]
+//カリンとうをおりて　やりなおしじゃ！」[END]
+Korin(Yo[u']re not ready![BRK]
+Start over from the[BRK]
+bottom of the tower[!][END]
+
+
+//POINTER #117 @ $4C7CE - STRING #117 @ $4D9AF
+
+#W16($4C7CE)
+//かめせんにん「なかなか　やりおるわい。」[END]
+Roshi(Not bad[.][END]
+
+
+//POINTER #118 @ $4C7D0 - STRING #118 @ $4D9C4
+
+#W16($4C7D0)
+//かめせんにん「まだまだ　あまいのう。」[END]
+Roshi(Yo[u']ve sti[ll] got[BRK]
+a long way to go[.][END]
+
+
+//POINTER #119 @ $4C7D2 - STRING #119 @ $4D9D8
+
+#W16($4C7D2)
+//５かいしょうぶで　３かいかてば　ごうかくじゃ！」[END]
+Best 3 out of 5[!][END]
+
+
+//POINTER #120 @ $4C7D4 - STRING #120 @ $4D9F1
+
+#W16($4C7D4)
+//カードを　もっていません！[END]
+Do[n']t have any cards![END]
+
+
+//POINTER #121 @ $4C7D6 - STRING #121 @ $4D9FF
+
+#W16($4C7D6)
+//ブルマ「どれでも　スキなのを　えらんで！」[END]
+Bulma(Pick any you like[!][END]
+
+
+//POINTER #122 @ $4C7D8 - STRING #122 @ $4DA15
+
+#W16($4C7D8)
+//ひっさつわざポイントが　たりません！[END]
+Not enough ki![END]
+
+
+//POINTER #123 @ $4C7DA - STRING #123 @ $4DA28
+
+#W16($4C7DA)
+//「ちがうじゃろ！[BRK]
+//なにを　きいておったんじゃ！」[END]
+(Wrong!Were you[BRK]
+listening[?][END]
+
+
+//POINTER #124 @ $4C7DC - STRING #124 @ $4DA41
+
+#W16($4C7DC)
+//「きをつけて　いくんじゃぞ！」[END]
+(Be careful out there[!][END]
+
+
+//POINTER #125 @ $4C7DE - STRING #125 @ $4DA51
+//POINTER #126 @ $4C7E0 - STRING #126 @ $4DA51
+
+#W16($4C7DE)
+#W16($4C7E0)
+//カメのこうらを　てにいれた！[END]
+Got a turtle she[ll]![END]
+
+
+//POINTER #127 @ $4C7E2 - STRING #127 @ $4DA60
+
+#W16($4C7E2)
+//ハズレ！！[END]
+FAIL![END]
+
+
+//POINTER #128 @ $4C7E4 - STRING #128 @ $4DA66
+
+#W16($4C7E4)
+//ねずみを　てにいれた！[END]
+Got a mouse![END]
+
+
+//POINTER #129 @ $4C7E6 - STRING #129 @ $4DA72
+
+#W16($4C7E6)
+//エアカーを　てにいれた！[END]
+Got an air car![END]
+
+
+//POINTER #130 @ $4C7E8 - STRING #130 @ $4DA7F
+
+#W16($4C7E8)
+//ひこうきを　てにいれた！[END]
+Got an airplane![END]
+
+
+//POINTER #131 @ $4C7EA - STRING #131 @ $4DA8C
+
+#W16($4C7EA)
+//ゴクウ「ようし！　がんばるぞ！！」[END]
+Goku(Alright!Here goes[!][END]
+
+
+//POINTER #132 @ $4C7EC - STRING #132 @ $4DA9E
+
+#W16($4C7EC)
+//そのまま！[END]
+Just then![END]
+
+
+//POINTER #133 @ $4C7EE - STRING #133 @ $4DAA4
+
+#W16($4C7EE)
+//１コマ　もどる！[END]
+1 space back![END]
+
+
+//POINTER #134 @ $4C7F0 - STRING #134 @ $4DAAD
+
+#W16($4C7F0)
+//１コマ　すすむ！[END]
+1 space forward![END]
+
+
+//POINTER #135 @ $4C7F2 - STRING #135 @ $4DAB6
+
+#W16($4C7F2)
+//２コマ　もどる！[END]
+2 spaces back![END]
+
+
+//POINTER #136 @ $4C7F4 - STRING #136 @ $4DABF
+
+#W16($4C7F4)
+//２コマ　すすむ！[END]
+2 spaces forward![END]
+
+
+//POINTER #137 @ $4C7F6 - STRING #137 @ $4DAC8
+
+#W16($4C7F6)
+//ゴクウ「やった！　ちょうじょうだ！」[END]
+Goku(Yeah!I[t']s the top[!][END]
+
+
+//POINTER #138 @ $4C7F8 - STRING #138 @ $4DADB
+
+#W16($4C7F8)
+//ゴクウ「オラ　もう　くたくただ！」[BRK]
+//ゴクウは　カリンとうから　おちてしまいました。[END]
+Goku([I']m beat[!][BRK]
+Goku fe[ll] off the tower.[END]
+
+
+//POINTER #139 @ $4C7FA - STRING #139 @ $4DB05
+
+#W16($4C7FA)
+//ゴクウは　しんでしまいました。[END]
+Goku is dead.[END]
+
+
+//POINTER #140 @ $4C7FC - STRING #140 @ $4DB15
+
+#W16($4C7FC)
+//たのむぞ！　キントウン！[END]
+Flying Nimbus![END]
+
+
+//POINTER #141 @ $4C7FE - STRING #141 @ $4DB22
+
+#W16($4C7FE)
+//いけー！　こガメラ！！[END]
+Baby Gamera![END]
+
+
+//POINTER #142 @ $4C800 - STRING #142 @ $4DB2E
+
+#W16($4C800)
+//ひこうきで　レッツゴー！[END]
+Le[t']s go,airplane![END]
+
+
+//POINTER #143 @ $4C802 - STRING #143 @ $4DB3B
+
+#W16($4C802)
+//ゴクウ「さあ　ついたぞ！」[END]
+Goku(I made it[!][END]
+
+
+//POINTER #144 @ $4C804 - STRING #144 @ $4DB49
+
+#W16($4C804)
+//ゴクウ「サンキュー！　キントウン」[END]
+Goku(Thanks,Nimbus[!][END]
+
+
+//POINTER #145 @ $4C806 - STRING #145 @ $4DB5B
+
+#W16($4C806)
+//かめせんにん「ゴクウ！　ピチピチギャルじゃぞ！」[END]
+Roshi(Goku!You found a[BRK]
+hottie[!][END]
+
+
+//POINTER #146 @ $4C808 - STRING #146 @ $4DB74
+
+#W16($4C808)
+//ランチさんを　みつけた！[END]
+Found Launch![END]
+
+
+//POINTER #147 @ $4C80A - STRING #147 @ $4DB81
+
+#W16($4C80A)
+//‥‥‥‥‥を　みつけた！[END]
+[...][...][...][...][...] was found![END]
+
+
+//POINTER #148 @ $4C80C - STRING #148 @ $4DB8E
+
+#W16($4C80C)
+//かめせんにん「ゴクウ！　パンティ　たのんだぞ！」[END]
+Roshi(Goku!I asked for[BRK]
+panties[!][END]
+
+
+//POINTER #149 @ $4C80E - STRING #149 @ $4DBA7
+
+#W16($4C80E)
+//ギャルの　パンティを　てにいれた！[END]
+Got panties![END]
+
+
+//POINTER #150 @ $4C810 - STRING #150 @ $4DBB9
+
+#W16($4C810)
+//ブーギャルのパンティを　てにいれた！[END]
+Got granny panties![END]
+
+
+//POINTER #151 @ $4C812 - STRING #151 @ $4DBCC
+
+#W16($4C812)
+//かめせんにん「まあ　よかろう。」[END]
+Roshi(Well, that works[.][END]
+
+
+//POINTER #152 @ $4C814 - STRING #152 @ $4DBDD
+
+#W16($4C814)
+//ゴクウ「ようし！　こんなカベ　ぶっこわして[BRK]
+//やる！」[END]
+Goku(Take this,wa[ll][!][END]
+
+
+//POINTER #153 @ $4C816 - STRING #153 @ $4DBF8
+
+#W16($4C816)
+//ゴクウ「どうだ！！」[END]
+Goku(Ho[w']s that?[!][END]
+
+
+//POINTER #154 @ $4C818 - STRING #154 @ $4DC03
+
+#W16($4C818)
+//ゴクウ「かたくて　だめだ！」[END]
+Goku(No good![BRK]
+i[t']s too hard[!][END]
+
+
+//POINTER #155 @ $4C81A - STRING #155 @ $4DC12
+
+#W16($4C81A)
+//ゴクウ「やった！　こわれたぞ！！」[END]
+Goku(Yeah!It broke[!][END]
+
+
+//POINTER #156 @ $4C81C - STRING #156 @ $4DC24
+
+#W16($4C81C)
+//ゴクウの　せいめいりょくが　かいふくするぞ！[END]
+Restore Gok[u']s HP![END]
+
+
+//POINTER #157 @ $4C81E - STRING #157 @ $4DC3B
+
+#W16($4C81E)
+//　　　　　[BRK]
+//レベルポイント・・[END]
+[BRK] Points...[END]
+
+
+//POINTER #158 @ $4C820 - STRING #158 @ $4DC4B
+
+#W16($4C820)
+//まだ　レベルポイントが　のこっているぞ！[BRK]
+//　レベルポイント・・[END]
+Sti[ll] points left![BRK]
+ Points...[END]
+
+
+//POINTER #159 @ $4C822 - STRING #159 @ $4DC6B
+
+#W16($4C822)
+//ぎゅうまおう「おめえの　もってる　カードさ[BRK]
+//ぜんぶ　こうかんすっぺ！」[END]
+Ox King(A[ll] new cards[!][END]
+
+
+//POINTER #160 @ $4C824 - STRING #160 @ $4DC8F
+
+#W16($4C824)
+//ドラゴンボールの　あるばしょが　わかるぞ！[END]
+Find the Dragon Ba[ll]s![END]

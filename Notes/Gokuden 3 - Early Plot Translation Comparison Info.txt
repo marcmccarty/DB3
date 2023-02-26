@@ -1,0 +1,13 @@
+0x4E1A1
+Current end of old plot translation (Turtle telling Goku that bandits stole the power pole)
+
+Next line is cavespeak at:
+0x4E2B4
+
+
+
+
+0x4xxxx
+Current end of new translation ("Find the Dragon Balls!" - Dragon Radar Item Text)
+
+Next line is cavespeak at:

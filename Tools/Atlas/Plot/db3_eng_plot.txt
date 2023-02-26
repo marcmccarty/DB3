@@ -1,6 +1,11 @@
-//GAME NAME:		Dragon Ball 3 - Gokuuden (NES)
-
+//GAME NAME:		      Dragon Ball 3 - Gokuuden (NES)
 //BLOCK #000 NAME:		Plot
+
+#VAR(db3Tbl, TABLE)
+#ADDTBL("db3_eng.tbl", db3Tbl)
+#ACTIVETBL(db3Tbl)
+#HDR($C010)
+#JMP($4D116)
 
 //POINTER #0 @ $4C6E4 - STRING #0 @ $4D116
 
@@ -840,14 +845,14 @@ you[!][END]
 
 #W16($4C7C8)
 //カリン「なかなか　やるのう。」[END]
-Korin[Not bad[.][END]
+Korin(Not bad[.][END]
 
 
 //POINTER #115 @ $4C7CA - STRING #115 @ $4D973
 
 #W16($4C7CA)
 //カリン「まだ　まだ　あまいのう。」[END]
-Korin[Not quite[.][END]
+Korin(Not quite[.][END]
 
 
 //POINTER #116 @ $4C7CC - STRING #116 @ $4D985
@@ -1032,7 +1037,7 @@ Flying Nimbus![END]
 
 #W16($4C7FE)
 いけー！　こガメラ！！[END]
-Baby Gamera![END]
+//Baby Gamera![END]
 
 
 //POINTER #142 @ $4C800 - STRING #142 @ $4DB2E
@@ -1157,7 +1162,7 @@ Restore Gok[u']s HP![END]
 #W16($4C820)
 //まだ　レベルポイントが　のこっているぞ！[BRK]
 //　レベルポイント・・[END]
-Still points remaining![BRK]
+Sti[ll] points left![BRK]
  Points...[END]
 
 
@@ -1179,37 +1184,28 @@ Find the Dragon Ba[ll]s![END]
 //POINTER #161 @ $4C826 - STRING #161 @ $4DCA5
 
 #W16($4C826)
-ゴクウの　わざポイントが　かいふくしました。[END]
+//ゴクウの　わざポイントが　かいふくしました。[END]
+Goku restored ki.[END]
 
 
 //POINTER #162 @ $4C828 - STRING #162 @ $4DCBC
-
-#W16($4C828)
-トリデのちず[END]
-
-
 //POINTER #163 @ $4C82A - STRING #163 @ $4DCBC
-
-#W16($4C82A)
-トリデのちず[END]
-
-
 //POINTER #164 @ $4C82C - STRING #164 @ $4DCBC
-
-#W16($4C82C)
-トリデのちず[END]
-
-
 //POINTER #165 @ $4C82E - STRING #165 @ $4DCBC
 
+#W16($4C828)
+#W16($4C82A)
+#W16($4C82C)
 #W16($4C82E)
-トリデのちず[END]
+//トリデのちず[END]
+Base Map[END]
 
 
 //POINTER #166 @ $4C830 - STRING #166 @ $4DCC3
 
 #W16($4C830)
-しろのちず[END]
+//しろのちず[END]
+Castle Map[END]
 
 
 //POINTER #167 @ $4C832 - STRING #167 @ $4DCC9
