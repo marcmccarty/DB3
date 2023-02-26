@@ -32,7 +32,7 @@ Goku was slain![END]
 #W16($4C6EA)
 //ゴクウは　あいてがもっていた　たべものを　たべて[BRK]
 //たいりょくが　かいふくした！[END]
-Goku ate the enemy['s][BRK]
+Goku ate the enem[y']s[BRK]
 food and healed![END]
 
 
@@ -41,7 +41,7 @@ food and healed![END]
 #W16($4C6EC)
 //ゴクウは　あいてがもっていた　ごちそうを　たべて[BRK]
 //たいりょくが　かなり　かいふくした！[END]
-Goku ate the enemy['s][BRK]
+Goku ate the enem[y']s[BRK]
 meal and healed a lot![END]
 
 
@@ -50,7 +50,7 @@ meal and healed a lot![END]
 #W16($4C6EE)
 //ゴクウは　あいてがもっていた　せんずを　たべて[BRK]
 //たいりょくが　かんぜんに　かいふくした！[END]
-Goku ate the enemy['s][BRK]
+Goku ate the enem[y']s[BRK]
 senzu and fu[ll]y healed![END]
 
 
@@ -59,7 +59,7 @@ senzu and fu[ll]y healed![END]
 #W16($4C6F0)
 //ゴクウは　あいてがもっていた　ごくいしょを[BRK]
 //よんで　ひっさつわざポイントを　アップした！[END]
-Goku read the enemy['s][BRK]
+Goku read the enem[y']s[BRK]
 scro[ll] and restored ki![END]
 
 
@@ -389,7 +389,7 @@ Poop Attack![END]
 
 #W16($4C74E)
 //アラレちゃんは　よろこんでいる！[END]
-Arale['s] thri[ll]ed![END]
+Aral[e']s thri[ll]ed![END]
 
 
 //POINTER #54 @ $4C750 - STRING #54 @ $4D446
@@ -467,7 +467,7 @@ Venom![END]
 #W16($4C764)
 //いまのだんかいでは　これいじょう　ゴクウの[BRK]
 //しゅぎょうちは　アップしない！[END]
-Goku can['t] gain more[BRK]
+Goku ca[n']t gain more[BRK]
 XP for now![END]
 
 
@@ -484,28 +484,28 @@ Ki lowered![END]
 //ブルー「ぎゃあああー！！　ねずみっ！！」[BRK]
 //ブルーの　ちょうのうりょくは　きかなくなった！[END]
 Blue(Eek! A mouse!)[BRK]
-Blue['s] ESP stopped![END]
+Blu[e']s ESP stopped![END]
 
 
 //POINTER #67 @ $4C76A - STRING #67 @ $4D529
 
 #W16($4C76A)
 //ゴクウのせいめいりょくが　１０かいふく！[END]
-Heal 10 HP![END]
+Heals 10 HP![END]
 
 
 //POINTER #68 @ $4C76C - STRING #68 @ $4D53E
 
 #W16($4C76C)
 //ゴクウのせいめいりょくが　５０かいふく！[END]
-Heal 50 HP![END]
+Heals 50 HP![END]
 
 
 //POINTER #69 @ $4C76E - STRING #69 @ $4D553
 
 #W16($4C76E)
 //ゴクウのせいめいりょくが　かんぜんかいふく！[END]
-Heal a[ll] HP![END]
+Heals a[ll] HP![END]
 
 
 //POINTER #70 @ $4C770 - STRING #70 @ $4D56A
@@ -561,21 +561,21 @@ Make a (Technique) card![END]
 
 #W16($4C77E)
 //ひっさつわざポイントが　１０かいふく！[END]
-Recover 10 ki![END]
+Recovers 10 ki![END]
 
 
 //POINTER #78 @ $4C780 - STRING #78 @ $4D5E8
 
 #W16($4C780)
 //ひっさつわざポイントが　５０かいふく！[END]
-Recover 50 ki![END]
+Recovers 50 ki![END]
 
 
 //POINTER #79 @ $4C782 - STRING #79 @ $4D5FC
 
 #W16($4C782)
 //ひっさつわざポイントが　かんぜんかいふく！[END]
-Recover a[ll] ki![END]
+Recovers a[ll] ki![END]
 
 
 //POINTER #80 @ $4C784 - STRING #80 @ $4D612
@@ -617,7 +617,7 @@ No card to use![END]
 
 #W16($4C78E)
 //ここでは　つかえません！[END]
-Can['t] use here![END]
+Ca[n']t use here![END]
 
 
 //POINTER #86 @ $4C790 - STRING #86 @ $4D67C
@@ -673,7 +673,7 @@ Roshi(Keep running[!][END]
 
 #W16($4C79C)
 //かめせにん「ゴクウ！　しゅぎょうじゃ！」[END]
-Roshi(Goku!Let['s] train[!][END]
+Roshi(Goku!Le[t']s train[!][END]
 
 
 //POINTER #93 @ $4C79E - STRING #93 @ $4D740
@@ -688,7 +688,7 @@ Roshi(Take a break[!][END]
 #W16($4C7A0)
 //かめせんにん「ゴクウ！　しゅぎょうは　[BRK]
 //おしまいじゃ！」[END]
-Roshi(That['s] enough[!][END]
+Roshi(Tha[t']s enough[!][END]
 
 
 //POINTER #95 @ $4C7A2 - STRING #95 @ $4D776
@@ -705,8 +705,8 @@ Roshi(Wanna stop[?][BRK]
 #W16($4C7A4)
 //かめせんにん「わしよりも　おおきなホシのカードを[BRK]
 //だすんじゃ！　なまけるでないぞ！」[END]
-Roshi(Beat my card['s][BRK]
-ATK!Don['t] be lazy[!][END]
+Roshi(Beat my car[d']s[BRK]
+ATK!Do[n']t be lazy[!][END]
 
 
 //POINTER #97 @ $4C7A6 - STRING #97 @ $4D7D2
@@ -714,7 +714,7 @@ ATK!Don['t] be lazy[!][END]
 #W16($4C7A6)
 //ポポ「ポポの　だしたカードと　ホシのかず[BRK]
 //ワザのしゅるい　かんじのかずの　いずれか[END]
-Popo(Match Popo['s] card[BRK]
+Popo(Match Pop[o']s card[BRK]
 in ATK,DEF,or type.[END]
 
 
@@ -732,14 +732,14 @@ You only have 3 chances![END]
 //しっぱいは　３かいまで！　４かいすると　そこで[BRK]
 //しゅぎょう　おわり！　いくぞ。」[END]
 Fail a 4[th] time and[BRK]
-training['s] over!Let['s] go[.][END]
+trainin[g']s over!Le[t']s go[.][END]
 
 
 //POINTER #100 @ $4C7AC - STRING #100 @ $4D841
 
 #W16($4C7AC)
 //ポポ「おまえ　なかなか　やる。」[END]
-Popo(You['r]e getting the[BRK]
+Popo(Yo[u']re getting the[BRK]
 hang of it[.][END]
 
 
@@ -747,14 +747,14 @@ hang of it[.][END]
 
 #W16($4C7AE)
 //ポポ「そんなことでは　ダメ！」[END]
-Popo(That['s] no good[!][END]
+Popo(Tha[t']s no good[!][END]
 
 
 //POINTER #102 @ $4C7B0 - STRING #102 @ $4D862
 
 #W16($4C7B0)
 //ポポ「おまえの　しゅぎょう　おわり！」[END]
-Popo(Your training['s][BRK]
+Popo(Your trainin[g']s[BRK]
 over[!][END]
 
 
@@ -816,7 +816,7 @@ Restore ki![END]
 
 #W16($4C7C2)
 //ここでは　つかえません。[END]
-Can['t] use here.[END]
+Ca[n']t use here.[END]
 
 
 //POINTER #112 @ $4C7C4 - STRING #112 @ $4D92A
@@ -855,7 +855,7 @@ Korin[Not quite[.][END]
 #W16($4C7CC)
 //カリン「まだまだ　しゅぎょうが　たりんわ！[BRK]
 //カリンとうをおりて　やりなおしじゃ！」[END]
-Korin(You['r]e not ready![BRK]
+Korin(Yo[u']re not ready![BRK]
 Start over from the[BRK]
 bottom of the tower[!][END]
 
@@ -871,7 +871,7 @@ Roshi(Not bad[.][END]
 
 #W16($4C7D0)
 //かめせんにん「まだまだ　あまいのう。」[END]
-Roshi(You['v]e sti[ll] got[BRK]
+Roshi(Yo[u']ve sti[ll] got[BRK]
 a long way to go[.][END]
 
 
@@ -886,7 +886,7 @@ Best 3 out of 5[!][END]
 
 #W16($4C7D4)
 //カードを　もっていません！[END]
-Don['t] have any cards![END]
+Do[n']t have any cards![END]
 
 
 //POINTER #121 @ $4C7D6 - STRING #121 @ $4D9FF
@@ -1002,7 +1002,7 @@ Just then![END]
 
 #W16($4C7F6)
 //ゴクウ「やった！　ちょうじょうだ！」[END]
-Goku(Yeah!It['s] the top[!][END]
+Goku(Yeah!I[t']s the top[!][END]
 
 
 //POINTER #138 @ $4C7F8 - STRING #138 @ $4DADB
@@ -1010,7 +1010,7 @@ Goku(Yeah!It['s] the top[!][END]
 #W16($4C7F8)
 //ゴクウ「オラ　もう　くたくただ！」[BRK]
 //ゴクウは　カリンとうから　おちてしまいました。[END]
-Goku(I['m] beat[!][BRK]
+Goku([I']m beat[!][BRK]
 Goku fe[ll] off the tower.[END]
 
 
@@ -1039,7 +1039,7 @@ Baby Gamera![END]
 
 #W16($4C800)
 //ひこうきで　レッツゴー！[END]
-Let['s] go,airplane![END]
+Le[t']s go,airplane![END]
 
 
 //POINTER #143 @ $4C802 - STRING #143 @ $4DB3B
@@ -1119,7 +1119,7 @@ Goku(Take this,wa[ll][!][END]
 
 #W16($4C816)
 //ゴクウ「どうだ！！」[END]
-Goku(How['s] that?[!][END]
+Goku(Ho[w']s that?[!][END]
 
 
 //POINTER #154 @ $4C818 - STRING #154 @ $4DC03
@@ -1127,7 +1127,7 @@ Goku(How['s] that?[!][END]
 #W16($4C818)
 //ゴクウ「かたくて　だめだ！」[END]
 Goku(No good![BRK]
-it['s] too hard[!][END]
+i[t']s too hard[!][END]
 
 
 //POINTER #155 @ $4C81A - STRING #155 @ $4DC12
@@ -1141,7 +1141,7 @@ Goku(Yeah!It broke[!][END]
 
 #W16($4C81C)
 //ゴクウの　せいめいりょくが　かいふくするぞ！[END]
-Restore Goku['s] HP![END]
+Restore Gok[u']s HP![END]
 
 
 //POINTER #157 @ $4C81E - STRING #157 @ $4DC3B

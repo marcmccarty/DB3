@@ -63,7 +63,7 @@ Goku gained (    ) XP![END]
 
 #W16($C42F)
 //ゴクウの　レベルが　　　　になった！[END]
-Goku['s] LV (  )[END]
+Gok[u']s LV (  )[END]
 
 //POINTER #10 @ $C431 - STRING #10 @ $C4BC
 
@@ -75,7 +75,7 @@ Goku['s] LV (  )[END]
 
 #W16($C433)
 //かめせんにん「よし！　これで　おぬしの[BRK]
-Roshi(This is your[BRK]
+Roshi(Nice![BRK]
 
 //POINTER #12 @ $C435 - STRING #12 @ $C4D9
 
@@ -113,10 +113,10 @@ Leveled  x![BRK]
 
 #W16($C441)
 //カリン「よし！　これで　おぬしの[BRK]
-Korin(This is your[BRK]
+Korin(Nice![BRK]
 
 //POINTER #19 @ $C443 - STRING #19 @ $C527
 
 #W16($C443)
 //ポポ「よし！　これで　おぬしの[BRK]
-Popo(This is your[BRK]
+Popo(Nice![BRK]

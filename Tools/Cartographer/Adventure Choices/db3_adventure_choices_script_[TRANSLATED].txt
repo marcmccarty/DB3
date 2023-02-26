@@ -4,7 +4,7 @@
 //Block Range: $5C010 - $5C407
 
 //しらべる[END][END][END]
-Search[END]
+Look[END][END][END]
 
 //はなす[END][END][END][END]
 Talk[END][END][END]
@@ -107,7 +107,7 @@ Lookout
 Boss[END][END][END]
 
 //オトコ[END][END][END][END]
-Man[END][END][END][END]
+Guy[END][END][END][END]
 
 //ネコ[END][END][END][END][END]
 Cat[END][END][END][END]
@@ -124,7 +124,7 @@ Person[END]
 
 //つうこうにん[END]
 // Passerby doesn't fit, but depending on context, other words could work
-Civi[li]an
+Civ[il]ian
 
 //ウサギだん[END][END]
 // Rabbit Gang
@@ -271,7 +271,7 @@ Ba[ll][END][END][END][END]
 Home[END][END][END]
 
 //やま[END][END][END][END][END]
-Mounta[in]
+Mount[ai]n
 
 //くさむら[END][END][END]
 Field[END][END]
@@ -299,8 +299,7 @@ Map[END][END][END][END]
 Food[END][END][END]
 
 //いりぐち[END][END][END]
-// Change to Entry if necessary since Entrance won't fit
-Gate[END][END][END]
+Entry[END][END]
 
 //テレビ[END][END][END][END]
 TV[END][END][END][END][END]
@@ -312,8 +311,7 @@ Carrot[END]
 Wa[ll][END][END][END][END]
 
 //ゆか[END][END][END][END][END]
-// Reuse 4-tile version from 6th Floor
-[Floor][END][END][END]
+Floor[END][END]
 
 //てんじょう[END][END]
 // Maybe use [in] too
@@ -327,8 +325,7 @@ Key
 Table[END][END]
 
 //ぼう[END][END][END][END][END]
-// Needs a double check
-Pole[END][END][END]
+P.Pole[END]
 
 //まわり[END][END][END][END]
 // Lit. surroundings
@@ -479,4 +476,4 @@ HeavyGi
 Loot[END][END][END]
 
 //じいちゃん[END][END]
-Grandpa
+Old Man
