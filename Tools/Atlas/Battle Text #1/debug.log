@@ -1,0 +1,42 @@
+     5 ADDTBL    Added table 'db3_eng.tbl' as 'db3Tbl'
+     6 ACTIVETBL Active table is now 'db3Tbl'
+     7 HDR       Header size is now $4010
+     8 JMP       ROM Position is now $C445
+    12 W16       ScriptPos $C445 PointerPos $C41D PointerValue $8435
+     card cha[ll]enge![END]
+    18 W16       ScriptPos $C459 PointerPos $C41F PointerValue $8449
+     card cha[ll]enge![END]
+    24 W16       ScriptPos $C463 PointerPos $C421 PointerValue $8453
+     card cha[ll]enge![END]
+    29 W16       ScriptPos $C464 PointerPos $C423 PointerValue $8454
+     card cha[ll]enge![END]
+    35 W16       ScriptPos $C473 PointerPos $C425 PointerValue $8463
+     card cha[ll]enge![END]
+    40 W16       ScriptPos $C474 PointerPos $C427 PointerValue $8464
+     card cha[ll]enge![END]
+    46 W16       ScriptPos $C480 PointerPos $C429 PointerValue $8470
+     card cha[ll]enge![END]
+    52 W16       ScriptPos $C491 PointerPos $C42B PointerValue $8481
+     card cha[ll]enge![END]
+    58 W16       ScriptPos $C497 PointerPos $C42D PointerValue $8487
+     card cha[ll]enge![END]
+    64 W16       ScriptPos $C4AE PointerPos $C42F PointerValue $849E
+     card cha[ll]enge![END]
+    70 W16       ScriptPos $C4BC PointerPos $C431 PointerValue $84AC
+     card cha[ll]enge![END]
+    76 W16       ScriptPos $C4C7 PointerPos $C433 PointerValue $84B7
+     card cha[ll]enge![END]
+    82 W16       ScriptPos $C4D3 PointerPos $C435 PointerValue $84C3
+     card cha[ll]enge![END]
+    88 W16       ScriptPos $C4E0 PointerPos $C437 PointerValue $84D0
+     card cha[ll]enge![END]
+    96 W16       ScriptPos $C4F7 PointerPos $C439 PointerValue $84E7
+    97 W16       ScriptPos $C4F7 PointerPos $C43B PointerValue $84E7
+    98 W16       ScriptPos $C4F7 PointerPos $C43D PointerValue $84E7
+     card cha[ll]enge![END]
+   108 W16       ScriptPos $C503 PointerPos $C43F PointerValue $84F3
+     card cha[ll]enge![END]
+   114 W16       ScriptPos $C504 PointerPos $C441 PointerValue $84F4
+     card cha[ll]enge![END]
+   120 W16       ScriptPos $C510 PointerPos $C443 PointerValue $8500
+     card cha[ll]enge![END]
