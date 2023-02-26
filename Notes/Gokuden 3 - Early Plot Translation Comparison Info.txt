@@ -7,7 +7,5 @@ Next line is cavespeak at:
 
 
 
-0x4xxxx
+0x4DCF5
 Current end of new translation ("Find the Dragon Balls!" - Dragon Radar Item Text)
-
-Next line is cavespeak at:
