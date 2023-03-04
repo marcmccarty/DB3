@@ -13,7 +13,7 @@
 //どちらの　カードをつかいますか？[BRK]
 //　おたすけカード　　　　アイテムカード[END]
 Which type?[BRK]
- Friend    Item[END]
+ Friends    Items[END]
 
 
 //POINTER #1 @ $4C6E6 - STRING #1 @ $4D13B
@@ -818,8 +818,14 @@ Restore ki![END]
 
 
 //POINTER #111 @ $4C7C2 - STRING #111 @ $4D91D
+//POINTER #200 @ $4C874 - STRING #200 @ $4DFFB
+//POINTER #201 @ $4C876 - STRING #201 @ $4DFFB
+//POINTER #1301 @ $4D10E - STRING #1301 @ $5517D
 
 #W16($4C7C2)
+#W16($4C874)
+#W16($4C876)
+#W16($4D10E)
 //ここでは　つかえません。[END]
 Ca[n']t use here.[END]
 
@@ -1036,8 +1042,8 @@ Flying Nimbus![END]
 //POINTER #141 @ $4C7FE - STRING #141 @ $4DB22
 
 #W16($4C7FE)
-いけー！　こガメラ！！[END]
-//Baby Gamera![END]
+// いけー！　こガメラ！！[END]
+Baby Gamera![END]
 
 
 //POINTER #142 @ $4C800 - STRING #142 @ $4DB2E
@@ -1211,502 +1217,484 @@ Castle Map[END]
 //POINTER #167 @ $4C832 - STRING #167 @ $4DCC9
 
 #W16($4C832)
-ゴクウの　せいめいりょくが　かいふくしました。[END]
+//ゴクウの　せいめいりょくが　かいふくしました。[END]
+Goku restored HP.[END]
 
 
 //POINTER #168 @ $4C834 - STRING #168 @ $4DCE1
 
 #W16($4C834)
-ゴクウの　せいめいりょくが　かなり　かいふく[BRK]
-しました。[END]
+// ゴクウの　せいめいりょくが　かなり　かいふく[BRK]
+// しました。[END]
+Goku restored[BRK]
+a lot of HP.[END]
 
 
 //POINTER #169 @ $4C836 - STRING #169 @ $4DCFE
 
 #W16($4C836)
-ゴクウの　せいめいりょくが　かんぜんに　かいふく[BRK]
-しました。[END]
+// ゴクウの　せいめいりょくが　かんぜんに　かいふく[BRK]
+// しました。[END]
+Goku fu[ll]y restored HP.[END]
 
 
 //POINTER #170 @ $4C838 - STRING #170 @ $4DD1D
 
 #W16($4C838)
-カメのこうらを　せおいました。[END]
+// カメのこうらを　せおいました。[END]
+Wore turtle she[ll].[END]
 
 
 //POINTER #171 @ $4C83A - STRING #171 @ $4DD2D
 
 #W16($4C83A)
-カメの　こうらを　ぬぎました。[END]
+// カメの　こうらを　ぬぎました。[END]
+Took off turtle she[ll].[END]
 
 
 //POINTER #172 @ $4C83C - STRING #172 @ $4DD3D
 
 #W16($4C83C)
-おもいどうぎを　きました。[END]
+// おもいどうぎを　きました。[END]
+Wore weighted gi.[END]
 
 
 //POINTER #173 @ $4C83E - STRING #173 @ $4DD4B
 
 #W16($4C83E)
-おもいどうぎを　ぬぎました。[END]
+// おもいどうぎを　ぬぎました。[END]
+Took off weighted gi.[END]
 
 
 //POINTER #174 @ $4C840 - STRING #174 @ $4DD5A
 
 #W16($4C840)
-かめせんにん「よし！　まずは　ランニングじゃ。」[END]
+// かめせんにん「よし！　まずは　ランニングじゃ。」[END]
+Roshi(Alright!First is[BRK]
+running[.][END]
 
 
 //POINTER #175 @ $4C842 - STRING #175 @ $4DD73
 
 #W16($4C842)
-ポポ「どうだ！」[END]
+// ポポ「どうだ！」[END]
+Popo(Ho[w']s that?[!][END]
 
 
 //POINTER #176 @ $4C844 - STRING #176 @ $4DD7C
 
 #W16($4C844)
-かめせんにん「わしよりも　おおきいか　おなじ[BRK]
-ホシのカードを　だすんじゃ！」[END]
+// かめせんにん「わしよりも　おおきいか　おなじ[BRK]
+// ホシのカードを　だすんじゃ！」[END]
+Roshi(Match or beat my[BRK]
+car[d']s ATK[!][END]
 
 
 //POINTER #177 @ $4C846 - STRING #177 @ $4DDA3
 
 #W16($4C846)
-かめせんにん「まあ　よかろう。」[END]
+// かめせんにん「まあ　よかろう。」[END]
+Roshi(We[ll],okay[.][END]
 
 
 //POINTER #178 @ $4C848 - STRING #178 @ $4DDB4
-
-#W16($4C848)
-おなじものを　だす！　ついて　こい！[END]
-
-
 //POINTER #179 @ $4C84A - STRING #179 @ $4DDB4
 
+#W16($4C848)
 #W16($4C84A)
-おなじものを　だす！　ついて　こい！[END]
+// おなじものを　だす！　ついて　こい！[END]
+Match mine![END]
 
 
 //POINTER #180 @ $4C84C - STRING #180 @ $4DDC7
-
-#W16($4C84C)
-カリン「わしよりも　おおきい　かんじのカードを[BRK]
-だすんじゃ！[END]
-
-
 //POINTER #181 @ $4C84E - STRING #181 @ $4DDC7
 
+#W16($4C84C)
 #W16($4C84E)
-カリン「わしよりも　おおきい　かんじのカードを[BRK]
-だすんじゃ！[END]
+// カリン「わしよりも　おおきい　かんじのカードを[BRK]
+// だすんじゃ！[END]
+Korin(Match or beat my[BRK]
+car[d']s DEF[!][END]
 
 
 //POINTER #182 @ $4C850 - STRING #182 @ $4DDE6
 
 #W16($4C850)
-ゴハン「おまえの　こころづよい　みかたをえる[BRK]
-しんけいスイジャクじゃ！」[END]
+// ゴハン「おまえの　こころづよい　みかたをえる[BRK]
+// しんけいスイジャクじゃ！」[END]
+Gohan(I[t']s a Memory Game[BRK]
+with your close friends[!][END]
 
 
 //POINTER #183 @ $4C852 - STRING #183 @ $4DE0B
 
 #W16($4C852)
-ゴハン「ざんねん！　ハズレじゃ！」[END]
-
+// ゴハン「ざんねん！　ハズレじゃ！」[END]
+Gohan(Too bad!You lose[!][END]
 
 //POINTER #184 @ $4C854 - STRING #184 @ $4DE1D
 
 #W16($4C854)
-ゴハン「おみごと！」[END]
+// ゴハン「おみごと！」[END]
+Gohan(We[ll] done[!][END]
 
 
 //POINTER #185 @ $4C856 - STRING #185 @ $4DE28
 
 #W16($4C856)
-ゴハン「これは　おそれいった！」[END]
+// ゴハン「これは　おそれいった！」[END]
+Gohan(Yo[u']re amazing[!][END]
 
 
 //POINTER #186 @ $4C858 - STRING #186 @ $4DE39
 
 #W16($4C858)
-カリン「ゴクウ！　しゅぎょうじゃ！」[END]
+// カリン「ゴクウ！　しゅぎょうじゃ！」[END]
+Korin(Goku!Training![END]
 
 
 //POINTER #187 @ $4C85A - STRING #187 @ $4DE4C
 
 #W16($4C85A)
-カリン「わしよりも　おおきいか　おなじ[BRK]
-かんじのカードを　だすんじゃ！」[END]
+// カリン「わしよりも　おおきいか　おなじ[BRK]
+// かんじのカードを　だすんじゃ！」[END]
+Korin(Match or beat my[BRK]
+car[d']s DEF[!][END]
 
 
 //POINTER #188 @ $4C85C - STRING #188 @ $4DE71
 
 #W16($4C85C)
-カリン「どうじゃ！」[END]
+// カリン「どうじゃ！」[END]
+Korin(How bout that?[!][END]
 
 
 //POINTER #189 @ $4C85E - STRING #189 @ $4DE7C
 
 #W16($4C85E)
-カリン「まあ　よかろう。」[END]
+// カリン「まあ　よかろう。」[END]
+Korin(Okay[...])[END]
 
 
 //POINTER #190 @ $4C860 - STRING #190 @ $4DE8A
 
 #W16($4C860)
-カリン「おまえは　ムダな　うごきが　おおい！」[END]
+// カリン「おまえは　ムダな　うごきが　おおい！」[END]
+Korin(You make a lot of[BRK]
+unnecessary movements[!][END]
 
 
 //POINTER #191 @ $4C862 - STRING #191 @ $4DEA2
 
 #W16($4C862)
-むかし　むかしのこと　みやこから　すうせんキロも[BRK]
-かなたの　あるやまおく‥　[END]
+// むかし　むかしのこと　みやこから　すうせんキロも[BRK]
+// かなたの　あるやまおく‥　[END]
+Long ago,deep in the[BRK]
+mountains[...][END]
 
 
 //POINTER #192 @ $4C864 - STRING #192 @ $4DEC9
 
 #W16($4C864)
-たった　ひとつの　どんなねがいでも[BRK]
-かなえてくれるという　７つのドラゴンボールを[BRK]
-もとめ　ゴクウとブルマのたびが　はじまります。[END]
+// たった　ひとつの　どんなねがいでも[BRK]
+// かなえてくれるという　７つのドラゴンボールを[BRK]
+// もとめ　ゴクウとブルマのたびが　はじまります。[END]
+Goku and Bulma sought[BRK]
+the 7 Dragon Ba[ll]s[BRK]
+said to grant any wish.[END]
 
 
 //POINTER #193 @ $4C866 - STRING #193 @ $4DF0A
 
 #W16($4C866)
-ゴクウのねがいは　なくなった　おじいさんの[BRK]
-ゆいごんである　てんかいちぶどうかいの[BRK]
-ふっかつです。[END]
+// ゴクウのねがいは　なくなった　おじいさんの[BRK]
+// ゆいごんである　てんかいちぶどうかいの[BRK]
+// ふっかつです。[END]
+Gok[u']s wish is his[BRK]
+fa[ll]en grandp[a']s[...][BRK]
+The Tenkaichi Budoukai![END]
 
 
 //POINTER #194 @ $4C868 - STRING #194 @ $4DF3C
 
 #W16($4C868)
-ゴクウたちのもっているものは　ドラゴンボールの[BRK]
-スーシンチュウと　ドラゴンレーダーだけ‥[BRK]
-さて　このさき　どうなることやら‥‥[END]
-
+// ゴクウたちのもっているものは　ドラゴンボールの[BRK]
+// スーシンチュウと　ドラゴンレーダーだけ‥[BRK]
+// さて　このさき　どうなることやら‥‥[END]
+With only the[BRK]
+4-Star ba[ll] and radar[...][BRK]
+What awaits our heroes?[END]
 
 //POINTER #195 @ $4C86A - STRING #195 @ $4DF7C
 
 #W16($4C86A)
-　ぜんたいマップ　　　　ゴクウのじょうたい[BRK]
-　カード　　　　　　　　パスワード[END]
+// 　ぜんたいマップ　　　　ゴクウのじょうたい[BRK]
+// 　カード　　　　　　　　パスワード[END]
+ Map        Goku[BRK]
+ Cards      Password[END]
 
 
 //POINTER #196 @ $4C86C - STRING #196 @ $4DFA4
 
 #W16($4C86C)
-　ゴクウのレベル　　　　ゴクウのひっさつわざ[END]
+// 　ゴクウのレベル　　　　ゴクウのひっさつわざ[END]
+ Stats      Ski[ll]s[END]
 
 
 //POINTER #197 @ $4C86E - STRING #197 @ $4DFBB
 
 #W16($4C86E)
-　おたすけカード　　　　アイテムカード[END]
+// 　おたすけカード　　　　アイテムカード[END]
+ Friends    Items[END]
 
 
 //POINTER #198 @ $4C870 - STRING #198 @ $4DFCF
 
 #W16($4C870)
-みすぼらしい　へやです。[END]
+// みすぼらしい　へやです。[END]
+I[t']s a shabby room.[END]
 
 
 //POINTER #199 @ $4C872 - STRING #199 @ $4DFDC
 
 #W16($4C872)
-　ぜんたいマップ　　　　ゴクウのじょうたい[BRK]
-　おたすけカード[END]
-
-
-//POINTER #200 @ $4C874 - STRING #200 @ $4DFFB
-
-#W16($4C874)
-ここでは　つかえません。[END]
-
-
-//POINTER #201 @ $4C876 - STRING #201 @ $4DFFB
-
-#W16($4C876)
-ここでは　つかえません。[END]
+// 　ぜんたいマップ　　　　ゴクウのじょうたい[BRK]
+// 　おたすけカード[END]
+ Map        Goku[BRK]
+ Cards[END]
 
 
 //POINTER #202 @ $4C878 - STRING #202 @ $4E008
 
 #W16($4C878)
-ゴクウは　しゅぎょうのたびに　でました。[END]
+// ゴクウは　しゅぎょうのたびに　でました。[END]
+Goku embarked on his[BRK]
+training journey.[END]
 
 
 //POINTER #203 @ $4C87A - STRING #203 @ $4E01D
 
 #W16($4C87A)
-まだ　いってはいけません。[END]
+// まだ　いってはいけません。[END]
+Do[n']t go yet.[END]
 
 
 //POINTER #204 @ $4C87C - STRING #204 @ $4E02B
-
-#W16($4C87C)
-まわりは　やまばっかりです。[END]
-
-
 //POINTER #205 @ $4C87E - STRING #205 @ $4E02B
-
-#W16($4C87E)
-まわりは　やまばっかりです。[END]
-
-
 //POINTER #206 @ $4C880 - STRING #206 @ $4E02B
-
-#W16($4C880)
-まわりは　やまばっかりです。[END]
-
-
 //POINTER #207 @ $4C882 - STRING #207 @ $4E02B
 
+#W16($4C87C)
+#W16($4C87E)
+#W16($4C880)
 #W16($4C882)
-まわりは　やまばっかりです。[END]
+// まわりは　やまばっかりです。[END]
+There are only mountains
+around.[END]
 
 
 //POINTER #208 @ $4C884 - STRING #208 @ $4E03A
 
 #W16($4C884)
-べつに　いじょうは　なさそうです。[END]
+// べつに　いじょうは　なさそうです。[END]
+Ther[e']s nothing.[END]
 
 
 //POINTER #209 @ $4C886 - STRING #209 @ $4E04C
 
 #W16($4C886)
-なにかが　いるみたいです。[END]
+// なにかが　いるみたいです。[END]
+Somethin[g']s there.[END]
 
 
 //POINTER #210 @ $4C888 - STRING #210 @ $4E05A
-
-#W16($4C888)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #211 @ $4C88A - STRING #211 @ $4E05A
-
-#W16($4C88A)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #212 @ $4C88C - STRING #212 @ $4E05A
-
-#W16($4C88C)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #213 @ $4C88E - STRING #213 @ $4E05A
-
-#W16($4C88E)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #214 @ $4C890 - STRING #214 @ $4E05A
-
-#W16($4C890)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #215 @ $4C892 - STRING #215 @ $4E05A
-
-#W16($4C892)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #216 @ $4C894 - STRING #216 @ $4E05A
-
-#W16($4C894)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #217 @ $4C896 - STRING #217 @ $4E05A
-
-#W16($4C896)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #218 @ $4C898 - STRING #218 @ $4E05A
-
-#W16($4C898)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #219 @ $4C89A - STRING #219 @ $4E05A
-
-#W16($4C89A)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #220 @ $4C89C - STRING #220 @ $4E05A
-
-#W16($4C89C)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #221 @ $4C89E - STRING #221 @ $4E05A
-
-#W16($4C89E)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #222 @ $4C8A0 - STRING #222 @ $4E05A
-
-#W16($4C8A0)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #223 @ $4C8A2 - STRING #223 @ $4E05A
-
-#W16($4C8A2)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #224 @ $4C8A4 - STRING #224 @ $4E05A
-
-#W16($4C8A4)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #225 @ $4C8A6 - STRING #225 @ $4E05A
-
-#W16($4C8A6)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #226 @ $4C8A8 - STRING #226 @ $4E05A
-
-#W16($4C8A8)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #227 @ $4C8AA - STRING #227 @ $4E05A
-
-#W16($4C8AA)
-ウーロンは　だまっています。[END]
-
-
 //POINTER #228 @ $4C8AC - STRING #228 @ $4E069
 
-#W16($4C8AC)
-ウーロン「おっ！？　ピチピチギャル！！」[END]
+#W16($4C888)
+#W16($4C88A)
+#W16($4C88C)
+#W16($4C88E)
+#W16($4C890)
+#W16($4C892)
+#W16($4C894)
+#W16($4C896)
+#W16($4C898)
+#W16($4C89A)
+#W16($4C89C)
+#W16($4C89E)
+#W16($4C8A0)
+#W16($4C8A2)
+#W16($4C8A4)
+#W16($4C8A6)
+#W16($4C8A8)
+#W16($4C8AA)
+// ウーロンは　だまっています。[END]
+Oolong was s[il]ent.[END]
 
+
+#W16($4C8AC)
+// ウーロン「おっ！？　ピチピチギャル！！」[END]
+Oolong(Oh?!A hottie[!]
 
 //POINTER #229 @ $4C8AE - STRING #229 @ $4E07E
 
 #W16($4C8AE)
-ウーロン「ブルマか‥‥」[END]
+// ウーロン「ブルマか‥‥」[END]
+Oolong(Bulma,huh[...][END]
 
 
 //POINTER #230 @ $4C8B0 - STRING #230 @ $4E08B
 
 #W16($4C8B0)
-ブルマ「ボロっちい　いえね。」[END]
+// ブルマ「ボロっちい　いえね。」[END]
+Bulma(What a dump,huh[?][END]
 
 
 //POINTER #231 @ $4C8B2 - STRING #231 @ $4E09B
 
 #W16($4C8B2)
-ウーロン「ケッ　ボロだねー！」[END]
-
+// ウーロン「ケッ　ボロだねー！」[END]
+Oolong(I[t']s not a dump[!][END]
 
 //POINTER #232 @ $4C8B4 - STRING #232 @ $4E0AB
 
 #W16($4C8B4)
-ウミガメ「‥‥‥‥‥」[END]
+//ウミガメ「‥‥‥‥‥」[END]
+Turtle([...])[END]
 
 
 //POINTER #233 @ $4C8B6 - STRING #233 @ $4E0B7
 
 #W16($4C8B6)
-やまの　なかです。とつぜん　ウミガメが[BRK]
-あらわれました。[END]
+// やまの　なかです。とつぜん　ウミガメが[BRK]
+// あらわれました。[END]
+Suddenly,a sea turtle[BRK]
+appeared.[END]
 
 
 //POINTER #234 @ $4C8B8 - STRING #234 @ $4E0D4
 
 #W16($4C8B8)
-ウミガメ「じつは　わたくしウミガメなのに[BRK]
-まつたけがりにきたのが　ウンのツキで　みんなと[BRK]
-はぐれるわ　みちにまようわ‥[END]
+// ウミガメ「じつは　わたくしウミガメなのに[BRK]
+// まつたけがりにきたのが　ウンのツキで　みんなと[BRK]
+// はぐれるわ　みちにまようわ‥[END]
+Turtle(I was gathering[BRK]
+mushrooms with my bale[BRK]
+and got left behind[...][END]
 
 
 //POINTER #235 @ $4C8BA - STRING #235 @ $4E110
 
 #W16($4C8BA)
-ウミをもとめて　さまよいあるいております。[BRK]
-それに　たいせつな　にょいぼうを　さんぞくどもに[BRK]
-うばわれてしまい　こまっているところです。」[END]
+// ウミをもとめて　さまよいあるいております。[BRK]
+// それに　たいせつな　にょいぼうを　さんぞくどもに[BRK]
+// うばわれてしまい　こまっているところです。」[END]
+To make matters worse,[BRK]
+bandits ran off with the[BRK]
+power pole[.][END]
 
 
 //POINTER #236 @ $4C8BC - STRING #236 @ $4E156
 
 #W16($4C8BC)
-ゴクウ「オラが　そのにょいぼうを　とりかえして[BRK]
-ウミへ　つれてってやろうか？」[BRK]
-ウミガメをつれていきますか？　　　はい　　いいえ[END]
+// ゴクウ「オラが　そのにょいぼうを　とりかえして[BRK]
+// ウミへ　つれてってやろうか？」[BRK]
+// ウミガメをつれていきますか？　　　はい　　いいえ[END]
+Goku(Should we help out[BRK]
+the turtle[?][BRK]
+Bring him along? Yes  No[END]
 
 
 //POINTER #237 @ $4C8BE - STRING #237 @ $4E197
 
 #W16($4C8BE)
-ゴクウは　ウミガメをつれていくことにしました。[BRK]
-ウミガメ「えっ！！　ありがとうございます。」[END]
+// ゴクウは　ウミガメをつれていくことにしました。[BRK]
+// ウミガメ「えっ！！　ありがとうございます。」[END]
+Goku agreed to help.[BRK]
+Turtle(Thank you[!][END]
 
 
 //POINTER #238 @ $4C8C0 - STRING #238 @ $4E1C6
 
 #W16($4C8C0)
-ブルマ「ウミですって！？　てんで[BRK]
-ほうこうちがいじゃない！」[END]
+// ブルマ「ウミですって！？　てんで[BRK]
+// ほうこうちがいじゃない！」[END]
+Bulma(The sea?!Tha[t']s[BRK]
+the opposite direction[!][END]
 
 
 //POINTER #239 @ $4C8C2 - STRING #239 @ $4E1E5
 
 #W16($4C8C2)
-ブルマ「ジョーダンじゃないわよ！[BRK]
-そんなことしてる　ヒマは　ないのよ！！」[END]
+// ブルマ「ジョーダンじゃないわよ！[BRK]
+// そんなことしてる　ヒマは　ないのよ！！」[END]
+Bulma(Yo[u']re kidding![BRK]
+We do[n']t have time for[BRK]
+that[!][END]
 
 
 //POINTER #240 @ $4C8C4 - STRING #240 @ $4E20B
 
 #W16($4C8C4)
-ブルマ「ウミガメじゃない。」[END]
+// ブルマ「ウミガメじゃない。」[END]
+Bulma(He ca[n']t be a[BRK]
+SEA turtle[.][END]
 
 
 //POINTER #241 @ $4C8C6 - STRING #241 @ $4E21A
 
 #W16($4C8C6)
-ウーロン「トンマな　ヤツだぜ。」[END]
+// ウーロン「トンマな　ヤツだぜ。」[END]
+Oolong(What a dope[.][END]
 
 
 //POINTER #242 @ $4C8C8 - STRING #242 @ $4E22B
 
 #W16($4C8C8)
-ゴクウは　ウミガメをせおって　いきました。[BRK]
-そのために　ゴクウのいどうりょくが　１へります。[END]
+// ゴクウは　ウミガメをせおって　いきました。[BRK]
+// そのために　ゴクウのいどうりょくが　１へります。[END]
+Goku carried the turtle.[BRK]
+Movement went down by 1.[END]
 
 
 //POINTER #243 @ $4C8CA - STRING #243 @ $4E25A
 
 #W16($4C8CA)
-ゴクウは　ウミガメをおいて　いきました。[END]
+// ゴクウは　ウミガメをおいて　いきました。[END]
+Goku left the turtle.[END]
 
 
 //POINTER #244 @ $4C8CC - STRING #244 @ $4E26F
 
 #W16($4C8CC)
-ほんとうに　ウミガメです。[END]
+// ほんとうに　ウミガメです。[END]
+It rea[ll]y is a[BRK]
+sea turtle.[END]
 
 
 //POINTER #245 @ $4C8CE - STRING #245 @ $4E27D
 
 #W16($4C8CE)
-けわしい　やまみちです。[END]
+// けわしい　やまみちです。[END]
+I[t']s a steep mountain[BRK]
+road.[END]
 
 
 //POINTER #246 @ $4C8D0 - STRING #246 @ $4E28A
@@ -8600,12 +8588,6 @@ Castle Map[END]
 
 #W16($4D10C)
 おもいどうぎを　ぬぎました。[END]
-
-
-//POINTER #1301 @ $4D10E - STRING #1301 @ $5517D
-
-#W16($4D10E)
-ここでは　つかえません。[END]
 
 
 //POINTER #1302 @ $4D110 - STRING #1302 @ $5518A

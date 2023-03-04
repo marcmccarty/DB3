@@ -3,320 +3,440 @@
      7 HDR       Header size is now $C010
      8 JMP       ROM Position is now $4D116
     12 W16       ScriptPos $4D116 PointerPos $4C6E4 PointerValue $1106
-Which type?[BRK] Friend    Item[END]
-    21 W16       ScriptPos $4D132 PointerPos $4C6E6 PointerValue $1122
-Which type?[BRK] Friend    Item[END]
-    30 W16       ScriptPos $4D151 PointerPos $4C6E8 PointerValue $1141
-Which type?[BRK] Friend    Item[END]
-    37 W16       ScriptPos $4D161 PointerPos $4C6EA PointerValue $1151
-Which type?[BRK] Friend    Item[END]
-    46 W16       ScriptPos $4D186 PointerPos $4C6EC PointerValue $1176
-Which type?[BRK] Friend    Item[END]
-    55 W16       ScriptPos $4D1B1 PointerPos $4C6EE PointerValue $11A1
-Which type?[BRK] Friend    Item[END]
-    64 W16       ScriptPos $4D1DC PointerPos $4C6F0 PointerValue $11CC
-Which type?[BRK] Friend    Item[END]
-    73 W16       ScriptPos $4D208 PointerPos $4C6F2 PointerValue $11F8
-Which type?[BRK] Friend    Item[END]
-    80 W16       ScriptPos $4D214 PointerPos $4C6F4 PointerValue $1204
-Which type?[BRK] Friend    Item[END]
-    87 W16       ScriptPos $4D21C PointerPos $4C6F6 PointerValue $120C
-Which type?[BRK] Friend    Item[END]
-    94 W16       ScriptPos $4D226 PointerPos $4C6F8 PointerValue $1216
-Which type?[BRK] Friend    Item[END]
-   101 W16       ScriptPos $4D238 PointerPos $4C6FA PointerValue $1228
-   108 W16       ScriptPos $4D238 PointerPos $4C6FC PointerValue $1228
-Which type?[BRK] Friend    Item[END]
-   115 W16       ScriptPos $4D244 PointerPos $4C6FE PointerValue $1234
-Which type?[BRK] Friend    Item[END]
-   122 W16       ScriptPos $4D253 PointerPos $4C700 PointerValue $1243
-Which type?[BRK] Friend    Item[END]
-   129 W16       ScriptPos $4D265 PointerPos $4C702 PointerValue $1255
-Which type?[BRK] Friend    Item[END]
-   136 W16       ScriptPos $4D277 PointerPos $4C704 PointerValue $1267
-Which type?[BRK] Friend    Item[END]
-   143 W16       ScriptPos $4D282 PointerPos $4C706 PointerValue $1272
-Which type?[BRK] Friend    Item[END]
-   150 W16       ScriptPos $4D292 PointerPos $4C708 PointerValue $1282
-   157 W16       ScriptPos $4D292 PointerPos $4C70A PointerValue $1282
-Which type?[BRK] Friend    Item[END]
-   164 W16       ScriptPos $4D29F PointerPos $4C70C PointerValue $128F
-Which type?[BRK] Friend    Item[END]
-   171 W16       ScriptPos $4D2AB PointerPos $4C70E PointerValue $129B
-Which type?[BRK] Friend    Item[END]
-   178 W16       ScriptPos $4D2BB PointerPos $4C710 PointerValue $12AB
-Which type?[BRK] Friend    Item[END]
-   185 W16       ScriptPos $4D2CE PointerPos $4C712 PointerValue $12BE
-Which type?[BRK] Friend    Item[END]
-   192 W16       ScriptPos $4D2D6 PointerPos $4C714 PointerValue $12C6
-Which type?[BRK] Friend    Item[END]
-   199 W16       ScriptPos $4D2E0 PointerPos $4C716 PointerValue $12D0
-Which type?[BRK] Friend    Item[END]
-   206 W16       ScriptPos $4D2F2 PointerPos $4C718 PointerValue $12E2
-Which type?[BRK] Friend    Item[END]
-   213 W16       ScriptPos $4D2FE PointerPos $4C71A PointerValue $12EE
-Which type?[BRK] Friend    Item[END]
-   220 W16       ScriptPos $4D30A PointerPos $4C71C PointerValue $12FA
-Which type?[BRK] Friend    Item[END]
-   227 W16       ScriptPos $4D31C PointerPos $4C71E PointerValue $130C
-Which type?[BRK] Friend    Item[END]
-   234 W16       ScriptPos $4D328 PointerPos $4C720 PointerValue $1318
-Which type?[BRK] Friend    Item[END]
-   241 W16       ScriptPos $4D33D PointerPos $4C722 PointerValue $132D
-Which type?[BRK] Friend    Item[END]
-   248 W16       ScriptPos $4D34A PointerPos $4C724 PointerValue $133A
-Which type?[BRK] Friend    Item[END]
-   255 W16       ScriptPos $4D355 PointerPos $4C726 PointerValue $1345
-Which type?[BRK] Friend    Item[END]
-   262 W16       ScriptPos $4D363 PointerPos $4C728 PointerValue $1353
-Which type?[BRK] Friend    Item[END]
-   269 W16       ScriptPos $4D374 PointerPos $4C72A PointerValue $1364
-Which type?[BRK] Friend    Item[END]
-   276 W16       ScriptPos $4D37C PointerPos $4C72C PointerValue $136C
-Which type?[BRK] Friend    Item[END]
-   283 W16       ScriptPos $4D388 PointerPos $4C72E PointerValue $1378
-Which type?[BRK] Friend    Item[END]
-   290 W16       ScriptPos $4D396 PointerPos $4C730 PointerValue $1386
-Which type?[BRK] Friend    Item[END]
-   297 W16       ScriptPos $4D3A2 PointerPos $4C732 PointerValue $1392
-Which type?[BRK] Friend    Item[END]
-   304 W16       ScriptPos $4D3B6 PointerPos $4C734 PointerValue $13A6
-Which type?[BRK] Friend    Item[END]
-   311 W16       ScriptPos $4D3C6 PointerPos $4C736 PointerValue $13B6
-Which type?[BRK] Friend    Item[END]
-   318 W16       ScriptPos $4D3DA PointerPos $4C738 PointerValue $13CA
-Which type?[BRK] Friend    Item[END]
-   325 W16       ScriptPos $4D3E6 PointerPos $4C73A PointerValue $13D6
-Which type?[BRK] Friend    Item[END]
-   332 W16       ScriptPos $4D3F7 PointerPos $4C73C PointerValue $13E7
-Which type?[BRK] Friend    Item[END]
-   339 W16       ScriptPos $4D3FE PointerPos $4C73E PointerValue $13EE
-Which type?[BRK] Friend    Item[END]
-   346 W16       ScriptPos $4D410 PointerPos $4C740 PointerValue $1400
-Which type?[BRK] Friend    Item[END]
-   353 W16       ScriptPos $4D420 PointerPos $4C742 PointerValue $1410
-Which type?[BRK] Friend    Item[END]
-   360 W16       ScriptPos $4D427 PointerPos $4C744 PointerValue $1417
-Which type?[BRK] Friend    Item[END]
-   367 W16       ScriptPos $4D431 PointerPos $4C746 PointerValue $1421
-Which type?[BRK] Friend    Item[END]
-   374 W16       ScriptPos $4D43E PointerPos $4C748 PointerValue $142E
-Which type?[BRK] Friend    Item[END]
-   381 W16       ScriptPos $4D44E PointerPos $4C74A PointerValue $143E
-Which type?[BRK] Friend    Item[END]
-   388 W16       ScriptPos $4D459 PointerPos $4C74C PointerValue $1449
-Which type?[BRK] Friend    Item[END]
-   395 W16       ScriptPos $4D466 PointerPos $4C74E PointerValue $1456
-Which type?[BRK] Friend    Item[END]
-   402 W16       ScriptPos $4D476 PointerPos $4C750 PointerValue $1466
-Which type?[BRK] Friend    Item[END]
-   409 W16       ScriptPos $4D47E PointerPos $4C752 PointerValue $146E
-Which type?[BRK] Friend    Item[END]
-   416 W16       ScriptPos $4D492 PointerPos $4C754 PointerValue $1482
-Which type?[BRK] Friend    Item[END]
-   423 W16       ScriptPos $4D4A0 PointerPos $4C756 PointerValue $1490
-Which type?[BRK] Friend    Item[END]
-   430 W16       ScriptPos $4D4B3 PointerPos $4C758 PointerValue $14A3
-Which type?[BRK] Friend    Item[END]
-   437 W16       ScriptPos $4D4C8 PointerPos $4C75A PointerValue $14B8
-Which type?[BRK] Friend    Item[END]
-   444 W16       ScriptPos $4D4DC PointerPos $4C75C PointerValue $14CC
-Which type?[BRK] Friend    Item[END]
-   451 W16       ScriptPos $4D4E4 PointerPos $4C75E PointerValue $14D4
-Which type?[BRK] Friend    Item[END]
-   458 W16       ScriptPos $4D4F2 PointerPos $4C760 PointerValue $14E2
-Which type?[BRK] Friend    Item[END]
-   465 W16       ScriptPos $4D4FB PointerPos $4C762 PointerValue $14EB
-Which type?[BRK] Friend    Item[END]
-   472 W16       ScriptPos $4D502 PointerPos $4C764 PointerValue $14F2
-Which type?[BRK] Friend    Item[END]
-   481 W16       ScriptPos $4D522 PointerPos $4C766 PointerValue $1512
-Which type?[BRK] Friend    Item[END]
-   488 W16       ScriptPos $4D52E PointerPos $4C768 PointerValue $151E
-Which type?[BRK] Friend    Item[END]
-   497 W16       ScriptPos $4D555 PointerPos $4C76A PointerValue $1545
-Which type?[BRK] Friend    Item[END]
-   504 W16       ScriptPos $4D562 PointerPos $4C76C PointerValue $1552
-Which type?[BRK] Friend    Item[END]
-   511 W16       ScriptPos $4D56F PointerPos $4C76E PointerValue $155F
-Which type?[BRK] Friend    Item[END]
-   518 W16       ScriptPos $4D57C PointerPos $4C770 PointerValue $156C
-Which type?[BRK] Friend    Item[END]
-   525 W16       ScriptPos $4D58B PointerPos $4C772 PointerValue $157B
-Which type?[BRK] Friend    Item[END]
-   532 W16       ScriptPos $4D5A0 PointerPos $4C774 PointerValue $1590
-Which type?[BRK] Friend    Item[END]
-   539 W16       ScriptPos $4D5AF PointerPos $4C776 PointerValue $159F
-Which type?[BRK] Friend    Item[END]
-   546 W16       ScriptPos $4D5BE PointerPos $4C778 PointerValue $15AE
-Which type?[BRK] Friend    Item[END]
-   553 W16       ScriptPos $4D5D1 PointerPos $4C77A PointerValue $15C1
-Which type?[BRK] Friend    Item[END]
-   560 W16       ScriptPos $4D5D6 PointerPos $4C77C PointerValue $15C6
-Which type?[BRK] Friend    Item[END]
-   567 W16       ScriptPos $4D5EF PointerPos $4C77E PointerValue $15DF
-Which type?[BRK] Friend    Item[END]
-   574 W16       ScriptPos $4D5FF PointerPos $4C780 PointerValue $15EF
-Which type?[BRK] Friend    Item[END]
-   581 W16       ScriptPos $4D60F PointerPos $4C782 PointerValue $15FF
-Which type?[BRK] Friend    Item[END]
-   588 W16       ScriptPos $4D61F PointerPos $4C784 PointerValue $160F
-Which type?[BRK] Friend    Item[END]
-   595 W16       ScriptPos $4D630 PointerPos $4C786 PointerValue $1620
-Which type?[BRK] Friend    Item[END]
-   602 W16       ScriptPos $4D641 PointerPos $4C788 PointerValue $1631
-Which type?[BRK] Friend    Item[END]
-   609 W16       ScriptPos $4D653 PointerPos $4C78A PointerValue $1643
-Which type?[BRK] Friend    Item[END]
-   616 W16       ScriptPos $4D66B PointerPos $4C78C PointerValue $165B
-Which type?[BRK] Friend    Item[END]
-   623 W16       ScriptPos $4D67B PointerPos $4C78E PointerValue $166B
-Which type?[BRK] Friend    Item[END]
-   630 W16       ScriptPos $4D68A PointerPos $4C790 PointerValue $167A
-Which type?[BRK] Friend    Item[END]
-   637 W16       ScriptPos $4D6A3 PointerPos $4C792 PointerValue $1693
-Which type?[BRK] Friend    Item[END]
-   646 W16       ScriptPos $4D6C5 PointerPos $4C794 PointerValue $16B5
-Which type?[BRK] Friend    Item[END]
-   654 W16       ScriptPos $4D6DF PointerPos $4C796 PointerValue $16CF
-Which type?[BRK] Friend    Item[END]
-   663 W16       ScriptPos $4D6F8 PointerPos $4C798 PointerValue $16E8
-Which type?[BRK] Friend    Item[END]
-   672 W16       ScriptPos $4D723 PointerPos $4C79A PointerValue $1713
-Which type?[BRK] Friend    Item[END]
-   679 W16       ScriptPos $4D737 PointerPos $4C79C PointerValue $1727
-Which type?[BRK] Friend    Item[END]
-   686 W16       ScriptPos $4D74E PointerPos $4C79E PointerValue $173E
-Which type?[BRK] Friend    Item[END]
-   693 W16       ScriptPos $4D762 PointerPos $4C7A0 PointerValue $1752
-Which type?[BRK] Friend    Item[END]
-   701 W16       ScriptPos $4D776 PointerPos $4C7A2 PointerValue $1766
-Which type?[BRK] Friend    Item[END]
-   710 W16       ScriptPos $4D7A0 PointerPos $4C7A4 PointerValue $1790
-Which type?[BRK] Friend    Item[END]
-   719 W16       ScriptPos $4D7C6 PointerPos $4C7A6 PointerValue $17B6
-Which type?[BRK] Friend    Item[END]
-   728 W16       ScriptPos $4D7F0 PointerPos $4C7A8 PointerValue $17E0
-Which type?[BRK] Friend    Item[END]
-   736 W16       ScriptPos $4D809 PointerPos $4C7AA PointerValue $17F9
-Which type?[BRK] Friend    Item[END]
-   745 W16       ScriptPos $4D834 PointerPos $4C7AC PointerValue $1824
-Which type?[BRK] Friend    Item[END]
-   753 W16       ScriptPos $4D857 PointerPos $4C7AE PointerValue $1847
-Which type?[BRK] Friend    Item[END]
-   760 W16       ScriptPos $4D86B PointerPos $4C7B0 PointerValue $185B
-Which type?[BRK] Friend    Item[END]
-   768 W16       ScriptPos $4D885 PointerPos $4C7B2 PointerValue $1875
-Which type?[BRK] Friend    Item[END]
-   775 W16       ScriptPos $4D894 PointerPos $4C7B4 PointerValue $1884
-Which type?[BRK] Friend    Item[END]
-   783 W16       ScriptPos $4D8A9 PointerPos $4C7B6 PointerValue $1899
-   784 W16       ScriptPos $4D8A9 PointerPos $4C7C0 PointerValue $1899
-Which type?[BRK] Friend    Item[END]
-   791 W16       ScriptPos $4D8BF PointerPos $4C7B8 PointerValue $18AF
-Which type?[BRK] Friend    Item[END]
-   799 W16       ScriptPos $4D8D4 PointerPos $4C7BA PointerValue $18C4
-Which type?[BRK] Friend    Item[END]
-   807 W16       ScriptPos $4D8E5 PointerPos $4C7BC PointerValue $18D5
-Which type?[BRK] Friend    Item[END]
-   814 W16       ScriptPos $4D8FB PointerPos $4C7BE PointerValue $18EB
-Which type?[BRK] Friend    Item[END]
-   822 W16       ScriptPos $4D907 PointerPos $4C7C2 PointerValue $18F7
-Which type?[BRK] Friend    Item[END]
-   829 W16       ScriptPos $4D916 PointerPos $4C7C4 PointerValue $1906
-Which type?[BRK] Friend    Item[END]
-   837 W16       ScriptPos $4D92B PointerPos $4C7C6 PointerValue $191B
-Which type?[BRK] Friend    Item[END]
-   846 W16       ScriptPos $4D946 PointerPos $4C7C8 PointerValue $1936
-Which type?[BRK] Friend    Item[END]
-   853 W16       ScriptPos $4D955 PointerPos $4C7CA PointerValue $1945
-Which type?[BRK] Friend    Item[END]
-   860 W16       ScriptPos $4D966 PointerPos $4C7CC PointerValue $1956
-Which type?[BRK] Friend    Item[END]
-   870 W16       ScriptPos $4D9A6 PointerPos $4C7CE PointerValue $1996
-Which type?[BRK] Friend    Item[END]
-   877 W16       ScriptPos $4D9B5 PointerPos $4C7D0 PointerValue $19A5
-Which type?[BRK] Friend    Item[END]
-   885 W16       ScriptPos $4D9DC PointerPos $4C7D2 PointerValue $19CC
-Which type?[BRK] Friend    Item[END]
-   892 W16       ScriptPos $4D9ED PointerPos $4C7D4 PointerValue $19DD
-Which type?[BRK] Friend    Item[END]
-   899 W16       ScriptPos $4DA02 PointerPos $4C7D6 PointerValue $19F2
-Which type?[BRK] Friend    Item[END]
-   906 W16       ScriptPos $4DA1B PointerPos $4C7D8 PointerValue $1A0B
-Which type?[BRK] Friend    Item[END]
-   913 W16       ScriptPos $4DA2A PointerPos $4C7DA PointerValue $1A1A
-Which type?[BRK] Friend    Item[END]
-   922 W16       ScriptPos $4DA45 PointerPos $4C7DC PointerValue $1A35
-Which type?[BRK] Friend    Item[END]
-   930 W16       ScriptPos $4DA5C PointerPos $4C7DE PointerValue $1A4C
-   931 W16       ScriptPos $4DA5C PointerPos $4C7E0 PointerValue $1A4C
-Which type?[BRK] Friend    Item[END]
-   938 W16       ScriptPos $4DA6F PointerPos $4C7E2 PointerValue $1A5F
-Which type?[BRK] Friend    Item[END]
-   945 W16       ScriptPos $4DA75 PointerPos $4C7E4 PointerValue $1A65
-Which type?[BRK] Friend    Item[END]
-   952 W16       ScriptPos $4DA82 PointerPos $4C7E6 PointerValue $1A72
-Which type?[BRK] Friend    Item[END]
-   959 W16       ScriptPos $4DA92 PointerPos $4C7E8 PointerValue $1A82
-Which type?[BRK] Friend    Item[END]
-   966 W16       ScriptPos $4DAA3 PointerPos $4C7EA PointerValue $1A93
-Which type?[BRK] Friend    Item[END]
-   973 W16       ScriptPos $4DABB PointerPos $4C7EC PointerValue $1AAB
-Which type?[BRK] Friend    Item[END]
-   980 W16       ScriptPos $4DAC6 PointerPos $4C7EE PointerValue $1AB6
-Which type?[BRK] Friend    Item[END]
-   987 W16       ScriptPos $4DAD4 PointerPos $4C7F0 PointerValue $1AC4
-Which type?[BRK] Friend    Item[END]
-   994 W16       ScriptPos $4DAE5 PointerPos $4C7F2 PointerValue $1AD5
-Which type?[BRK] Friend    Item[END]
-  1001 W16       ScriptPos $4DAF4 PointerPos $4C7F4 PointerValue $1AE4
-Which type?[BRK] Friend    Item[END]
-  1008 W16       ScriptPos $4DB06 PointerPos $4C7F6 PointerValue $1AF6
-Which type?[BRK] Friend    Item[END]
-  1015 W16       ScriptPos $4DB1D PointerPos $4C7F8 PointerValue $1B0D
-Which type?[BRK] Friend    Item[END]
-  1024 W16       ScriptPos $4DB43 PointerPos $4C7FA PointerValue $1B33
-Which type?[BRK] Friend    Item[END]
-  1031 W16       ScriptPos $4DB51 PointerPos $4C7FC PointerValue $1B41
-Which type?[BRK] Friend    Item[END]
-  1038 W16       ScriptPos $4DB60 PointerPos $4C7FE PointerValue $1B50
-Which type?[BRK] Friend    Item[END]
-  1045 W16       ScriptPos $4DB6D PointerPos $4C800 PointerValue $1B5D
-Which type?[BRK] Friend    Item[END]
-  1052 W16       ScriptPos $4DB7F PointerPos $4C802 PointerValue $1B6F
-Which type?[BRK] Friend    Item[END]
-  1059 W16       ScriptPos $4DB8F PointerPos $4C804 PointerValue $1B7F
-Which type?[BRK] Friend    Item[END]
-  1066 W16       ScriptPos $4DBA3 PointerPos $4C806 PointerValue $1B93
-Which type?[BRK] Friend    Item[END]
-  1074 W16       ScriptPos $4DBC2 PointerPos $4C808 PointerValue $1BB2
-Which type?[BRK] Friend    Item[END]
-  1081 W16       ScriptPos $4DBD0 PointerPos $4C80A PointerValue $1BC0
-Which type?[BRK] Friend    Item[END]
-  1088 W16       ScriptPos $4DBE1 PointerPos $4C80C PointerValue $1BD1
-Which type?[BRK] Friend    Item[END]
-  1096 W16       ScriptPos $4DC01 PointerPos $4C80E PointerValue $1BF1
-Which type?[BRK] Friend    Item[END]
-  1103 W16       ScriptPos $4DC0E PointerPos $4C810 PointerValue $1BFE
-Which type?[BRK] Friend    Item[END]
-  1110 W16       ScriptPos $4DC22 PointerPos $4C812 PointerValue $1C12
-Which type?[BRK] Friend    Item[END]
-  1117 W16       ScriptPos $4DC3A PointerPos $4C814 PointerValue $1C2A
-Which type?[BRK] Friend    Item[END]
-  1125 W16       ScriptPos $4DC4E PointerPos $4C816 PointerValue $1C3E
-Which type?[BRK] Friend    Item[END]
-  1132 W16       ScriptPos $4DC5F PointerPos $4C818 PointerValue $1C4F
-Which type?[BRK] Friend    Item[END]
-  1140 W16       ScriptPos $4DC7B PointerPos $4C81A PointerValue $1C6B
-Which type?[BRK] Friend    Item[END]
-  1147 W16       ScriptPos $4DC8F PointerPos $4C81C PointerValue $1C7F
-Which type?[BRK] Friend    Item[END]
-  1154 W16       ScriptPos $4DCA1 PointerPos $4C81E PointerValue $1C91
-Which type?[BRK] Friend    Item[END]
-  1162 W16       ScriptPos $4DCAD PointerPos $4C820 PointerValue $1C9D
-Which type?[BRK] Friend    Item[END]
-  1171 W16       ScriptPos $4DCCA PointerPos $4C822 PointerValue $1CBA
-Which type?[BRK] Friend    Item[END]
-  1179 W16       ScriptPos $4DCE0 PointerPos $4C824 PointerValue $1CD0
-Which type?[BRK] Friend    Item[END]
+Which type?[BRK] Friends    Items[END]
+    21 W16       ScriptPos $4D134 PointerPos $4C6E6 PointerValue $1124
+Which type?[BRK] Friends    Items[END]
+    30 W16       ScriptPos $4D153 PointerPos $4C6E8 PointerValue $1143
+Which type?[BRK] Friends    Items[END]
+    37 W16       ScriptPos $4D163 PointerPos $4C6EA PointerValue $1153
+Which type?[BRK] Friends    Items[END]
+    46 W16       ScriptPos $4D188 PointerPos $4C6EC PointerValue $1178
+Which type?[BRK] Friends    Items[END]
+    55 W16       ScriptPos $4D1B3 PointerPos $4C6EE PointerValue $11A3
+Which type?[BRK] Friends    Items[END]
+    64 W16       ScriptPos $4D1DE PointerPos $4C6F0 PointerValue $11CE
+Which type?[BRK] Friends    Items[END]
+    73 W16       ScriptPos $4D20A PointerPos $4C6F2 PointerValue $11FA
+Which type?[BRK] Friends    Items[END]
+    80 W16       ScriptPos $4D216 PointerPos $4C6F4 PointerValue $1206
+Which type?[BRK] Friends    Items[END]
+    87 W16       ScriptPos $4D21E PointerPos $4C6F6 PointerValue $120E
+Which type?[BRK] Friends    Items[END]
+    94 W16       ScriptPos $4D228 PointerPos $4C6F8 PointerValue $1218
+Which type?[BRK] Friends    Items[END]
+   101 W16       ScriptPos $4D23A PointerPos $4C6FA PointerValue $122A
+   108 W16       ScriptPos $4D23A PointerPos $4C6FC PointerValue $122A
+Which type?[BRK] Friends    Items[END]
+   115 W16       ScriptPos $4D246 PointerPos $4C6FE PointerValue $1236
+Which type?[BRK] Friends    Items[END]
+   122 W16       ScriptPos $4D255 PointerPos $4C700 PointerValue $1245
+Which type?[BRK] Friends    Items[END]
+   129 W16       ScriptPos $4D267 PointerPos $4C702 PointerValue $1257
+Which type?[BRK] Friends    Items[END]
+   136 W16       ScriptPos $4D279 PointerPos $4C704 PointerValue $1269
+Which type?[BRK] Friends    Items[END]
+   143 W16       ScriptPos $4D284 PointerPos $4C706 PointerValue $1274
+Which type?[BRK] Friends    Items[END]
+   150 W16       ScriptPos $4D294 PointerPos $4C708 PointerValue $1284
+   157 W16       ScriptPos $4D294 PointerPos $4C70A PointerValue $1284
+Which type?[BRK] Friends    Items[END]
+   164 W16       ScriptPos $4D2A1 PointerPos $4C70C PointerValue $1291
+Which type?[BRK] Friends    Items[END]
+   171 W16       ScriptPos $4D2AD PointerPos $4C70E PointerValue $129D
+Which type?[BRK] Friends    Items[END]
+   178 W16       ScriptPos $4D2BD PointerPos $4C710 PointerValue $12AD
+Which type?[BRK] Friends    Items[END]
+   185 W16       ScriptPos $4D2D0 PointerPos $4C712 PointerValue $12C0
+Which type?[BRK] Friends    Items[END]
+   192 W16       ScriptPos $4D2D8 PointerPos $4C714 PointerValue $12C8
+Which type?[BRK] Friends    Items[END]
+   199 W16       ScriptPos $4D2E2 PointerPos $4C716 PointerValue $12D2
+Which type?[BRK] Friends    Items[END]
+   206 W16       ScriptPos $4D2F4 PointerPos $4C718 PointerValue $12E4
+Which type?[BRK] Friends    Items[END]
+   213 W16       ScriptPos $4D300 PointerPos $4C71A PointerValue $12F0
+Which type?[BRK] Friends    Items[END]
+   220 W16       ScriptPos $4D30C PointerPos $4C71C PointerValue $12FC
+Which type?[BRK] Friends    Items[END]
+   227 W16       ScriptPos $4D31E PointerPos $4C71E PointerValue $130E
+Which type?[BRK] Friends    Items[END]
+   234 W16       ScriptPos $4D32A PointerPos $4C720 PointerValue $131A
+Which type?[BRK] Friends    Items[END]
+   241 W16       ScriptPos $4D33F PointerPos $4C722 PointerValue $132F
+Which type?[BRK] Friends    Items[END]
+   248 W16       ScriptPos $4D34C PointerPos $4C724 PointerValue $133C
+Which type?[BRK] Friends    Items[END]
+   255 W16       ScriptPos $4D357 PointerPos $4C726 PointerValue $1347
+Which type?[BRK] Friends    Items[END]
+   262 W16       ScriptPos $4D365 PointerPos $4C728 PointerValue $1355
+Which type?[BRK] Friends    Items[END]
+   269 W16       ScriptPos $4D376 PointerPos $4C72A PointerValue $1366
+Which type?[BRK] Friends    Items[END]
+   276 W16       ScriptPos $4D37E PointerPos $4C72C PointerValue $136E
+Which type?[BRK] Friends    Items[END]
+   283 W16       ScriptPos $4D38A PointerPos $4C72E PointerValue $137A
+Which type?[BRK] Friends    Items[END]
+   290 W16       ScriptPos $4D398 PointerPos $4C730 PointerValue $1388
+Which type?[BRK] Friends    Items[END]
+   297 W16       ScriptPos $4D3A4 PointerPos $4C732 PointerValue $1394
+Which type?[BRK] Friends    Items[END]
+   304 W16       ScriptPos $4D3B8 PointerPos $4C734 PointerValue $13A8
+Which type?[BRK] Friends    Items[END]
+   311 W16       ScriptPos $4D3C8 PointerPos $4C736 PointerValue $13B8
+Which type?[BRK] Friends    Items[END]
+   318 W16       ScriptPos $4D3DC PointerPos $4C738 PointerValue $13CC
+Which type?[BRK] Friends    Items[END]
+   325 W16       ScriptPos $4D3E8 PointerPos $4C73A PointerValue $13D8
+Which type?[BRK] Friends    Items[END]
+   332 W16       ScriptPos $4D3F9 PointerPos $4C73C PointerValue $13E9
+Which type?[BRK] Friends    Items[END]
+   339 W16       ScriptPos $4D400 PointerPos $4C73E PointerValue $13F0
+Which type?[BRK] Friends    Items[END]
+   346 W16       ScriptPos $4D412 PointerPos $4C740 PointerValue $1402
+Which type?[BRK] Friends    Items[END]
+   353 W16       ScriptPos $4D422 PointerPos $4C742 PointerValue $1412
+Which type?[BRK] Friends    Items[END]
+   360 W16       ScriptPos $4D429 PointerPos $4C744 PointerValue $1419
+Which type?[BRK] Friends    Items[END]
+   367 W16       ScriptPos $4D433 PointerPos $4C746 PointerValue $1423
+Which type?[BRK] Friends    Items[END]
+   374 W16       ScriptPos $4D440 PointerPos $4C748 PointerValue $1430
+Which type?[BRK] Friends    Items[END]
+   381 W16       ScriptPos $4D450 PointerPos $4C74A PointerValue $1440
+Which type?[BRK] Friends    Items[END]
+   388 W16       ScriptPos $4D45B PointerPos $4C74C PointerValue $144B
+Which type?[BRK] Friends    Items[END]
+   395 W16       ScriptPos $4D468 PointerPos $4C74E PointerValue $1458
+Which type?[BRK] Friends    Items[END]
+   402 W16       ScriptPos $4D478 PointerPos $4C750 PointerValue $1468
+Which type?[BRK] Friends    Items[END]
+   409 W16       ScriptPos $4D480 PointerPos $4C752 PointerValue $1470
+Which type?[BRK] Friends    Items[END]
+   416 W16       ScriptPos $4D494 PointerPos $4C754 PointerValue $1484
+Which type?[BRK] Friends    Items[END]
+   423 W16       ScriptPos $4D4A2 PointerPos $4C756 PointerValue $1492
+Which type?[BRK] Friends    Items[END]
+   430 W16       ScriptPos $4D4B5 PointerPos $4C758 PointerValue $14A5
+Which type?[BRK] Friends    Items[END]
+   437 W16       ScriptPos $4D4CA PointerPos $4C75A PointerValue $14BA
+Which type?[BRK] Friends    Items[END]
+   444 W16       ScriptPos $4D4DE PointerPos $4C75C PointerValue $14CE
+Which type?[BRK] Friends    Items[END]
+   451 W16       ScriptPos $4D4E6 PointerPos $4C75E PointerValue $14D6
+Which type?[BRK] Friends    Items[END]
+   458 W16       ScriptPos $4D4F4 PointerPos $4C760 PointerValue $14E4
+Which type?[BRK] Friends    Items[END]
+   465 W16       ScriptPos $4D4FD PointerPos $4C762 PointerValue $14ED
+Which type?[BRK] Friends    Items[END]
+   472 W16       ScriptPos $4D504 PointerPos $4C764 PointerValue $14F4
+Which type?[BRK] Friends    Items[END]
+   481 W16       ScriptPos $4D524 PointerPos $4C766 PointerValue $1514
+Which type?[BRK] Friends    Items[END]
+   488 W16       ScriptPos $4D530 PointerPos $4C768 PointerValue $1520
+Which type?[BRK] Friends    Items[END]
+   497 W16       ScriptPos $4D557 PointerPos $4C76A PointerValue $1547
+Which type?[BRK] Friends    Items[END]
+   504 W16       ScriptPos $4D564 PointerPos $4C76C PointerValue $1554
+Which type?[BRK] Friends    Items[END]
+   511 W16       ScriptPos $4D571 PointerPos $4C76E PointerValue $1561
+Which type?[BRK] Friends    Items[END]
+   518 W16       ScriptPos $4D57E PointerPos $4C770 PointerValue $156E
+Which type?[BRK] Friends    Items[END]
+   525 W16       ScriptPos $4D58D PointerPos $4C772 PointerValue $157D
+Which type?[BRK] Friends    Items[END]
+   532 W16       ScriptPos $4D5A2 PointerPos $4C774 PointerValue $1592
+Which type?[BRK] Friends    Items[END]
+   539 W16       ScriptPos $4D5B1 PointerPos $4C776 PointerValue $15A1
+Which type?[BRK] Friends    Items[END]
+   546 W16       ScriptPos $4D5C0 PointerPos $4C778 PointerValue $15B0
+Which type?[BRK] Friends    Items[END]
+   553 W16       ScriptPos $4D5D3 PointerPos $4C77A PointerValue $15C3
+Which type?[BRK] Friends    Items[END]
+   560 W16       ScriptPos $4D5D8 PointerPos $4C77C PointerValue $15C8
+Which type?[BRK] Friends    Items[END]
+   567 W16       ScriptPos $4D5F1 PointerPos $4C77E PointerValue $15E1
+Which type?[BRK] Friends    Items[END]
+   574 W16       ScriptPos $4D601 PointerPos $4C780 PointerValue $15F1
+Which type?[BRK] Friends    Items[END]
+   581 W16       ScriptPos $4D611 PointerPos $4C782 PointerValue $1601
+Which type?[BRK] Friends    Items[END]
+   588 W16       ScriptPos $4D621 PointerPos $4C784 PointerValue $1611
+Which type?[BRK] Friends    Items[END]
+   595 W16       ScriptPos $4D632 PointerPos $4C786 PointerValue $1622
+Which type?[BRK] Friends    Items[END]
+   602 W16       ScriptPos $4D643 PointerPos $4C788 PointerValue $1633
+Which type?[BRK] Friends    Items[END]
+   609 W16       ScriptPos $4D655 PointerPos $4C78A PointerValue $1645
+Which type?[BRK] Friends    Items[END]
+   616 W16       ScriptPos $4D66D PointerPos $4C78C PointerValue $165D
+Which type?[BRK] Friends    Items[END]
+   623 W16       ScriptPos $4D67D PointerPos $4C78E PointerValue $166D
+Which type?[BRK] Friends    Items[END]
+   630 W16       ScriptPos $4D68C PointerPos $4C790 PointerValue $167C
+Which type?[BRK] Friends    Items[END]
+   637 W16       ScriptPos $4D6A5 PointerPos $4C792 PointerValue $1695
+Which type?[BRK] Friends    Items[END]
+   646 W16       ScriptPos $4D6C7 PointerPos $4C794 PointerValue $16B7
+Which type?[BRK] Friends    Items[END]
+   654 W16       ScriptPos $4D6E1 PointerPos $4C796 PointerValue $16D1
+Which type?[BRK] Friends    Items[END]
+   663 W16       ScriptPos $4D6FA PointerPos $4C798 PointerValue $16EA
+Which type?[BRK] Friends    Items[END]
+   672 W16       ScriptPos $4D725 PointerPos $4C79A PointerValue $1715
+Which type?[BRK] Friends    Items[END]
+   679 W16       ScriptPos $4D739 PointerPos $4C79C PointerValue $1729
+Which type?[BRK] Friends    Items[END]
+   686 W16       ScriptPos $4D750 PointerPos $4C79E PointerValue $1740
+Which type?[BRK] Friends    Items[END]
+   693 W16       ScriptPos $4D764 PointerPos $4C7A0 PointerValue $1754
+Which type?[BRK] Friends    Items[END]
+   701 W16       ScriptPos $4D778 PointerPos $4C7A2 PointerValue $1768
+Which type?[BRK] Friends    Items[END]
+   710 W16       ScriptPos $4D7A2 PointerPos $4C7A4 PointerValue $1792
+Which type?[BRK] Friends    Items[END]
+   719 W16       ScriptPos $4D7C8 PointerPos $4C7A6 PointerValue $17B8
+Which type?[BRK] Friends    Items[END]
+   728 W16       ScriptPos $4D7F2 PointerPos $4C7A8 PointerValue $17E2
+Which type?[BRK] Friends    Items[END]
+   736 W16       ScriptPos $4D80B PointerPos $4C7AA PointerValue $17FB
+Which type?[BRK] Friends    Items[END]
+   745 W16       ScriptPos $4D836 PointerPos $4C7AC PointerValue $1826
+Which type?[BRK] Friends    Items[END]
+   753 W16       ScriptPos $4D859 PointerPos $4C7AE PointerValue $1849
+Which type?[BRK] Friends    Items[END]
+   760 W16       ScriptPos $4D86D PointerPos $4C7B0 PointerValue $185D
+Which type?[BRK] Friends    Items[END]
+   768 W16       ScriptPos $4D887 PointerPos $4C7B2 PointerValue $1877
+Which type?[BRK] Friends    Items[END]
+   775 W16       ScriptPos $4D896 PointerPos $4C7B4 PointerValue $1886
+Which type?[BRK] Friends    Items[END]
+   783 W16       ScriptPos $4D8AB PointerPos $4C7B6 PointerValue $189B
+   784 W16       ScriptPos $4D8AB PointerPos $4C7C0 PointerValue $189B
+Which type?[BRK] Friends    Items[END]
+   791 W16       ScriptPos $4D8C1 PointerPos $4C7B8 PointerValue $18B1
+Which type?[BRK] Friends    Items[END]
+   799 W16       ScriptPos $4D8D6 PointerPos $4C7BA PointerValue $18C6
+Which type?[BRK] Friends    Items[END]
+   807 W16       ScriptPos $4D8E7 PointerPos $4C7BC PointerValue $18D7
+Which type?[BRK] Friends    Items[END]
+   814 W16       ScriptPos $4D8FD PointerPos $4C7BE PointerValue $18ED
+Which type?[BRK] Friends    Items[END]
+   825 W16       ScriptPos $4D909 PointerPos $4C7C2 PointerValue $18F9
+   826 W16       ScriptPos $4D909 PointerPos $4C874 PointerValue $18F9
+   827 W16       ScriptPos $4D909 PointerPos $4C876 PointerValue $18F9
+   828 W16       ScriptPos $4D909 PointerPos $4D10E PointerValue $18F9
+Which type?[BRK] Friends    Items[END]
+   835 W16       ScriptPos $4D918 PointerPos $4C7C4 PointerValue $1908
+Which type?[BRK] Friends    Items[END]
+   843 W16       ScriptPos $4D92D PointerPos $4C7C6 PointerValue $191D
+Which type?[BRK] Friends    Items[END]
+   852 W16       ScriptPos $4D948 PointerPos $4C7C8 PointerValue $1938
+Which type?[BRK] Friends    Items[END]
+   859 W16       ScriptPos $4D957 PointerPos $4C7CA PointerValue $1947
+Which type?[BRK] Friends    Items[END]
+   866 W16       ScriptPos $4D968 PointerPos $4C7CC PointerValue $1958
+Which type?[BRK] Friends    Items[END]
+   876 W16       ScriptPos $4D9A8 PointerPos $4C7CE PointerValue $1998
+Which type?[BRK] Friends    Items[END]
+   883 W16       ScriptPos $4D9B7 PointerPos $4C7D0 PointerValue $19A7
+Which type?[BRK] Friends    Items[END]
+   891 W16       ScriptPos $4D9DE PointerPos $4C7D2 PointerValue $19CE
+Which type?[BRK] Friends    Items[END]
+   898 W16       ScriptPos $4D9EF PointerPos $4C7D4 PointerValue $19DF
+Which type?[BRK] Friends    Items[END]
+   905 W16       ScriptPos $4DA04 PointerPos $4C7D6 PointerValue $19F4
+Which type?[BRK] Friends    Items[END]
+   912 W16       ScriptPos $4DA1D PointerPos $4C7D8 PointerValue $1A0D
+Which type?[BRK] Friends    Items[END]
+   919 W16       ScriptPos $4DA2C PointerPos $4C7DA PointerValue $1A1C
+Which type?[BRK] Friends    Items[END]
+   928 W16       ScriptPos $4DA47 PointerPos $4C7DC PointerValue $1A37
+Which type?[BRK] Friends    Items[END]
+   936 W16       ScriptPos $4DA5E PointerPos $4C7DE PointerValue $1A4E
+   937 W16       ScriptPos $4DA5E PointerPos $4C7E0 PointerValue $1A4E
+Which type?[BRK] Friends    Items[END]
+   944 W16       ScriptPos $4DA71 PointerPos $4C7E2 PointerValue $1A61
+Which type?[BRK] Friends    Items[END]
+   951 W16       ScriptPos $4DA77 PointerPos $4C7E4 PointerValue $1A67
+Which type?[BRK] Friends    Items[END]
+   958 W16       ScriptPos $4DA84 PointerPos $4C7E6 PointerValue $1A74
+Which type?[BRK] Friends    Items[END]
+   965 W16       ScriptPos $4DA94 PointerPos $4C7E8 PointerValue $1A84
+Which type?[BRK] Friends    Items[END]
+   972 W16       ScriptPos $4DAA5 PointerPos $4C7EA PointerValue $1A95
+Which type?[BRK] Friends    Items[END]
+   979 W16       ScriptPos $4DABD PointerPos $4C7EC PointerValue $1AAD
+Which type?[BRK] Friends    Items[END]
+   986 W16       ScriptPos $4DAC8 PointerPos $4C7EE PointerValue $1AB8
+Which type?[BRK] Friends    Items[END]
+   993 W16       ScriptPos $4DAD6 PointerPos $4C7F0 PointerValue $1AC6
+Which type?[BRK] Friends    Items[END]
+  1000 W16       ScriptPos $4DAE7 PointerPos $4C7F2 PointerValue $1AD7
+Which type?[BRK] Friends    Items[END]
+  1007 W16       ScriptPos $4DAF6 PointerPos $4C7F4 PointerValue $1AE6
+Which type?[BRK] Friends    Items[END]
+  1014 W16       ScriptPos $4DB08 PointerPos $4C7F6 PointerValue $1AF8
+Which type?[BRK] Friends    Items[END]
+  1021 W16       ScriptPos $4DB1F PointerPos $4C7F8 PointerValue $1B0F
+Which type?[BRK] Friends    Items[END]
+  1030 W16       ScriptPos $4DB45 PointerPos $4C7FA PointerValue $1B35
+Which type?[BRK] Friends    Items[END]
+  1037 W16       ScriptPos $4DB53 PointerPos $4C7FC PointerValue $1B43
+Which type?[BRK] Friends    Items[END]
+  1044 W16       ScriptPos $4DB62 PointerPos $4C7FE PointerValue $1B52
+Which type?[BRK] Friends    Items[END]
+  1051 W16       ScriptPos $4DB6F PointerPos $4C800 PointerValue $1B5F
+Which type?[BRK] Friends    Items[END]
+  1058 W16       ScriptPos $4DB81 PointerPos $4C802 PointerValue $1B71
+Which type?[BRK] Friends    Items[END]
+  1065 W16       ScriptPos $4DB91 PointerPos $4C804 PointerValue $1B81
+Which type?[BRK] Friends    Items[END]
+  1072 W16       ScriptPos $4DBA5 PointerPos $4C806 PointerValue $1B95
+Which type?[BRK] Friends    Items[END]
+  1080 W16       ScriptPos $4DBC4 PointerPos $4C808 PointerValue $1BB4
+Which type?[BRK] Friends    Items[END]
+  1087 W16       ScriptPos $4DBD2 PointerPos $4C80A PointerValue $1BC2
+Which type?[BRK] Friends    Items[END]
+  1094 W16       ScriptPos $4DBE3 PointerPos $4C80C PointerValue $1BD3
+Which type?[BRK] Friends    Items[END]
+  1102 W16       ScriptPos $4DC03 PointerPos $4C80E PointerValue $1BF3
+Which type?[BRK] Friends    Items[END]
+  1109 W16       ScriptPos $4DC10 PointerPos $4C810 PointerValue $1C00
+Which type?[BRK] Friends    Items[END]
+  1116 W16       ScriptPos $4DC24 PointerPos $4C812 PointerValue $1C14
+Which type?[BRK] Friends    Items[END]
+  1123 W16       ScriptPos $4DC3C PointerPos $4C814 PointerValue $1C2C
+Which type?[BRK] Friends    Items[END]
+  1131 W16       ScriptPos $4DC50 PointerPos $4C816 PointerValue $1C40
+Which type?[BRK] Friends    Items[END]
+  1138 W16       ScriptPos $4DC61 PointerPos $4C818 PointerValue $1C51
+Which type?[BRK] Friends    Items[END]
+  1146 W16       ScriptPos $4DC7D PointerPos $4C81A PointerValue $1C6D
+Which type?[BRK] Friends    Items[END]
+  1153 W16       ScriptPos $4DC91 PointerPos $4C81C PointerValue $1C81
+Which type?[BRK] Friends    Items[END]
+  1160 W16       ScriptPos $4DCA3 PointerPos $4C81E PointerValue $1C93
+Which type?[BRK] Friends    Items[END]
+  1168 W16       ScriptPos $4DCAF PointerPos $4C820 PointerValue $1C9F
+Which type?[BRK] Friends    Items[END]
+  1177 W16       ScriptPos $4DCCC PointerPos $4C822 PointerValue $1CBC
+Which type?[BRK] Friends    Items[END]
+  1185 W16       ScriptPos $4DCE2 PointerPos $4C824 PointerValue $1CD2
+Which type?[BRK] Friends    Items[END]
+  1192 W16       ScriptPos $4DCF8 PointerPos $4C826 PointerValue $1CE8
+Which type?[BRK] Friends    Items[END]
+  1202 W16       ScriptPos $4DD0A PointerPos $4C828 PointerValue $1CFA
+  1203 W16       ScriptPos $4DD0A PointerPos $4C82A PointerValue $1CFA
+  1204 W16       ScriptPos $4DD0A PointerPos $4C82C PointerValue $1CFA
+  1205 W16       ScriptPos $4DD0A PointerPos $4C82E PointerValue $1CFA
+Which type?[BRK] Friends    Items[END]
+  1212 W16       ScriptPos $4DD13 PointerPos $4C830 PointerValue $1D03
+Which type?[BRK] Friends    Items[END]
+  1219 W16       ScriptPos $4DD1E PointerPos $4C832 PointerValue $1D0E
+Which type?[BRK] Friends    Items[END]
+  1226 W16       ScriptPos $4DD30 PointerPos $4C834 PointerValue $1D20
+Which type?[BRK] Friends    Items[END]
+  1235 W16       ScriptPos $4DD4B PointerPos $4C836 PointerValue $1D3B
+Which type?[BRK] Friends    Items[END]
+  1243 W16       ScriptPos $4DD62 PointerPos $4C838 PointerValue $1D52
+Which type?[BRK] Friends    Items[END]
+  1250 W16       ScriptPos $4DD74 PointerPos $4C83A PointerValue $1D64
+Which type?[BRK] Friends    Items[END]
+  1257 W16       ScriptPos $4DD8A PointerPos $4C83C PointerValue $1D7A
+Which type?[BRK] Friends    Items[END]
+  1264 W16       ScriptPos $4DD9C PointerPos $4C83E PointerValue $1D8C
+Which type?[BRK] Friends    Items[END]
+  1271 W16       ScriptPos $4DDB2 PointerPos $4C840 PointerValue $1DA2
+Which type?[BRK] Friends    Items[END]
+  1279 W16       ScriptPos $4DDD2 PointerPos $4C842 PointerValue $1DC2
+Which type?[BRK] Friends    Items[END]
+  1286 W16       ScriptPos $4DDE3 PointerPos $4C844 PointerValue $1DD3
+Which type?[BRK] Friends    Items[END]
+  1295 W16       ScriptPos $4DE05 PointerPos $4C846 PointerValue $1DF5
+Which type?[BRK] Friends    Items[END]
+  1303 W16       ScriptPos $4DE15 PointerPos $4C848 PointerValue $1E05
+  1304 W16       ScriptPos $4DE15 PointerPos $4C84A PointerValue $1E05
+Which type?[BRK] Friends    Items[END]
+  1312 W16       ScriptPos $4DE21 PointerPos $4C84C PointerValue $1E11
+  1313 W16       ScriptPos $4DE21 PointerPos $4C84E PointerValue $1E11
+Which type?[BRK] Friends    Items[END]
+  1322 W16       ScriptPos $4DE43 PointerPos $4C850 PointerValue $1E33
+Which type?[BRK] Friends    Items[END]
+  1331 W16       ScriptPos $4DE74 PointerPos $4C852 PointerValue $1E64
+Which type?[BRK] Friends    Items[END]
+  1337 W16       ScriptPos $4DE8C PointerPos $4C854 PointerValue $1E7C
+Which type?[BRK] Friends    Items[END]
+  1344 W16       ScriptPos $4DE9C PointerPos $4C856 PointerValue $1E8C
+Which type?[BRK] Friends    Items[END]
+  1351 W16       ScriptPos $4DEB1 PointerPos $4C858 PointerValue $1EA1
+Which type?[BRK] Friends    Items[END]
+  1358 W16       ScriptPos $4DEC6 PointerPos $4C85A PointerValue $1EB6
+Which type?[BRK] Friends    Items[END]
+  1367 W16       ScriptPos $4DEE8 PointerPos $4C85C PointerValue $1ED8
+Which type?[BRK] Friends    Items[END]
+  1374 W16       ScriptPos $4DEFE PointerPos $4C85E PointerValue $1EEE
+Which type?[BRK] Friends    Items[END]
+  1381 W16       ScriptPos $4DF0B PointerPos $4C860 PointerValue $1EFB
+Which type?[BRK] Friends    Items[END]
+  1389 W16       ScriptPos $4DF3A PointerPos $4C862 PointerValue $1F2A
+Which type?[BRK] Friends    Items[END]
+  1398 W16       ScriptPos $4DF5A PointerPos $4C864 PointerValue $1F4A
+Which type?[BRK] Friends    Items[END]
+  1409 W16       ScriptPos $4DF9A PointerPos $4C866 PointerValue $1F8A
+Which type?[BRK] Friends    Items[END]
+  1420 W16       ScriptPos $4DFD4 PointerPos $4C868 PointerValue $1FC4
+Which type?[BRK] Friends    Items[END]
+  1430 W16       ScriptPos $4E010 PointerPos $4C86A PointerValue $2000
+Which type?[BRK] Friends    Items[END]
+  1439 W16       ScriptPos $4E036 PointerPos $4C86C PointerValue $2026
+Which type?[BRK] Friends    Items[END]
+  1446 W16       ScriptPos $4E048 PointerPos $4C86E PointerValue $2038
+Which type?[BRK] Friends    Items[END]
+  1453 W16       ScriptPos $4E05A PointerPos $4C870 PointerValue $204A
+Which type?[BRK] Friends    Items[END]
+  1460 W16       ScriptPos $4E06D PointerPos $4C872 PointerValue $205D
+Which type?[BRK] Friends    Items[END]
+  1469 W16       ScriptPos $4E085 PointerPos $4C878 PointerValue $2075
+Which type?[BRK] Friends    Items[END]
+  1477 W16       ScriptPos $4E0AC PointerPos $4C87A PointerValue $209C
+Which type?[BRK] Friends    Items[END]
+  1487 W16       ScriptPos $4E0B9 PointerPos $4C87C PointerValue $20A9
+  1488 W16       ScriptPos $4E0B9 PointerPos $4C87E PointerValue $20A9
+  1489 W16       ScriptPos $4E0B9 PointerPos $4C880 PointerValue $20A9
+  1490 W16       ScriptPos $4E0B9 PointerPos $4C882 PointerValue $20A9
+Which type?[BRK] Friends    Items[END]
+  1498 W16       ScriptPos $4E0D9 PointerPos $4C884 PointerValue $20C9
+Which type?[BRK] Friends    Items[END]
+  1505 W16       ScriptPos $4E0E9 PointerPos $4C886 PointerValue $20D9
+Which type?[BRK] Friends    Items[END]
+  1530 W16       ScriptPos $4E0FB PointerPos $4C888 PointerValue $20EB
+  1531 W16       ScriptPos $4E0FB PointerPos $4C88A PointerValue $20EB
+  1532 W16       ScriptPos $4E0FB PointerPos $4C88C PointerValue $20EB
+  1533 W16       ScriptPos $4E0FB PointerPos $4C88E PointerValue $20EB
+  1534 W16       ScriptPos $4E0FB PointerPos $4C890 PointerValue $20EB
+  1535 W16       ScriptPos $4E0FB PointerPos $4C892 PointerValue $20EB
+  1536 W16       ScriptPos $4E0FB PointerPos $4C894 PointerValue $20EB
+  1537 W16       ScriptPos $4E0FB PointerPos $4C896 PointerValue $20EB
+  1538 W16       ScriptPos $4E0FB PointerPos $4C898 PointerValue $20EB
+  1539 W16       ScriptPos $4E0FB PointerPos $4C89A PointerValue $20EB
+  1540 W16       ScriptPos $4E0FB PointerPos $4C89C PointerValue $20EB
+  1541 W16       ScriptPos $4E0FB PointerPos $4C89E PointerValue $20EB
+  1542 W16       ScriptPos $4E0FB PointerPos $4C8A0 PointerValue $20EB
+  1543 W16       ScriptPos $4E0FB PointerPos $4C8A2 PointerValue $20EB
+  1544 W16       ScriptPos $4E0FB PointerPos $4C8A4 PointerValue $20EB
+  1545 W16       ScriptPos $4E0FB PointerPos $4C8A6 PointerValue $20EB
+  1546 W16       ScriptPos $4E0FB PointerPos $4C8A8 PointerValue $20EB
+  1547 W16       ScriptPos $4E0FB PointerPos $4C8AA PointerValue $20EB
+Which type?[BRK] Friends    Items[END]
+  1552 W16       ScriptPos $4E10D PointerPos $4C8AC PointerValue $20FD
+Which type?[BRK] Friends    Items[END]
+  1558 W16       ScriptPos $4E121 PointerPos $4C8AE PointerValue $2111
+Which type?[BRK] Friends    Items[END]
+  1565 W16       ScriptPos $4E133 PointerPos $4C8B0 PointerValue $2123
+Which type?[BRK] Friends    Items[END]
+  1572 W16       ScriptPos $4E14A PointerPos $4C8B2 PointerValue $213A
+Which type?[BRK] Friends    Items[END]
+  1578 W16       ScriptPos $4E161 PointerPos $4C8B4 PointerValue $2151
+Which type?[BRK] Friends    Items[END]
+  1585 W16       ScriptPos $4E16B PointerPos $4C8B6 PointerValue $215B
+Which type?[BRK] Friends    Items[END]

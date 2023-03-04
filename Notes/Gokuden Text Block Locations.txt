@@ -1,8 +1,7 @@
 Text
 ================================================================================
 
-Some Stat Screen stuff:
-0x02E00-0x031C0
+
 
 Techniques:
 0x01BB6-0x01C29
@@ -14,6 +13,14 @@ Items (Characters):
  - Bulma through Uranai Baba
 
 
+Some Stat Screen stuff:
+0x02E00-0x031C0
+
+
+Title Screen Footer:
+0x03C44-0x03C86
+
+
 Battle Text:
 0x0C445-0x0C72E
 
@@ -21,6 +28,15 @@ Battle Text:
 Characters:
 0x0C9D3-0x0CB73
  - Goku through Oolong
+
+
+Credits:
+0x17BD6-17C20
+
+
+NON-TEXT:
+Graphics:
+0x1FC10-0x4880F
 
 
 Definitely Story + Other Stuff:
@@ -48,7 +64,3 @@ Likely Junk (occurs at very end of file):
 	   #W16($4CABE)
 	   た　たのむ！　そのばしょうせんで　あのやまのひを[BRK]
 	   けすてくれねいべか？」[END]
-
-NON-TEXT:
-Graphics:
-0x1FC10-0x4880F
