@@ -1,5 +1,6 @@
 # Avoid copyright issues
 *.exe
+*.dll
 *.nes
 *.deb
 *.cdl

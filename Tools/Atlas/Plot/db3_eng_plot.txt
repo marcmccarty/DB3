@@ -1115,7 +1115,7 @@ Got granny panties![END]
 
 #W16($4C812)
 //かめせんにん「まあ　よかろう。」[END]
-Roshi(Well, that works[.][END]
+Roshi(We[ll],that works[.][END]
 
 
 //POINTER #152 @ $4C814 - STRING #152 @ $4DBDD
@@ -1700,16 +1700,19 @@ road.[END]
 //POINTER #246 @ $4C8D0 - STRING #246 @ $4E28A
 
 #W16($4C8D0)
-ウミガメ「それは　さんぞくどもに　うばわれた[BRK]
-にょいぼう！　ありがとうございます。[END]
+// ウミガメ「それは　さんぞくどもに　うばわれた[BRK]
+// にょいぼう！　ありがとうございます。[END]
+Turtle(Tha[t']s the power[BRK]
+pole the bandits stole![END]
 
 
 //POINTER #247 @ $4C8D2 - STRING #247 @ $4E2B4
 
 #W16($4C8D2)
-おれいをしたいのですが　わたしを　ウミまで[BRK]
-つれていってもらえますか？」[BRK]
-ゴクウ「よし　オラがウミへ　つれてってやろう。」[END]
+// おれいをしたいのですが　わたしを　ウミまで[BRK]
+// つれていってもらえますか？」[BRK]
+// ゴクウ「よし　オラがウミへ　つれてってやろう。」[END]
+
 
 
 //POINTER #248 @ $4C8D4 - STRING #248 @ $4E2F2
