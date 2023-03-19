@@ -29,11 +29,71 @@ NesMemory:4014:SpriteDma_4014:Writing $XX will upload 256 bytes of data from CPU
 NesMemory:4015:ApuStatus_4015:Read:\nIF-D NT21\nDMC interrupt (I), frame interrupt (F), DMC active (D), length counter > 0 (N/T/2/1)\n\nWrite:\n---D NT21\nEnable DMC (D), noise (N), triangle (T), and pulse channels (2/1)
 NesMemory:4016:Ctrl1_4016:Read (NES - input):\n---4 3210\nRead data from controller port #1.\n\nWrite:\n---- ---A\nOutput data (strobe) to both controllers.
 NesMemory:4017:Ctrl2_FrameCtr_4017:Read (NES - input):\n---4 3210\nRead data from controller port #2.\n\nWrite (Frame counter): MI-- ----\nMode (M, 0 = 4-step, 1 = 5-step), IRQ inhibit flag (I)
+NesMemory:6000:CHR_ROM_Bank_1:Select 1 KiB CHR-ROM bank at PPU $0000-$03FF
+NesMemory:6001:CHR_ROM_Bank_2:Select 1 KiB CHR-ROM bank at PPU $0400-$07FF
+NesMemory:6002:CHR_ROM_Bank_3:Select 1 KiB CHR-ROM bank at PPU $0800-$0BFF
+NesMemory:6004:CHR_ROM_Bank_5:Select 1 KiB CHR-ROM bank at PPU $1000-$13FF
+NesMemory:6005:CHR_ROM_Bank_6:Select 1 KiB CHR-ROM bank at PPU $1400-$17FF
+NesMemory:6006:CHR_ROM_Bank_7:Select 1 KiB CHR-ROM bank at PPU $1800-$1BFF
+NesMemory:6007:CHR_ROM_Bank_8:Select 1 KiB CHR-ROM bank at PPU $1C00-$1FFF
+NesMemory:6008:PRG_ROM_Bank:Mask: $E00F (Submapper 4), $800F (Submapper 5)\n\n7  bit  0\n---- ----\n.... PPPP\n     ||||\n     ++++-- Select 16 KiB PRG-ROM bank at CPU $8000-$BFFF  
+NesMemory:6009:Nametable_Mirroring_Type:Mask: $E00F (Submapper 4), $800F (Submapper 5)\n\n7  bit  0\n---- ----\n.... ..MM\n       ||\n       ++-- Select nametable mirroring type\n             0: Vertical\n             1: Horizontal\n             2: One-screen, page 0\n             3: One-screen, page 1
+NesMemory:600A:IRQ_Control:Mask: $E00F (Submapper 4), $800F (Submapper 5)\n\n7  bit  0\n---- ----\n.... ...C\n        |\n        +-- IRQ counter control\n             0: Counting disabled\n             1: Counting enabled\n;Writing to this register acknowledges a pending IRQ.\n;On the LZ93D50 (Submapper 5), writing to this register also copies the latch to the actual counter.\n;If a write to this register enables counting while the counter is holding a value of zero, an IRQ is generated immediately.
+NesMemory:600B:IRQ_Latch_slash_Counter_LowByte:Mask: $E00F (Submapper 4), $800F (Submapper 5)\n\n   $C         $B\n7  bit  0  7  bit  0\n---- ----  ---- ----\nCCCC CCCC  CCCC CCCC\n|||| ||||  |||| ||||\n++++-++++--++++-++++-- Counter value (little-endian)\n;If counting is enabled, the counter decreases on every M2 cycle. When it holds a value of zero, an IRQ is generated.\n;On the FCG-1/2 (Submapper 4), writing to these two registers directly modifies the counter itself; all such games therefore disable counting before changing the counter value.\n;On the LZ93D50 (Submapper 5), these registers instead modify a latch that will only be copied to the actual counter when register $800A is written to.
+NesMemory:600C:IRQ_Latch_slash_Counter_HighByte:Mask: $E00F (Submapper 4), $800F (Submapper 5)\n\n   $C         $B\n7  bit  0  7  bit  0\n---- ----  ---- ----\nCCCC CCCC  CCCC CCCC\n|||| ||||  |||| ||||\n++++-++++--++++-++++-- Counter value (little-endian)\n;If counting is enabled, the counter decreases on every M2 cycle. When it holds a value of zero, an IRQ is generated.\n;On the FCG-1/2 (Submapper 4), writing to these two registers directly modifies the counter itself; all such games therefore disable counting before changing the counter value.\n;On the LZ93D50 (Submapper 5), these registers instead modify a latch that will only be copied to the actual counter when register $800A is written to.
 NesMemory:FFF0:battleModeDebug
-NesPrgRom:1E047:somePartOfTextRoutine_GiveRealNameLater
+NesPrgRom:C83D:checkForMaxLineLength
+NesPrgRom:C850:newLineLogic
+NesPrgRom:1C000:JMP_TABLE
+NesPrgRom:1C003:JMP_TABLE_screenSwitchingLogic
+NesPrgRom:1C021:JMP_TABLE_Switch_Nametable_Mirroring_Type
+NesPrgRom:1C045:JMP_TABLE_textRoutine
+NesPrgRom:1C0D8:initializeGameState
+NesPrgRom:1C17D:screenSwitchingLogic
+NesPrgRom:1DAFE:Switch_CHR_ROM_Bank_1
+NesPrgRom:1DB04:Switch_CHR_ROM_Bank_2
+NesPrgRom:1DB0A:Switch_CHR_ROM_Bank_3
+NesPrgRom:1DB10:Switch_CHR_ROM_Bank_4
+NesPrgRom:1DB16:Switch_CHR_ROM_Bank_5
+NesPrgRom:1DB1C:Switch_CHR_ROM_Bank_6
+NesPrgRom:1DB22:Switch_CHR_ROM_Bank_7
+NesPrgRom:1DB28:Switch_CHR_ROM_Bank_8
+NesPrgRom:1DB2E:Switch_PRG_ROM_Bank
+NesPrgRom:1DB34:Switch_Nametable_Mirroring_Type
+NesPrgRom:1DB3A:Handle_IRQ_Control
+NesPrgRom:1DB40:Handle_IRQ_Latch_slash_Counter_LowByte
+NesPrgRom:1DB46:Handle_IRQ_Latch_slash_Counter_HighByte
+NesPrgRom:1DFBB:characterHasHandakuten
+NesPrgRom:1DFC1:characterHasNoHandakuten
+NesPrgRom:1DFD6:translateCharacterToPPUTable
+NesPrgRom:1E047:textRoutine
+NesPrgRom:1E052:textRoutine_load_y
+NesPrgRom:1E057:textRoutine_ppu_set_up
+NesPrgRom:1E069:textRoutine_vram_set_up
+NesPrgRom:1E07C:textRoutine_preamble_to_the_end
+NesPrgRom:1E082:textRoutine_end_of_routine
 NesPrgRom:1E0FE:loadTextPointer
+NesPrgRom:1FFA3:test_text
+NesPrgRom:1FFAA:ye_ol_check
+NesPrgRom:1FFAF:ppu_text_prep
+NesPrgRom:1FFB1:vram_access_2
+NesPrgRom:1FFBA:vram_access_1
 NesInternalRam:004A:controllerOneInput
-NesInternalRam:004B:controllerTwoInput
+NesInternalRam:0062:CHR_ROM_Bank_1_Storage
+NesInternalRam:0063:CHR_ROM_Bank_2_Storage
+NesInternalRam:0064:CHR_ROM_Bank_3_Storage
+NesInternalRam:0065:CHR_ROM_Bank_4_Storage
+NesInternalRam:0066:CHR_ROM_Bank_5_Storage
+NesInternalRam:0067:CHR_ROM_Bank_6_Storage
+NesInternalRam:0068:CHR_ROM_Bank_7_Storage
+NesInternalRam:0069:CHR_ROM_Bank_8_Storage
+NesInternalRam:006A:PRG_ROM_Bank_Storage
+NesInternalRam:006B:Nametable_Mirroring_Type_Storage
+NesInternalRam:006C:IRQ_Control_Storage
+NesInternalRam:006D:IRQ_Latch_slash_Counter_LowByte_Storage
+NesInternalRam:006E:IRQ_Latch_slash_Counter_HighByte_Storage
+NesInternalRam:0204:characterForPPU_Handakuten
+NesInternalRam:0205:characterForPPU_Base
 NesInternalRam:0322:cursorLocation
 NesInternalRam:0329:currentEnemyOneID
 NesInternalRam:032A:currentEnemyTwoID
@@ -69,10 +129,12 @@ NesInternalRam:0433:cardFourAttack
 NesInternalRam:0434:cardFourTypeAndDefense
 NesInternalRam:0435:cardFiveAttack
 NesInternalRam:0436:cardFiveTypeAndDefense
-NesInternalRam:0439:currentTextBoxLinePostion
+NesInternalRam:0439:currentTextBoxLineLength:Including $FE or $FF control code
 NesInternalRam:043A:currentTextBox
 NesInternalRam:043C:textPointerByte1
 NesInternalRam:043D:textPointerByte2
+NesInternalRam:043F:currentLineIndex:according to RHDN Discord leina
+NesInternalRam:0440:currentTextLinePosition
 NesInternalRam:0495:stepsRemaining:Starts at the selected card's value and decrements with each step.
 NesInternalRam:0496:boardSpaceType
 NesInternalRam:04A2:areaID
@@ -80,3 +142,4 @@ NesInternalRam:04A3:areaSpaceID
 NesInternalRam:0580:passwordScreenRow
 NesInternalRam:0581:passwordScreenColumn
 NesInternalRam:0582:passwordScreenCharacterNumber
+NesWorkRam:0003:CHR_ROM_Bank_4:Select 1 KiB CHR-ROM bank at PPU $0C00-$0FFF

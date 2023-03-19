@@ -1489,7 +1489,7 @@ Don't go yet.[END]
 #W16($4C880)
 #W16($4C882)
 // まわりは　やまばっかりです。[END]
-There are only mountains
+There are only mountains[BRK]
 around.[END]
 
 

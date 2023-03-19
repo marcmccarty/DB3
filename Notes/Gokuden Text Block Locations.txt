@@ -43,7 +43,7 @@ Definitely Story + Other Stuff:
 0x4D116-0x551FB
 
 
-Adventure Commands, I think:
+Adventure Commands:
 0x5C010-0x5C405
  - Investigate through Grandpa (しらべる through じいちゃん)
 
