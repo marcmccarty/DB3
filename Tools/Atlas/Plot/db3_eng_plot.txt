@@ -1430,8 +1430,8 @@ What awaits our heroes?[END]
 #W16($4C86A)
 // 　ぜんたいマップ　　　　ゴクウのじょうたい[BRK]
 // 　カード　　　　　　　　パスワード[END]
- Map        Goku[BRK]
- Cards      Password[END]
+[BRK] Map        Goku[BRK]
+[BRK] Cards      Password[END]
 
 
 //POINTER #196 @ $4C86C - STRING #196 @ $4DFA4
